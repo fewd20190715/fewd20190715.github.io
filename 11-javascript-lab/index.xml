@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Javascript Lab on FEWD</title>
+    <link>http://example.org/11-javascript-lab/</link>
+    <description>Recent content in Javascript Lab on FEWD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 22 Jan 2017 18:04:24 -0500</lastBuildDate>
+    
+	<atom:link href="http://example.org/11-javascript-lab/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Objectives</title>
+      <link>http://example.org/11-javascript-lab/objectives/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>http://example.org/11-javascript-lab/objectives/</guid>
+      <description> Apply knowledge of HTML, CSS and Javascript to build an application  </description>
+    </item>
+    
+    <item>
+      <title>Agenda</title>
+      <link>http://example.org/11-javascript-lab/agenda/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>http://example.org/11-javascript-lab/agenda/</guid>
+      <description> Review concepts covered last class
+ Lab: Weather Application
+  </description>
+    </item>
+    
+    <item>
+      <title>Last Class Review</title>
+      <link>http://example.org/11-javascript-lab/last-class-review/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>http://example.org/11-javascript-lab/last-class-review/</guid>
+      <description>What are Functions?  Allows you to group a series of statements together to perform a specific task
+ Functions are used to promote “code reuse”
+ You can control when functions are executed, for example - you can write functions that only get executed (or called) when a user clicks a specific button
+  // a simple function that greets you with a &#39;Good Morning&#39; alert // 1) Declare a function named greeting function greeting(){ alert(&#39;Good Morning&#39;); }; // 2) Call (or run) the function greeting();  Declaring a Function  Use the function keyword to declare a function</description>
+    </item>
+    
+    <item>
+      <title>Lab Overview</title>
+      <link>http://example.org/11-javascript-lab/lab-overview/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>http://example.org/11-javascript-lab/lab-overview/</guid>
+      <description>Lab: Weather Appliction  You will build a Weather Application that converts a Celsius temperature input by a user to Fahrenheit and changes the background image according to the weather.  Requirements  Application will take Celsius temperature (via user input) and convert it to Fahrenheit Application will change the background image of the page to match the new temperature  Please Note: The layout and &amp;ldquo;look and feel&amp;rdquo; of the application is totally up to you as long as you meet the requirements above</description>
+    </item>
+    
+    <item>
+      <title>Milestone #1</title>
+      <link>http://example.org/11-javascript-lab/milestone-1/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>http://example.org/11-javascript-lab/milestone-1/</guid>
+      <description>Follow the steps below to complete Milestone #1:
+In groups of three or four students:
+ Document the requirements of the proposed application
+ User stories are a good way to document requirements, learn more here  Write the pseudo code for the application
+  Timebox: 20 minutes</description>
+    </item>
+    
+    <item>
+      <title>Milestone #2</title>
+      <link>http://example.org/11-javascript-lab/milestone-2/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>http://example.org/11-javascript-lab/milestone-2/</guid>
+      <description>Follow the steps below to complete Milestone #2:
+In your groups:
+ Set up your projects (folder structure) Write the code that will do the following process temperature (in Celsius) input by a user and convert that temparature to Fahrenheit and Display the result on the screen  Timebox: 60 minutes
+Note: While you will be working within a group, each student should have their own copy of the project on their computers</description>
+    </item>
+    
+    <item>
+      <title>Milestone #3</title>
+      <link>http://example.org/11-javascript-lab/milestone-3/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>http://example.org/11-javascript-lab/milestone-3/</guid>
+      <description>Follow the steps below to complete Milestone #3:
+In your groups:
+ Complete the application by adding logic that changes the background image to reflect the converted temperature   Example: If the converted temperature is 10 F (degrees) the background image should represent something cold
+ Make the application your own - choose your own background images
+  Timebox: 20 to 30 minutes
+Note: While you will be working within a group, each student should have their own copy of the project on their computers</description>
+    </item>
+    
+    <item>
+      <title>Bonus Milestone</title>
+      <link>http://example.org/11-javascript-lab/bonus-milestone/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>http://example.org/11-javascript-lab/bonus-milestone/</guid>
+      <description>Follow the steps below to complete the Bonus Milestone:
+ Add logic that also allows users to convert from Fahrenheit to Celsius (currently the application only converts from Celsius to Fahrenheit)
+ Add logic that displays an error message when the user enters a non number (for example: when users enter a letter or a special character such as &amp;ldquo;#&amp;rdquo; or &amp;ldquo;$&amp;rdquo; into the text field and tries to calculate the temperature conversion)</description>
+    </item>
+    
+    <item>
+      <title>Homework</title>
+      <link>http://example.org/11-javascript-lab/homework/</link>
+      <pubDate>Sun, 22 Jan 2017 18:05:18 -0500</pubDate>
+      
+      <guid>http://example.org/11-javascript-lab/homework/</guid>
+      <description> Homework Assignment - CitiPix Directions:
+1) Fork the following respository:
+Homework #4
+ Review the assignment here
+ Use process covered in the Git/Github Tutorial to submit your assignment
+  </description>
+    </item>
+    
+  </channel>
+</rss>

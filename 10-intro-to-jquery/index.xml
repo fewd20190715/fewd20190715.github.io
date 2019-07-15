@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Intro to jQuery on FEWD</title>
+    <link>/10-intro-to-jquery/</link>
+    <description>Recent content in Intro to jQuery on FEWD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/10-intro-to-jquery/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Agenda</title>
+      <link>/10-intro-to-jquery/agenda/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/10-intro-to-jquery/agenda/</guid>
+      <description> Programming protips
+ jQuery Overview
+ See jQuery in Action (Code Examples)
+ Code Along: Color Scheme Switcher (with jQuery)
+ Lab: jQuery DOM Selector Practice
+  </description>
+    </item>
+    
+    <item>
+      <title>Programming Protips</title>
+      <link>/10-intro-to-jquery/programming-protips/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/10-intro-to-jquery/programming-protips/</guid>
+      <description>Bugs &amp;amp; errors will always happen and they are a good thing consider them to be Learning Opportunities
+ When an error occurs, take the following steps:
+ Take deep breath Read the error message (look for clues) Find the source of the error (i.e. which line of code is causing the error) Fix the error  The process of fixing bugs is also referred to as debugging
+    Use your developer console always</description>
+    </item>
+    
+    <item>
+      <title>Document Object Model</title>
+      <link>/10-intro-to-jquery/dom-intro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/10-intro-to-jquery/dom-intro/</guid>
+      <description>Document Object Model (DOM)  Browsers view our webpages as documents
+ Programming interface for HTML documents
+ The DOM allows us to use a programming language (Javascript) to make dynamic changes to our web pages  Using Javascript to dynamically change our web pages is also referred to as manipulating the DOM
+  Example: Visual representation of the DOM
+In the image above, we have a html document on the left and a visual representation of this page&amp;rsquo;s DOM on the right</description>
+    </item>
+    
+    <item>
+      <title>Code Along - Color Scheme Switcher using jQquery</title>
+      <link>/10-intro-to-jquery/code-along-color-scheme-switcher-jquery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/10-intro-to-jquery/code-along-color-scheme-switcher-jquery/</guid>
+      <description> Code Along: Color Switcher using jQuery  Using Atom, open the folder called color_scheme_switcher_jquery in your lesson_10_files folder. You will be using these files as starting off point.
+ During this exercise, we&amp;rsquo;ll be doing the following:
+ We&amp;rsquo;ll use jQuery (instead of native javascript) to get the color scheme switcher project working   </description>
+    </item>
+    
+    <item>
+      <title>Lab - jQuery DOM Selector Practice</title>
+      <link>/10-intro-to-jquery/lab-jquery-dom-selector-practice/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/10-intro-to-jquery/lab-jquery-dom-selector-practice/</guid>
+      <description> Lab: jQuery DOM Selector Practice  Using Atom, open the folder called jquery_dom_selector_practice in your lesson_10_files folder. You will be using these files as starting off point.
+ Instructions
+ Follow the instructions specified in the exercise.js file   </description>
+    </item>
+    
+  </channel>
+</rss>

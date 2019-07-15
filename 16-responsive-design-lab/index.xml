@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Responsive Design Lab on FEWD</title>
+    <link>/16-responsive-design-lab/</link>
+    <description>Recent content in Responsive Design Lab on FEWD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/16-responsive-design-lab/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Agenda</title>
+      <link>/16-responsive-design-lab/agenda/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/16-responsive-design-lab/agenda/</guid>
+      <description> Review Concepts from last class
+ Lab: Startup Matchmaker - Responsive
+  </description>
+    </item>
+    
+    <item>
+      <title>Lab Overview</title>
+      <link>/16-responsive-design-lab/lab-overview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/16-responsive-design-lab/lab-overview/</guid>
+      <description> Lab: Startup Matchmaker  You have been hired to turn Startup Matchmaker into a fully responsive site  Requirements  Using Atom, open the folder called startup_matchmaker in your lesson_16_files folder. You will be using these files as starting off point.
+ Update Startup Matchmaker so the homepage&amp;rsquo;s content is effectively displayed on tablets or below (viewport width: 768px or below)
+  </description>
+    </item>
+    
+    <item>
+      <title>Milestone #1</title>
+      <link>/16-responsive-design-lab/milestone-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/16-responsive-design-lab/milestone-1/</guid>
+      <description>Follow the steps below to complete Milestone #1:
+In groups:
+ Create wireframes (sketches) of your proposed layout for mobile version (tablet and below) of the Startup Matchmaker landing page  Some things to think about:
+ Will you need to hide menus?
+ What content should be featured on a narrow screen?
+  Time box: 15 minutes</description>
+    </item>
+    
+    <item>
+      <title>Milestone #2</title>
+      <link>/16-responsive-design-lab/milestone-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/16-responsive-design-lab/milestone-2/</guid>
+      <description>Follow the steps below to complete Milestone #2:
+In pairs (or groups):
+ Add the the required media query / breakpoint that optimize the content to be viewable on screens that have a viewport of 768px or below.
+ Use your wireframes created from Milestone #1 to help guide you as you add the styles necessary make viewing the landing page on tablets or below an optimal experience
+  Time box: 45 minutes</description>
+    </item>
+    
+    <item>
+      <title>Milestone #3</title>
+      <link>/16-responsive-design-lab/milestone-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/16-responsive-design-lab/milestone-3/</guid>
+      <description>Follow the steps below to complete the Milestone #3:
+In pairs (or groups):
+ Implement a hamburger menu that will be displayed on narrow screens
+ When the user clicks on the hamburger menu, the hidden navigation items (i.e. Developers, Designers, How It Works, Our Team) should slide down
+  Time box: 30 minutes
+Hint: Review the Responsive Marketing Layout Code Along for an example of how to implement a hamburger menu</description>
+    </item>
+    
+  </channel>
+</rss>

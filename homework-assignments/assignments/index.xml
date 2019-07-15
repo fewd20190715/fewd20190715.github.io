@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Assignments on FEWD</title>
+    <link>/homework-assignments/assignments/</link>
+    <description>Recent content in Assignments on FEWD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/homework-assignments/assignments/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>HW #1 - Online Travel Guide</title>
+      <link>/homework-assignments/assignments/hw-01-online-travel-guide/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/homework-assignments/assignments/hw-01-online-travel-guide/</guid>
+      <description>Homework #1: Online Travel Guide Create an online travel guide for a travel destination of your choice
+Please refer to the Homework Submission Github Workflow guide for detailed instructions for starting, completing and submitting Homework Assignments
+ Directions:  Review the assignment here
+ Fork the following repository: fewd20190318/hw-01-online-travel-guide
+ Clone the assignment repository down to your computer
+ Work on your assignment and regularly commit your work
+ Submit your assignment using a Pull Request</description>
+    </item>
+    
+    <item>
+      <title>HW #2 - Relaxr Project</title>
+      <link>/homework-assignments/assignments/hw-02-relaxr-project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/homework-assignments/assignments/hw-02-relaxr-project/</guid>
+      <description>Homework #2: Relaxr Project Create a landing page and blog for an up and coming startup client.
+Please refer to the Homework Submission Github Workflow guide for detailed instructions for starting, completing and submitting Homework Assignments
+ Directions:  Review the assignment here
+ Fork the following repository: fewd20190318/hw-02-relaxr-project
+ Clone the assignment repository down to your computer
+ Work on your assignment and regularly commit your work
+ Submit your assignment using a Pull Request</description>
+    </item>
+    
+    <item>
+      <title>HW #3 - jQuery Traffic Light</title>
+      <link>/homework-assignments/assignments/hw-03-jquery-traffic-light/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/homework-assignments/assignments/hw-03-jquery-traffic-light/</guid>
+      <description>Homework #3: jQuery Traffic Light Use jQuery to make the Traffic Light application fully functional
+Please refer to the Homework Submission Github Workflow guide for detailed instructions for starting, completing and submitting Homework Assignments
+ Directions:  Review the assignment here
+ Fork the following repository: fewd20190318/hw-03-jquery-traffic-light
+ Clone the assignment repository down to your computer
+ Work on your assignment and regularly commit your work
+ Submit your assignment using a Pull Request</description>
+    </item>
+    
+    <item>
+      <title>HW #4 - Citipix</title>
+      <link>/homework-assignments/assignments/hw-04-citipix/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/homework-assignments/assignments/hw-04-citipix/</guid>
+      <description>Homework #4: Citipix Use Javascript &amp;amp; jQuery to create an interactive web application
+Please refer to the Homework Submission Github Workflow guide for detailed instructions for starting, completing and submitting Homework Assignments
+ Directions:  Review the assignment here
+ Fork the following repository: fewd20190318/hw-04-citipix
+ Clone the assignment repository down to your computer
+ Work on your assignment and regularly commit your work
+ Submit your assignment using a Pull Request</description>
+    </item>
+    
+  </channel>
+</rss>

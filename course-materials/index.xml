@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Course Materials on FEWD</title>
+    <link>/course-materials/</link>
+    <description>Recent content in Course Materials on FEWD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 17 Mar 2019 13:44:55 -0400</lastBuildDate>
+    
+	<atom:link href="/course-materials/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lesson Files</title>
+      <link>/course-materials/lesson-files/</link>
+      <pubDate>Sun, 17 Mar 2019 13:48:09 -0400</pubDate>
+      
+      <guid>/course-materials/lesson-files/</guid>
+      <description>Lesson Files  Lesson 00 files (Course Intro &amp;amp; Tools) : No files needed
+ Lesson 01 files (HTML Basics)
+ Lesson 02 files (Git/Github): No files needed
+ Lesson 03 files (Relative Paths)
+ Lesson 04 files (CSS Basics)
+ Lesson 05 files (CSS Selectors): No files needed
+ Lesson 06 files (CSS Box Model)
+ Lesson 07 files (Page Layout with Flexbox)
+ Lesson 08 files (CSS Positioning, Colors &amp;amp; Background Images)</description>
+    </item>
+    
+    <item>
+      <title>Classwork &amp; Lab Solutions</title>
+      <link>/course-materials/solutions/</link>
+      <pubDate>Sun, 17 Mar 2019 14:08:08 -0400</pubDate>
+      
+      <guid>/course-materials/solutions/</guid>
+      <description> Solutions Disclaimer: These files are not meant to be viewed as the &amp;ldquo;right answer, instead view them as a way to learn how another developer approached the same problem.
+ Lesson 01: HTML Basics  GA Press Release Solution Cookie Receipe Solution  Lesson 03: Relative Paths  Relative Paths Exercise Solution  Lesson 04: CSS Basics  Rocket Raccoon About Me Solution  Lesson 06: CSS Box Model  Fashion Blog Solution  Lesson 07: Page Layout with Flexbox  Layout Challenge Solution  Lesson 08: CSS Positioning, Colors &amp;amp; Background Images  Fashion Blog II: TBD  Lesson 09: Intro to Programming  Color Scheme Switcher Solution (native Javascript) Traffic Light Solution (native Javascript)  Lesson 10: Intro to jQuery  Color Scheme Switcher Solution (jQuery) jQuery DOM Selector Practice Solution  Lesson 11: Javascript Fundamentals  FAQ Solution Score Keeper Solution Blackout Solution Compare That Solution  Lesson 12: Functions  Geometry Calculator Solution Hilo Solution  Lesson 13: Arrays &amp;amp; Loops  Rock, Paper, Scissors Solution  Lesson 15: Responsive Design  Responsive Marketing Layout Solution  Lesson 16: Responsive Design Lab  Startup Matchmaker Responsive Solution  Lesson 17: Forms  Contact Us Form Solution  </description>
+    </item>
+    
+    <item>
+      <title>Homework Solutions</title>
+      <link>/course-materials/homework-solutions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/course-materials/homework-solutions/</guid>
+      <description> Solutions Disclaimer: These files are not meant to be viewed as the &amp;ldquo;right answer, instead view them as a way to learn how another developer approached the same problem.
+ Homework #1: Online Travel Guide Solution  No solution, assignment was specific to each student  Homework #2: Relaxr Project Solution  HW #2 Solution  Homework #3: jQuery Traffic Light Solution  HW #3 Solution  Homework #4: Citipix Solution  HW #4 Solution  </description>
+    </item>
+    
+  </channel>
+</rss>

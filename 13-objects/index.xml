@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Javascript Objects on FEWD</title>
+    <link>http://example.org/13-objects/</link>
+    <description>Recent content in Javascript Objects on FEWD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 22 Jan 2017 18:04:24 -0500</lastBuildDate>
+    
+	<atom:link href="http://example.org/13-objects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Objectives</title>
+      <link>http://example.org/13-objects/objectives/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>http://example.org/13-objects/objectives/</guid>
+      <description> Review Javascript Objects and understand why they are useful
+ See examples of how objects can be used in conjunction with arrays
+  </description>
+    </item>
+    
+    <item>
+      <title>Agenda</title>
+      <link>http://example.org/13-objects/agenda/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>http://example.org/13-objects/agenda/</guid>
+      <description> Discuss objects
+ Code Along
+ Lab: Country Flags
+  </description>
+    </item>
+    
+    <item>
+      <title>Object Overview</title>
+      <link>http://example.org/13-objects/overview/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>http://example.org/13-objects/overview/</guid>
+      <description>Objects  Objects are used to represent real world objects in programming
+ Within an object, variables are known as properties and functions are known as methods
+ Curly braces are a means of identifying if a variable is an object
+  // create an object that represents a dog var myDog = { name: &amp;quot;Fido&amp;quot;, age: 4, speak: function() { console.log(&#39;Woof woof&#39;); } }   In the example above, we created an object and stored it in a variable called myDog</description>
+    </item>
+    
+    <item>
+      <title>Using Objects with Arrays</title>
+      <link>http://example.org/13-objects/objects-with-arrays/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>http://example.org/13-objects/objects-with-arrays/</guid>
+      <description>Objects with Arrays  Since objects are used to represent real world &amp;ldquo;things&amp;rdquo;, they are often combined with arrays to represent a collection of real world things  // declaring an array that contains objects as items var shows = [ { name: &amp;quot;Breaking Bad&amp;quot;, genre: &amp;quot;Drama&amp;quot;, network: &amp;quot;AMC&amp;quot; }, { name: &amp;quot;Game of Thrones&amp;quot;, genre: &amp;quot;Fantasy&amp;quot;, network: &amp;quot;HBO&amp;quot; }, { name: &amp;quot;Silicon Valley&amp;quot;, genre: &amp;quot;Comedy&amp;quot;, network: &amp;quot;HBO&amp;quot; }, { name: &amp;quot;Narcos&amp;quot;, genre: &amp;quot;Drama&amp;quot;, network: &amp;quot;Netflix&amp;quot; }, { name: &amp;quot;Vikings&amp;quot;, genre: &amp;quot;Action&amp;quot;, network: &amp;quot;History Channel&amp;quot; }, { name: &amp;quot;Power&amp;quot;, genre: &amp;quot;Drama&amp;quot;, network: &amp;quot;Starz&amp;quot; }, ];   In the code example above, we have an array called shows that contains a collection of objects that represents some TV shows  Looping (iteration) through an array of objects  Looping through an array of objects is technically the same as looping through an array of any other datatype (i.</description>
+    </item>
+    
+    <item>
+      <title>Code Along</title>
+      <link>http://example.org/13-objects/code-along/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>http://example.org/13-objects/code-along/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Final Project Deliverable #2</title>
+      <link>http://example.org/13-objects/final-project-deliverable-2/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>http://example.org/13-objects/final-project-deliverable-2/</guid>
+      <description>Final Project Deliverable #2 (Wireframes)  Create wireframes for you final project and submit them in a digital format to this Google Drive folder
+ This is due Tuesday, October 17th
+  Please don&amp;rsquo;t buy a tool just for this deliverable, you can use pen/paper or powerpoint to create perfectly good wireframes
+ What are wireframes?  Wireframes are a visual illustration of your site&amp;rsquo;s layout and interface</description>
+    </item>
+    
+  </channel>
+</rss>

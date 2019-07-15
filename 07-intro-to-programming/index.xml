@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Intro to Programming on FEWD</title>
+    <link>http://example.org/07-intro-to-programming/</link>
+    <description>Recent content in Intro to Programming on FEWD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 22 Jan 2017 18:04:24 -0500</lastBuildDate>
+    
+	<atom:link href="http://example.org/07-intro-to-programming/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Objectives</title>
+      <link>http://example.org/07-intro-to-programming/objectives/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>http://example.org/07-intro-to-programming/objectives/</guid>
+      <description> Understand what programming is all about
+ Introduce concept of pseudocode
+ Walk through some actual code and use pattern matching to fix broken programs
+  </description>
+    </item>
+    
+    <item>
+      <title>Agenda</title>
+      <link>http://example.org/07-intro-to-programming/agenda/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>http://example.org/07-intro-to-programming/agenda/</guid>
+      <description> Discuss Final Projects
+ Last Class Review
+ What is Programming?
+ What is Pseudocode?
+ Class Exercise: Thermostat
+ Group Exercise: Rock, Paper, Scissors
+ What is Javascript?
+ Code Along: Color Scheme Switcher
+ Lab: Traffic Light
+  </description>
+    </item>
+    
+    <item>
+      <title>Final Projects</title>
+      <link>http://example.org/07-intro-to-programming/final-projects/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>http://example.org/07-intro-to-programming/final-projects/</guid>
+      <description> Final Projects are a requirement of &amp;ldquo;course completion&amp;rdquo;
+ Only requirements are the following:
+ Use of HTML and CSS Use of &amp;ldquo;some&amp;rdquo; javascript  Project should be something that you are passionate about
+ Click here for examples of what other GA students have built
+ First deliverable will be to submit potential project ideas
+  </description>
+    </item>
+    
+    <item>
+      <title>What is Programming?</title>
+      <link>http://example.org/07-intro-to-programming/what-is-programming/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>http://example.org/07-intro-to-programming/what-is-programming/</guid>
+      <description> List of instructions that a computer needs in order to complete a task
+ Instructions are provided in a programming language that the computer understands
+ These set of instructions are commonly referred as source code or a program
+  </description>
+    </item>
+    
+    <item>
+      <title>Pseudocode</title>
+      <link>http://example.org/07-intro-to-programming/pseudocode/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>http://example.org/07-intro-to-programming/pseudocode/</guid>
+      <description> Process of writing a program without using the syntax of a programming language
+ Mixture of natural language and high-level programming concepts
+ There is no standard way to write pseudocode, use langauge that can be understood by technical and non-technical people
+ Use pseudocode as an &amp;ldquo;outline&amp;rdquo; for your real code
+  </description>
+    </item>
+    
+    <item>
+      <title>Class Exercise</title>
+      <link>http://example.org/07-intro-to-programming/class-exercise/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>http://example.org/07-intro-to-programming/class-exercise/</guid>
+      <description> Class Exercise: Thermostat logic in pseudocode We&amp;rsquo;re going to use pseudocode to describe the basic functionality of a smart thermostat
+ As as class we are going to write some pseudocode for a program for a smart thermostat
+ We’ll focus on coming up with the logic that will help the thermostat know when to turn the heat on and off
+  </description>
+    </item>
+    
+    <item>
+      <title>Group Exercise</title>
+      <link>http://example.org/07-intro-to-programming/group-exercise/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>http://example.org/07-intro-to-programming/group-exercise/</guid>
+      <description>Group Exercise: Rock, Paper and Scissors Form groups and write pseudocode describing a game of Rock, Paper, Scissors</description>
+    </item>
+    
+    <item>
+      <title>Javascript Overview</title>
+      <link>http://example.org/07-intro-to-programming/javascript-overview/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>http://example.org/07-intro-to-programming/javascript-overview/</guid>
+      <description> What is Javacript?  programming language created in 1995 by Netscape (now Mozilla)
+ It was created in 10 days
+ Not the same as java
+  What does Javascript do?  Adds interactivity to your websites
+ Makes web based software feel more like desktop software
+ Improves user experience
+  Why teach javascript in front-end web development?  Javascript is the only programming langauge that all web browsers understand  </description>
+    </item>
+    
+    <item>
+      <title>Code Along</title>
+      <link>http://example.org/07-intro-to-programming/code-along/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>http://example.org/07-intro-to-programming/code-along/</guid>
+      <description> Code Along: Color Switcher  Using Sublime, open the folder called color_switcher (found within the starter_code) folder
+ During this exercise, we&amp;rsquo;ll be doing the following:
+ Walk through an actual javascript code step-by-step
+ Introduce variables, functions, listeners
+ Talk about how javascript finding the elements to control?
+ Make some small changes and examine the results.
+   </description>
+    </item>
+    
+    <item>
+      <title>Lab</title>
+      <link>http://example.org/07-intro-to-programming/lab/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>http://example.org/07-intro-to-programming/lab/</guid>
+      <description>Lab: Traffic Light  Using Sublime, open the folder called traffic_light (found within the starter_code) folder
+ Instructions
+ Fix the broken code
+ Use &amp;ldquo;pattern matching&amp;rdquo; to identify what needs to be changed / added
+ Work in pairs
+ Your job is to fix this code:
+ The yellow button changes the bulb to purple and the green light does not work, change the code so that the traffic light works correctly.</description>
+    </item>
+    
+    <item>
+      <title>Final Project Deliverable #1</title>
+      <link>http://example.org/07-intro-to-programming/final-project-deliverable-1/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>http://example.org/07-intro-to-programming/final-project-deliverable-1/</guid>
+      <description> Final Project Deliverable #1 (Initial project proposals)  Submit a list of at least 3 final project ideas to me via direct message on Slack (Due Tuesday September 25th)
+ I will meet with each of you next week to discuss your ideas
+  </description>
+    </item>
+    
+  </channel>
+</rss>

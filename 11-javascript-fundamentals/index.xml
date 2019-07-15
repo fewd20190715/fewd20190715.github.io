@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Javscript Fundamentals on FEWD</title>
+    <link>/11-javascript-fundamentals/</link>
+    <description>Recent content in Javscript Fundamentals on FEWD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/11-javascript-fundamentals/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Agenda</title>
+      <link>/11-javascript-fundamentals/agenda/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/11-javascript-fundamentals/agenda/</guid>
+      <description> Code Along: FAQ
+ Console Log
+ Variables
+ Data Types
+ Arithmetic Operators
+ Code Along: Score Keeper
+ Comparison &amp;amp; Logical Operators
+ Conditionals
+ Code Alongs: Compare That &amp;amp; Blackout
+  </description>
+    </item>
+    
+    <item>
+      <title>Code Along - FAQ</title>
+      <link>/11-javascript-fundamentals/code-along-faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/11-javascript-fundamentals/code-along-faq/</guid>
+      <description> Code Along: FAQ (Frequently Asked Questions)  Using Atom, open the folder called faq in your lesson_11_files folder. You will be using these files as starting off point.
+ During this exercise, we&amp;rsquo;ll be doing the following:
+ We&amp;rsquo;ll use jQuery implement a FAQ often found on a company&amp;rsquo;s support page   </description>
+    </item>
+    
+    <item>
+      <title>Arithmetic Operators</title>
+      <link>/11-javascript-fundamentals/arithmetic-operators/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/11-javascript-fundamentals/arithmetic-operators/</guid>
+      <description>Arithmetic Operators  Mathematical symbol that can act on two values (or variables) and produce a result     Description Operator Example     Addition + 7 + 8   Subtraction - 34 - 12   Multiplication * 3 * 5   Division / 42 / 6   Modulus (Remainder) % 13 % 6 (returns 1, as 6 goes into 13 twice, leaving 1 as the remainder )   Exponential ** 4 ** 2 (returns 16 or 4 * 4)   Increment ++ 9++ (returns 10)   Decrement -- 37-- (returns 36)    Examples</description>
+    </item>
+    
+    <item>
+      <title>Code Along - Score Keeper</title>
+      <link>/11-javascript-fundamentals/code-along-score-keeper/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/11-javascript-fundamentals/code-along-score-keeper/</guid>
+      <description> Code Along: Score Keeper  Using Atom, open the folder called score_keeper in your lesson_11_files folder. You will be using these files as starting off point.
+ During this exercise, we&amp;rsquo;ll be doing the following:
+ We&amp;rsquo;ll use javascript to complete an application used to keep track of a game&amp;rsquo;s score   </description>
+    </item>
+    
+    <item>
+      <title>Comparison Operators</title>
+      <link>/11-javascript-fundamentals/comparison-operators/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/11-javascript-fundamentals/comparison-operators/</guid>
+      <description>Comparison Operators  Compares operands (the things on either side of the operator) and returns true or false (boolean) based one the comparison     Operator Description Example (all return true)     Equal (==) Returns true if the operands are equal 3 == &amp;ldquo;3&amp;rdquo; (uhmm yes this is actually true)   Not equal (!=) Returns true if the operands are not equal. (4 + 1) !</description>
+    </item>
+    
+    <item>
+      <title>Logical Operators</title>
+      <link>/11-javascript-fundamentals/logical-operators/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/11-javascript-fundamentals/logical-operators/</guid>
+      <description>Logical Operators  Evaluates between two conditions/expressions and returns true or false
+ with &amp;amp;&amp;amp; (Logical And) operators, both conditions have to be true in order for the whole expression to be true
+ with || (Logical Or) operators, any of the condition must be true for entire expression to be true; but if all conditions are false then the entire expression is false
+     Operator Description Example (all return true)     Logical AND (&amp;amp;&amp;amp;) expr1 &amp;amp;&amp;amp; expr2 (3 &amp;gt; 1) &amp;amp;&amp;amp; &amp;ldquo;cat&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Conditionals</title>
+      <link>/11-javascript-fundamentals/conditionals/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/11-javascript-fundamentals/conditionals/</guid>
+      <description>What are Conditionals?  Conditionals tests whether an “expression” evaluates to true or false and then makes a decision based on the results of that test
+ if statements are the most common form of conditionals
+ There are two types of if statements
+ (if..else) statements
+ (if..else if) statements
+   (if&amp;hellip;else) statements  when evaluating between just two choices, use if/else
+ These are great for “either or” situations</description>
+    </item>
+    
+    <item>
+      <title>Code Along - Compare That</title>
+      <link>/11-javascript-fundamentals/code-along-compare-that/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/11-javascript-fundamentals/code-along-compare-that/</guid>
+      <description> Code Along: Compare That  Using Atom, open the folder called compare_that in your lesson_11_files folder. You will be using these files as starting off point.
+ During this exercise, we&amp;rsquo;ll be doing the following:
+ We&amp;rsquo;ll use javascript to complete an application used to compare two numbers   </description>
+    </item>
+    
+    <item>
+      <title>Code Along - Blackout</title>
+      <link>/11-javascript-fundamentals/code-along-blackout/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/11-javascript-fundamentals/code-along-blackout/</guid>
+      <description> Code Along: Blackout  Using Atom, open the folder called blackout in your lesson_11_files folder. You will be using these files as starting off point.
+ During this exercise, we&amp;rsquo;ll be doing the following:
+ We&amp;rsquo;ll use javascript to complete an application imitate a light switch   </description>
+    </item>
+    
+  </channel>
+</rss>

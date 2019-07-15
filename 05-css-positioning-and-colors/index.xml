@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CSS Positioning and CSS Colors on FEWD</title>
+    <link>http://example.org/05-css-positioning-and-colors/</link>
+    <description>Recent content in CSS Positioning and CSS Colors on FEWD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 22 Jan 2017 18:04:24 -0500</lastBuildDate>
+    
+	<atom:link href="http://example.org/05-css-positioning-and-colors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Objectives</title>
+      <link>http://example.org/05-css-positioning-and-colors/objectives/</link>
+      <pubDate>Sun, 22 Jan 2017 18:05:18 -0500</pubDate>
+      
+      <guid>http://example.org/05-css-positioning-and-colors/objectives/</guid>
+      <description> Introduce CSS Colors
+ Discuss CSS Positioning
+ Understand how to handle background images
+  </description>
+    </item>
+    
+    <item>
+      <title>Agenda</title>
+      <link>http://example.org/05-css-positioning-and-colors/agenda/</link>
+      <pubDate>Sun, 22 Jan 2017 18:05:18 -0500</pubDate>
+      
+      <guid>http://example.org/05-css-positioning-and-colors/agenda/</guid>
+      <description> Review last class
+ Review Layout Challenge
+ CSS Colors
+ CSS Positioning
+ Background Images
+ Code Along
+ Lab
+  </description>
+    </item>
+    
+    <item>
+      <title>Last Class Review</title>
+      <link>http://example.org/05-css-positioning-and-colors/last-class-review/</link>
+      <pubDate>Sun, 22 Jan 2017 18:05:18 -0500</pubDate>
+      
+      <guid>http://example.org/05-css-positioning-and-colors/last-class-review/</guid>
+      <description>Topics We Covered Last Class  Block, Inline and Inline-Block elements
+ Containing elements:&amp;lt;div&amp;gt; and semantic tags
+ CSS Floats
+  Block, Inline and Inline-Block elements  Block Level Elements
+ By default, block elements take up an entire row regardless of the width of their content
+ Example block elements: &amp;lt;p&amp;gt;, &amp;lt;h1&amp;gt;, &amp;lt;div&amp;gt;
+ Full list of block level elements can be found here
+  Inline Elements</description>
+    </item>
+    
+    <item>
+      <title>Layout Challenge Review</title>
+      <link>http://example.org/05-css-positioning-and-colors/layout-challenge-review/</link>
+      <pubDate>Sun, 22 Jan 2017 18:05:18 -0500</pubDate>
+      
+      <guid>http://example.org/05-css-positioning-and-colors/layout-challenge-review/</guid>
+      <description>We&amp;rsquo;ll review the &amp;ldquo;solutions&amp;rdquo; for the layout challenge. The solutions can be found in the following folder: starter_code/layout_challenge_solution</description>
+    </item>
+    
+    <item>
+      <title>CSS Colors</title>
+      <link>http://example.org/05-css-positioning-and-colors/css-colors/</link>
+      <pubDate>Sun, 22 Jan 2017 18:05:18 -0500</pubDate>
+      
+      <guid>http://example.org/05-css-positioning-and-colors/css-colors/</guid>
+      <description>Specifying Colors in CSS Several ways to express colors in CSS
+ Color Names Hex Codes RGB, RGBa HSL, HSLa  Color Names  colors represented by predefined names 147 color names this approach is limited  h1 { color: green }  Hex Codes  colors represented by values for red, green and blue in hexadecimal code  h1 { color: #66cdaa }  RGB  colors represented by values for red, green and blue expressed as numbers between 0 and 255  h1 { color: rgb(102, 205, 170) }  RGBa  Leverages CSS3 inclusion of the opacity property Just like RGB but allows you to specify the opacity as the fourth value (alpha value) alpha must be a number between 0.</description>
+    </item>
+    
+    <item>
+      <title>CSS Positioning</title>
+      <link>http://example.org/05-css-positioning-and-colors/css-positioning/</link>
+      <pubDate>Sun, 22 Jan 2017 18:05:18 -0500</pubDate>
+      
+      <guid>http://example.org/05-css-positioning-and-colors/css-positioning/</guid>
+      <description>CSS Positioning Normal Flow  Default way browser handles block-level elements
+ Each block-level element sits on top of the next one
+ If width is not specified, element will span the width of its container
+  JS Bin on jsbin.com
+Relative Positioning  Moves element in relation to where it would have been in normal flow
+ Uses offset properties (top or bottom and left or right) to indicate how far to move the element from where it would have been in normal flow</description>
+    </item>
+    
+    <item>
+      <title>Background Images</title>
+      <link>http://example.org/05-css-positioning-and-colors/background-images/</link>
+      <pubDate>Sun, 22 Jan 2017 18:05:18 -0500</pubDate>
+      
+      <guid>http://example.org/05-css-positioning-and-colors/background-images/</guid>
+      <description>background-image Property  background-image property allows you to place an image behind any HTML element
+ Image can be &amp;ldquo;behind&amp;rdquo; the entire page or part of a page
+ By default a background image will repeat to fill an entire box
+  body { /* this image will be applied to the entire page */ background-image: url(&amp;quot;images/cool-background-image.gif&amp;quot;); } .hero-section { /* this image will be applied to container with a &amp;quot;hero-section&amp;quot; class attribute */ background-image: url(&amp;quot;images/another-cool-background-image.</description>
+    </item>
+    
+    <item>
+      <title>Code Along</title>
+      <link>http://example.org/05-css-positioning-and-colors/code-along/</link>
+      <pubDate>Sun, 22 Jan 2017 18:05:18 -0500</pubDate>
+      
+      <guid>http://example.org/05-css-positioning-and-colors/code-along/</guid>
+      <description> Code Along #2: Fashion Blog II  Using Sublime, open the folder called fashion_blog_part_II (found within the starter_code) folder
+ As a class, we&amp;rsquo;ll add a column to the fashion blog layout to match the layout in image depicted below.
+  </description>
+    </item>
+    
+    <item>
+      <title>Lab</title>
+      <link>http://example.org/05-css-positioning-and-colors/lab/</link>
+      <pubDate>Sun, 22 Jan 2017 18:05:18 -0500</pubDate>
+      
+      <guid>http://example.org/05-css-positioning-and-colors/lab/</guid>
+      <description> Lab: Relaxr Blog  Work in teams (2 to 3 students) to recreate the html page depicted in the image below.
+ The files for this lab can be found in the following folder: starter_code/relaxr_blog
+  </description>
+    </item>
+    
+    <item>
+      <title>Homework</title>
+      <link>http://example.org/05-css-positioning-and-colors/homework/</link>
+      <pubDate>Sun, 22 Jan 2017 18:05:18 -0500</pubDate>
+      
+      <guid>http://example.org/05-css-positioning-and-colors/homework/</guid>
+      <description> Homework Assignment - Startup Matchmaker Directions:
+ Fork the following respository: Homework #2
+ Review the assignment here
+ Use process covered in the Git/Github Tutorial to submit your assignment
+  </description>
+    </item>
+    
+  </channel>
+</rss>

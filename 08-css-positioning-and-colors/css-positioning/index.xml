@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CSS Positioning on FEWD</title>
+    <link>/08-css-positioning-and-colors/css-positioning/</link>
+    <description>Recent content in CSS Positioning on FEWD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/08-css-positioning-and-colors/css-positioning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Static Positioning</title>
+      <link>/08-css-positioning-and-colors/css-positioning/static-positioning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/08-css-positioning-and-colors/css-positioning/static-positioning/</guid>
+      <description>Static Positioning (Normal Flow)  Default way browser handles block and inline elements
+ Each block-level element sits on top of the next one
+ Inline elements will share line/row with other inline elements (space permitting)
+ If developers want to explicitly specify static positioning, they can do so using CSS:
+  .box { /* not necessary, as this is the default for all elements */ position: static; }  However, this is not necessary since all elements are statically positioned by default</description>
+    </item>
+    
+    <item>
+      <title>Relative Positioning</title>
+      <link>/08-css-positioning-and-colors/css-positioning/relative-positioning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/08-css-positioning-and-colors/css-positioning/relative-positioning/</guid>
+      <description>Relative Positioning  Moves element in relation to where it would have been in normal flow
+ Uses offset properties (top or bottom and left or right) to indicate how far to move the element from where it would have been in normal flow
+ Usually accompanied by box offsets: top, right, bottom, left.
+ It will not effect the other elements on the page, surrounding elements stay in the position in their normal flow positions</description>
+    </item>
+    
+    <item>
+      <title>Absolute Positioning</title>
+      <link>/08-css-positioning-and-colors/css-positioning/absolute-positioning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/08-css-positioning-and-colors/css-positioning/absolute-positioning/</guid>
+      <description>Absolute Positioning  This type of positioning takes box out of normal flow
+ Other elements act as if the absolutely positioned element is not longer there
+ Box offset properties (top or bottom and left or right) are used to position the element
+ Elements positioned absolutely will be positioned relative to the nearest positioned parent element
+  Remember that these values will be relative to the next parent element with relative (or absolute) positioning.</description>
+    </item>
+    
+    <item>
+      <title>z-index</title>
+      <link>/08-css-positioning-and-colors/css-positioning/z-index/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/08-css-positioning-and-colors/css-positioning/z-index/</guid>
+      <description>Z-index  If boxes do overlap, the elements that appear later in the HTML code sit on top of those that are earlier in the page
+ Z-index allows you to control which elements appear on top when elements overlap
+  .positioned { position: absolute; top: 30; left: 50; z-index: 10; }   z-index property accepts a number, the higher the number, the closer that element will be to the front  Live Example</description>
+    </item>
+    
+    <item>
+      <title>Fixed Positioning</title>
+      <link>/08-css-positioning-and-colors/css-positioning/fixed-positioning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/08-css-positioning-and-colors/css-positioning/fixed-positioning/</guid>
+      <description>Fixed Positioning  Positions the element in relation to the browser window (not its containing element)
+ Fixed positioned element stays in place even if user scrolls down the page
+ Box offset properties (top or bottom and left or right) specify where the element should appear in relation to browser window
+ Fixed positioning commonly used to create a fixed navbar
+  .navbar { position: fixed; }  A fixed position element is positioned relative to the viewport, or the browser window itself.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Background Images on FEWD</title>
+    <link>/08-css-positioning-and-colors/background-images/</link>
+    <description>Recent content in Background Images on FEWD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/08-css-positioning-and-colors/background-images/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Background Image</title>
+      <link>/08-css-positioning-and-colors/background-images/background-image/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/08-css-positioning-and-colors/background-images/background-image/</guid>
+      <description>background-image Property  background-image property allows you to place an image behind any HTML element
+ Image can be &amp;ldquo;behind&amp;rdquo; the entire page or part of a page
+ By default a background image will repeat to fill an entire box
+  body { /* this image will be applied to the entire page */ background-image: url(&amp;quot;images/cool-background-image.gif&amp;quot;); } .hero-section { /* this image will be applied to container with a &amp;quot;hero-section&amp;quot; class attribute */ background-image: url(&amp;quot;images/another-cool-background-image.</description>
+    </item>
+    
+    <item>
+      <title>Background Repeat</title>
+      <link>/08-css-positioning-and-colors/background-images/background-repeat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/08-css-positioning-and-colors/background-images/background-repeat/</guid>
+      <description> background-repeat Property  background-repeat allows you to control how an background image is repeated
+ repeat: image is repeated both horizontally and vertically (default behavior)
+ repeat-x: image is only repeated horizontally
+ repeat-y: image is only repeated vertically
+ no-repeat: image is only shown once and not repeated
+   </description>
+    </item>
+    
+    <item>
+      <title>Background Position</title>
+      <link>/08-css-positioning-and-colors/background-images/background-position/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/08-css-positioning-and-colors/background-images/background-position/</guid>
+      <description>background-position Property  Used to position an image
+ This property has two values
+ horizontal position
+ vertical position
+   body { /* this image will be applied to the entire page */ background-image: url(&amp;quot;images/cool-background-image.gif&amp;quot;); background-repeat: no-repeat; background-position: center top; }   If you only specify one value, the second value will default to center
+ You can also you pixels or percentages
+ They will represent the distance from the top left corner of the window (or the containing box) top left corner is 0% 0%</description>
+    </item>
+    
+    <item>
+      <title>Background Image Examples</title>
+      <link>/08-css-positioning-and-colors/background-images/background-image-examples/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/08-css-positioning-and-colors/background-images/background-image-examples/</guid>
+      <description> Background Image examples  Using Atom, open the folder called background_image_examples in your lesson_08_files
+ We walk through live examples of background image in action
+  </description>
+    </item>
+    
+    <item>
+      <title>Background Size</title>
+      <link>/08-css-positioning-and-colors/background-images/background-size/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/08-css-positioning-and-colors/background-images/background-size/</guid>
+      <description>&amp;lsquo;background-size&amp;rsquo; property  Used to set the size of the element&amp;rsquo;s background image
+ The image can be left to its natural size, stretched, or constrained to fit the available space
+  values  contain
+ Scales the image as large as possible without cropping or stretching the image.  cover
+ Scales the image as large as possible without stretching the image. If the proportions of the image differ from the element, it is cropped either vertically or horizontally so that no empty space remains.</description>
+    </item>
+    
+  </channel>
+</rss>

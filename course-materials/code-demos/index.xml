@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Code Demos &amp; Examples on FEWD</title>
+    <link>/course-materials/code-demos/</link>
+    <description>Recent content in Code Demos &amp; Examples on FEWD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/course-materials/code-demos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Maps with MapBox</title>
+      <link>/course-materials/code-demos/maps-with-mapbox/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/course-materials/code-demos/maps-with-mapbox/</guid>
+      <description>Overview Mapbox is a Javascript library that allows you to add maps to your projects
+Demo Application Summary This application uses Mapbox chart a map of all of the Museums in NYC.
+download NYC Museums Map
+Setup Instructions  Sign up for a Mapbox account
+ Download the demo application and save files in your class folder
+ Add your Access Token to main.js on line 7
+ Run a Local Server on your computer (Required!</description>
+    </item>
+    
+    <item>
+      <title>Carousels with Slick</title>
+      <link>/course-materials/code-demos/carousels/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/course-materials/code-demos/carousels/</guid>
+      <description>Overview Slick is a Javascript plugin that makes it easy to carousels to your project.
+Demo Application Summary This application uses Slick to create a simple carousels of 80&amp;rsquo;s cartoons cover art.
+download 80&amp;rsquo;s Cartoons Carousel</description>
+    </item>
+    
+    <item>
+      <title>Fancy Filtering &amp; Sorting with MixitUp</title>
+      <link>/course-materials/code-demos/fancy-filtering-sorting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/course-materials/code-demos/fancy-filtering-sorting/</guid>
+      <description>Overview MixItUp is a Javascript plugin that makes it easy to adding visually appealing filter and sorting to your projects.
+Demo Application Summary This application uses MixItUp to create a Greek Mythology Flash card application.
+download Greek Mythology Flash Cards</description>
+    </item>
+    
+    <item>
+      <title>Pinterest-style layout with Masonry</title>
+      <link>/course-materials/code-demos/pinterest-type-layout-masonry/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/course-materials/code-demos/pinterest-type-layout-masonry/</guid>
+      <description>Overview Masonry is a Javascript plugin that makes it easy to create cascading grids that automatically resize as the viewport width resizes. This results in a UI layout similar to Pinterest.
+Demo Application Summary This application uses Masonry to create a cascading grid layout.
+download Masonry example</description>
+    </item>
+    
+  </channel>
+</rss>

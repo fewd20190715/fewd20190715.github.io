@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Page Layout on FEWD</title>
+    <link>http://example.org/04-page-layout/</link>
+    <description>Recent content in Page Layout on FEWD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 22 Jan 2017 18:04:24 -0500</lastBuildDate>
+    
+	<atom:link href="http://example.org/04-page-layout/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Objectives</title>
+      <link>http://example.org/04-page-layout/objectives/</link>
+      <pubDate>Sun, 22 Jan 2017 18:05:18 -0500</pubDate>
+      
+      <guid>http://example.org/04-page-layout/objectives/</guid>
+      <description> Discuss concept of page structure &amp;amp; layouts
+ Understand how divs are used
+ Introduce semantic elements and how they are used
+ Introduce CSS floats
+  </description>
+    </item>
+    
+    <item>
+      <title>Agenda</title>
+      <link>http://example.org/04-page-layout/agenda/</link>
+      <pubDate>Sun, 22 Jan 2017 18:05:18 -0500</pubDate>
+      
+      <guid>http://example.org/04-page-layout/agenda/</guid>
+      <description> Last Class Review
+ Code Along #1: Error Messages (Classes and Ids)
+ Block and Inline Elements
+ Containing Elements
+ Semantic Elements
+ CSS Floats
+ Code Along #2: Two-Column Layout
+ Lab: Layout Challenge
+  </description>
+    </item>
+    
+    <item>
+      <title>Last Class Review</title>
+      <link>http://example.org/04-page-layout/last-class-review/</link>
+      <pubDate>Sun, 22 Jan 2017 18:05:18 -0500</pubDate>
+      
+      <guid>http://example.org/04-page-layout/last-class-review/</guid>
+      <description>CSS Selectors Overview  Many different types of selectors that allow you to target rules to specific elements in an HTML document
+ Selectors are case sensitive, must match element names and attributes exactly
+     Selector Meaning Example     Universal Selector Applies to all elements *{}   Type Selector Match elements names h1, h2, h3 {}   Class Selector Matches all elements with a class attribute value matching on specified after a period (.</description>
+    </item>
+    
+    <item>
+      <title>Code Along #1</title>
+      <link>http://example.org/04-page-layout/code-along-1/</link>
+      <pubDate>Sun, 22 Jan 2017 18:05:18 -0500</pubDate>
+      
+      <guid>http://example.org/04-page-layout/code-along-1/</guid>
+      <description> Code Along #1: Error Messages  Using Sublime, open the folder called error_messages (found within the starter_code) folder  </description>
+    </item>
+    
+    <item>
+      <title>Block and Inline Elements</title>
+      <link>http://example.org/04-page-layout/block-inline-elements/</link>
+      <pubDate>Sun, 22 Jan 2017 18:05:18 -0500</pubDate>
+      
+      <guid>http://example.org/04-page-layout/block-inline-elements/</guid>
+      <description>Block Level Elements  Always appear on a new line or row
+ By default, block elements take up an entire row regardless of the width of their content
+ Example block elements: &amp;lt;p&amp;gt;, &amp;lt;h1&amp;gt;, &amp;lt;div&amp;gt;
+  JS Bin on jsbin.com
+Full list of block level elements can be found here
+ Inline Elements  Sit within a block level element and do not start on a new line</description>
+    </item>
+    
+    <item>
+      <title>Containing Elements</title>
+      <link>http://example.org/04-page-layout/containing-elements/</link>
+      <pubDate>Sun, 22 Jan 2017 18:05:18 -0500</pubDate>
+      
+      <guid>http://example.org/04-page-layout/containing-elements/</guid>
+      <description>Containing Elements  Elements that contain groups of elements
+ For example, grouping all of the elements associated with the header in a &amp;lt;div&amp;gt;
+ &amp;lt;div&amp;gt; tags are commonly used as containing elements
+  In example the above example, orange lines represent &amp;lt;div&amp;gt; tags
+&amp;lt;div&amp;gt;  Used to group a set of elements together in one block-level box
+ &amp;lt;div&amp;gt; element are block-level elements which means they will start on a new line</description>
+    </item>
+    
+    <item>
+      <title>Semantic Elements</title>
+      <link>http://example.org/04-page-layout/semantic-elements/</link>
+      <pubDate>Sun, 22 Jan 2017 18:05:18 -0500</pubDate>
+      
+      <guid>http://example.org/04-page-layout/semantic-elements/</guid>
+      <description>Structure using Semantic tags  Similar to &amp;lt;div&amp;gt;s, semantic tags are container elements
+ HTML5 introduced semantic tags that directly communicate type of content the container element contains
+ Important note: incorrect use of the tags will not result in any errors (but may be confusing for your teammates)
+ Above picture is just an example! This structure is not set in stone, use what makes sense for your project</description>
+    </item>
+    
+    <item>
+      <title>CSS Floats</title>
+      <link>http://example.org/04-page-layout/css-floats/</link>
+      <pubDate>Sun, 22 Jan 2017 18:05:18 -0500</pubDate>
+      
+      <guid>http://example.org/04-page-layout/css-floats/</guid>
+      <description>Floating Elements  Float property allows you to take an element in normal flow and place it as far to the left or right of the containing element as possible. Floats are a common way of creating multi-column layouts  Floating Guidelines  Floated elements should be assigned a width or unexpected behavior will occur (remember block level elements take up 100% width by default)
+ Elements can be either floated left or right</description>
+    </item>
+    
+    <item>
+      <title>Code Along #2</title>
+      <link>http://example.org/04-page-layout/code-along-2/</link>
+      <pubDate>Sun, 22 Jan 2017 18:05:18 -0500</pubDate>
+      
+      <guid>http://example.org/04-page-layout/code-along-2/</guid>
+      <description> Code Along #2: Page Layout using Floats  Using Sublime, open the folder called layout_challenge (found within the starter_code) folder
+ As a class, we&amp;rsquo;ll use floats to create a two-column layout (depicted in the image)
+  </description>
+    </item>
+    
+    <item>
+      <title>Lab</title>
+      <link>http://example.org/04-page-layout/lab/</link>
+      <pubDate>Sun, 22 Jan 2017 18:05:18 -0500</pubDate>
+      
+      <guid>http://example.org/04-page-layout/lab/</guid>
+      <description> Lab: Layout Challenge  Work individually or in teams to recreate the layouts depicted in layouts_challenge/layouts.pdf file (found within the starter_code) in html
+ Create a separate project folder for each layout
+ For example, when recreating the layout for the Three-Column layout, create a new folder called three_column and add your index.html, and css files within that folder.   </description>
+    </item>
+    
+  </channel>
+</rss>

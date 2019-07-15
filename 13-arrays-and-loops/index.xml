@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arrays and Loops on FEWD</title>
+    <link>/13-arrays-and-loops/</link>
+    <description>Recent content in Arrays and Loops on FEWD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/13-arrays-and-loops/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Agenda</title>
+      <link>/13-arrays-and-loops/agenda/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/13-arrays-and-loops/agenda/</guid>
+      <description> Review arrays
+ Discuss looping / iterating through arrays
+ Discuss using objects with arrays
+ Code Along: Array Exercise
+ Lab: Rock Paper Scissors
+  </description>
+    </item>
+    
+    <item>
+      <title>Arrays</title>
+      <link>/13-arrays-and-loops/arrays/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/13-arrays-and-loops/arrays/</guid>
+      <description>Arrays  Used to when you are working with a list of values that are related to each other
+ Use square brackets to create an array (this is also how you quickly recognize arrays)
+ Values in an array are separated by commas
+  Creating an Array  We can store variables just like any other data type
+ You can create that doesn&amp;rsquo;t initially contain any values, this is called an empty array</description>
+    </item>
+    
+    <item>
+      <title>Looping through Arrays</title>
+      <link>/13-arrays-and-loops/looping-through-arrays/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/13-arrays-and-loops/looping-through-arrays/</guid>
+      <description>Loops and Iteration  Loops offer a quick and easy way to do something repeatedly  Javascript offers many different ways to loop, click here for more information
+ Using .forEach() (native javascript)  Native javascript offers a .forEach() method loops through (iterates) an array  let fruits=[“Banana”,”Apple”,”Pear”]; fruits.forEach(function(element,index){ console.log(element,index); });  JS Bin on jsbin.com
+click here for more information about the forEach() loop
+ Using $.each() (jQuery)  jQuery also provides a way to iterate arrays through its $.</description>
+    </item>
+    
+    <item>
+      <title>Using Objects with Arrays</title>
+      <link>/13-arrays-and-loops/objects-with-arrays/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/13-arrays-and-loops/objects-with-arrays/</guid>
+      <description>Objects with Arrays  Since objects are used to represent real world &amp;ldquo;things&amp;rdquo;, they are often combined with arrays to represent a collection of real world things  // declaring an array that contains objects as items let shows = [ { name: &amp;quot;Breaking Bad&amp;quot;, genre: &amp;quot;Drama&amp;quot;, network: &amp;quot;AMC&amp;quot; }, { name: &amp;quot;Game of Thrones&amp;quot;, genre: &amp;quot;Fantasy&amp;quot;, network: &amp;quot;HBO&amp;quot; }, { name: &amp;quot;Silicon Valley&amp;quot;, genre: &amp;quot;Comedy&amp;quot;, network: &amp;quot;HBO&amp;quot; }, { name: &amp;quot;Narcos&amp;quot;, genre: &amp;quot;Drama&amp;quot;, network: &amp;quot;Netflix&amp;quot; }, { name: &amp;quot;Vikings&amp;quot;, genre: &amp;quot;Action&amp;quot;, network: &amp;quot;History Channel&amp;quot; }, { name: &amp;quot;Power&amp;quot;, genre: &amp;quot;Drama&amp;quot;, network: &amp;quot;Starz&amp;quot; }, ];   In the code example above, we have an array called shows that contains a collection of objects that represents some TV shows  Looping (iteration) through an array of objects  Looping through an array of objects is technically the same as looping through an array of any other datatype (i.</description>
+    </item>
+    
+    <item>
+      <title>Code Along - Arrays Exercise</title>
+      <link>/13-arrays-and-loops/code-along-arrays-exercise/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/13-arrays-and-loops/code-along-arrays-exercise/</guid>
+      <description> Code Along: Arrays Exercise  Using Atom, open the folder called arrays_exercise in your lesson_13_files folder. You will be using these files as starting off point.
+ Instructions
+ We&amp;rsquo;ll practice working with arrays by following the instructions specified in the exercise.js file   </description>
+    </item>
+    
+    <item>
+      <title>Lab - Rock, Paper, Scissors</title>
+      <link>/13-arrays-and-loops/lab-rock-paper-scissors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/13-arrays-and-loops/lab-rock-paper-scissors/</guid>
+      <description>Lab: Rock, Paper Scissors  Using Atom, open the folder called rock_paper_scissors in your lesson_13_files folder. You will be using these files as starting off point.
+ Instructions
+ Work in pairs/groups (each student should have their own copy of the app on your computers)
+ Review the completed version of the app (found in folder called rock_paper_scissors_obfuscated) to understand how the app is expected to work
+ Review the Javascript code (found in js/main.</description>
+    </item>
+    
+  </channel>
+</rss>

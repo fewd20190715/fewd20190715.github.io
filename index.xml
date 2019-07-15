@@ -1,0 +1,2843 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FEWD</title>
+    <link>/</link>
+    <description>Recent content on FEWD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 22 Jan 2017 18:05:18 -0500</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Github HW Submission Instructions</title>
+      <link>/21-class-resources/homework-submission-github-workflow/</link>
+      <pubDate>Sun, 22 Jan 2017 18:05:18 -0500</pubDate>
+      
+      <guid>/21-class-resources/homework-submission-github-workflow/</guid>
+      <description>Before you start Step 1: Ensure you have a github folder Ensure that you have a folder named gitHub in the FEWD folder . You will be using this folder to manage all of your work that lives in Github through the course. This folder only needs to be created once.
+Step 2: Log into to your Github account Ensure you are logged into your GitHub account on Github.com</description>
+    </item>
+    
+    <item>
+      <title>Objectives</title>
+      <link>/01-html-basics/objectives/</link>
+      <pubDate>Sun, 22 Jan 2017 18:05:18 -0500</pubDate>
+      
+      <guid>/01-html-basics/objectives/</guid>
+      <description> Understand how web pages are structured
+ Introduce some of the most frequently used html tags
+  </description>
+    </item>
+    
+    <item>
+      <title>Agenda</title>
+      <link>/06-css-box-model/agenda/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/06-css-box-model/agenda/</guid>
+      <description> Discuss how CSS Cascades
+ Box Model
+ Code Along: Tags &amp;amp; Boxes
+ Lab: Fashion Blog
+  </description>
+    </item>
+    
+    <item>
+      <title>Objectives</title>
+      <link>/03-relative-paths/objectives/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/03-relative-paths/objectives/</guid>
+      <description> Learn about Relative Paths and why they are important  </description>
+    </item>
+    
+    <item>
+      <title>Agenda</title>
+      <link>/01-html-basics/agenda/</link>
+      <pubDate>Sun, 22 Jan 2017 18:05:18 -0500</pubDate>
+      
+      <guid>/01-html-basics/agenda/</guid>
+      <description> HTML Structure
+ Overview of basic HTML Tags
+ Code Along (GA Press Release)
+ Lab (Cookie Recipe)
+  </description>
+    </item>
+    
+    <item>
+      <title>Agenda</title>
+      <link>/03-relative-paths/agenda/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/03-relative-paths/agenda/</guid>
+      <description> Discuss Relative Paths
+ Complete Relative Paths exercise
+  </description>
+    </item>
+    
+    <item>
+      <title>Margin</title>
+      <link>/06-css-box-model/box-model-overview/margin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/06-css-box-model/box-model-overview/margin/</guid>
+      <description>Margin  Margin represents the space between boxes  .thing { /* margin can be applied to individual sides of a box using margin-top, margin-bottom, margin-left or margin-right */ /* style below applies 20px to left side of box */ margin-left: 20px; } .other-thing { /* style below applies 10px to all four sides of box */ margin: 10px; } .gizmo { /* when 4 values are provided, then values are applied in a clockwork manner: margin: [top] [right] [bottom] [left]; */ /* style below applies 4px to top, 10px to right, 6px to bottom &amp;amp; 10px to left */ margin: 4px 10px 6px 10px; } .</description>
+    </item>
+    
+    <item>
+      <title>Objectives</title>
+      <link>/02-git-github/objectives/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/02-git-github/objectives/</guid>
+      <description> Achieve high-level understanding of git and why developers use it
+ Introduce students to a git workflow that will be used to submit (and recieve feeback on) assignments
+  </description>
+    </item>
+    
+    <item>
+      <title>Overview</title>
+      <link>/03-relative-paths/overview/</link>
+      <pubDate>Sun, 22 Jan 2017 18:08:00 -0500</pubDate>
+      
+      <guid>/03-relative-paths/overview/</guid>
+      <description> Relative Paths  Relative URLs can be used when linking to pages and files within your own website.
+ Shorthand way of telling the browser where to find your files.
+ Inform students that they have already seen this is use with the link tag when referencing a css file
+  </description>
+    </item>
+    
+    <item>
+      <title>Agenda</title>
+      <link>/02-git-github/agenda/</link>
+      <pubDate>Sun, 22 Jan 2017 18:05:18 -0500</pubDate>
+      
+      <guid>/02-git-github/agenda/</guid>
+      <description> Tools Overview &amp;amp; Folder Organization
+ Git Overview
+ Code Along: Working with Github
+ Exercise: Working with Github
+  </description>
+    </item>
+    
+    <item>
+      <title>HTML Structure</title>
+      <link>/01-html-basics/html-structure/</link>
+      <pubDate>Sun, 22 Jan 2017 18:05:18 -0500</pubDate>
+      
+      <guid>/01-html-basics/html-structure/</guid>
+      <description> Front page of a newspaper
+ Which elements stand out and why?
+ What would happen if every word was the same size font?
+  Document in a word processor
+HTML document
+Summary  Structure helps readers better understand all forms of documents
+ Documents leverage hierarchy, size and font weight to emphasize importance
+ HTML pages are another type documents
+  </description>
+    </item>
+    
+    <item>
+      <title>Last Rule</title>
+      <link>/06-css-box-model/css-cascading-guidelines/last-rule/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/06-css-box-model/css-cascading-guidelines/last-rule/</guid>
+      <description>Last Rule  When two or more css rules have identical selectors, the latter of the two rules takes precedent   // in css p { color: red; } p { color: green; }  &amp;lt;!-- in html --&amp;gt; &amp;lt;!DOCTYPE html&amp;gt; &amp;lt;html&amp;gt; &amp;lt;head&amp;gt; &amp;lt;title&amp;gt;Sample Page&amp;lt;/title&amp;gt; &amp;lt;/head&amp;gt; &amp;lt;body&amp;gt; &amp;lt;p&amp;gt; Color will be green&amp;lt;/p&amp;gt; &amp;lt;/body&amp;gt; &amp;lt;/html&amp;gt;  Here the &amp;lt;p&amp;gt; tag will be green because the last conflicting rule took precedent</description>
+    </item>
+    
+    <item>
+      <title>Padding</title>
+      <link>/06-css-box-model/box-model-overview/padding/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/06-css-box-model/box-model-overview/padding/</guid>
+      <description>Padding  Padding is the space between the border of a box and any content contained within it
+ Adding padding helps to increase readability of a box’s content
+  .thing { /* padding can be applied to individual sides of a box using padding-top, padding-bottom, padding-left or padding-right */ /* style below applies 20px to left side of box */ padding-left: 20px; } .other-thing { /* style below applies 10px to all four sides of box */ padding: 10px; } .</description>
+    </item>
+    
+    <item>
+      <title>HTML Tag Anatomy</title>
+      <link>/01-html-basics/html-tag-anatomy/</link>
+      <pubDate>Sun, 22 Jan 2017 18:05:18 -0500</pubDate>
+      
+      <guid>/01-html-basics/html-tag-anatomy/</guid>
+      <description>What is a Tag?  Tags act like containers, they tell the browser what type of information lies between (aka the content) the opening and closing tag
+ Opening Tag
+ comprised of character(s) surrounded by less than and equal than signs (brackets) characters within the brackets indicates the tags purpose  Closing Tag
+ Same as opening tag except closing tag contains a forward slash which informs browser that element has ended   Terms “tags” and “elements” are often used interchangeably</description>
+    </item>
+    
+    <item>
+      <title>Agenda</title>
+      <link>/07-page-layout-flexbox/agenda/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/07-page-layout-flexbox/agenda/</guid>
+      <description> Block and Inline Elements
+ Containing Elements
+ Semantic Elements
+ Flexbox
+ Exercise: Flexbox Froggy
+ Code Along: Layout Challenge
+ Lab: Layout Challenge
+  </description>
+    </item>
+    
+    <item>
+      <title>Example</title>
+      <link>/03-relative-paths/example/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/03-relative-paths/example/</guid>
+      <description>Example Project with Multiple Folders/Files Navigating within the Same Folder Linking from music index page to the music reviews page
+&amp;lt;a href=&amp;quot;reviews.html&amp;quot;&amp;gt; Music Reviews &amp;lt;/a&amp;gt;  Navigating to a file in a Child Folder Linking from the homepage (top-level index.html) to the music listings page
+&amp;lt;a href=&amp;quot;music/listings.html&amp;quot;&amp;gt; Music Listings &amp;lt;/a&amp;gt;  Navigating to a file in a Grandchild Folder Linking from the homepage (top-level index.html) to the dvd reviews page</description>
+    </item>
+    
+    <item>
+      <title>Git Overview</title>
+      <link>/02-git-github/git-overview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/02-git-github/git-overview/</guid>
+      <description>What is Git?  Version control for Programmers
+ Like Microsoft Word &amp;ldquo;Track Changes&amp;rdquo; feature with superpowers
+ Makes it easy for programmers to collaborate and work on the same codebase
+ SVN (subversion) and CVS are other version control programs (Git is the most popular)
+  What is Github?  Web-based Git repository hosting service
+ Built on top of git
+ Home to +90% of all open source projects</description>
+    </item>
+    
+    <item>
+      <title>Block and Inline Elements</title>
+      <link>/07-page-layout-flexbox/block-inline-elements/</link>
+      <pubDate>Sun, 22 Jan 2017 18:05:18 -0500</pubDate>
+      
+      <guid>/07-page-layout-flexbox/block-inline-elements/</guid>
+      <description>Block Level Elements  Always appear on a new line or row
+ By default, block elements take up an entire row regardless of the width of their content
+ Example block elements: &amp;lt;p&amp;gt;, &amp;lt;h1&amp;gt;, &amp;lt;div&amp;gt;
+  JS Bin on jsbin.com
+Full list of block level elements can be found here
+ Inline Elements  Sit within a block level element and do not start on a new line</description>
+    </item>
+    
+    <item>
+      <title>HTML Attributes</title>
+      <link>/01-html-basics/html-attributes/</link>
+      <pubDate>Sun, 22 Jan 2017 18:05:18 -0500</pubDate>
+      
+      <guid>/01-html-basics/html-attributes/</guid>
+      <description>What is an HTML Attribute?  Attributes provide additional information about the contents of the an element.
+ They are placed in the opening tag
+ They have two parts: name, value
+  Attribute Structure  Attribute Name
+ Indicates what kind of extra information you are supplying to the browser about the content in the element characters within the brackets indicates the tags purpose  Attribute Value</description>
+    </item>
+    
+    <item>
+      <title>Agenda</title>
+      <link>/18-final-projects-lab/agenda/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>/18-final-projects-lab/agenda/</guid>
+      <description> Code Along: Host Final Projects using Github Pages
+ Lab: Work on Final Projects
+  </description>
+    </item>
+    
+    <item>
+      <title>Flexbox Terminology</title>
+      <link>/07-page-layout-flexbox/flexbox/flexbox-terminology/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>/07-page-layout-flexbox/flexbox/flexbox-terminology/</guid>
+      <description>Flex Container  The parent element in which flex items are contained
+ Defined using the flex or inline-flex values of the display property
+ flex: will make the flex-container a block-level element
+ inline-flex: will make the flex-container an inline element
+   Flex Item  Children of a flex container  Main Axis  The axis along which the flex items follow each other
+ flex-direction property determines the main axis</description>
+    </item>
+    
+    <item>
+      <title>.text()</title>
+      <link>/10-intro-to-jquery/jquery-in-action/reading-writing-content/text/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/10-intro-to-jquery/jquery-in-action/reading-writing-content/text/</guid>
+      <description>.text()  Allows you to either read (get) or write (set) the text of html elements (documentation)  Reading Text  To read (or get) the text of elements using jQuery you need to use the .text() method with nothing between the parentheses   // read the text found in the element .main // notice how nothing is in-between the parentheses $(&amp;quot;.main&amp;quot;).text();  Example #1 - Reading text using .</description>
+    </item>
+    
+    <item>
+      <title>@media</title>
+      <link>/15-responsive-design/media-queries/media-query-parts/media/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/15-responsive-design/media-queries/media-query-parts/media/</guid>
+      <description>  @media only screen and (min-width: 576px) { /** add styles here **/ }  @media  All media queries must start with @media  </description>
+    </item>
+    
+    <item>
+      <title>Agenda</title>
+      <link>/09-intro-to-programming/agenda/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/09-intro-to-programming/agenda/</guid>
+      <description> What is Programming?
+ Pseudocode
+ Class Exercise: Thermostat
+ Group Exercise: Rock, Paper, Scissors
+ What is Javascript?
+ Code Along: Color Scheme Switcher
+ Lab: Traffic Light
+  </description>
+    </item>
+    
+    <item>
+      <title>Agenda</title>
+      <link>/10-intro-to-jquery/agenda/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/10-intro-to-jquery/agenda/</guid>
+      <description> Programming protips
+ jQuery Overview
+ See jQuery in Action (Code Examples)
+ Code Along: Color Scheme Switcher (with jQuery)
+ Lab: jQuery DOM Selector Practice
+  </description>
+    </item>
+    
+    <item>
+      <title>Agenda</title>
+      <link>/11-javascript-fundamentals/agenda/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/11-javascript-fundamentals/agenda/</guid>
+      <description> Code Along: FAQ
+ Console Log
+ Variables
+ Data Types
+ Arithmetic Operators
+ Code Along: Score Keeper
+ Comparison &amp;amp; Logical Operators
+ Conditionals
+ Code Alongs: Compare That &amp;amp; Blackout
+  </description>
+    </item>
+    
+    <item>
+      <title>Agenda</title>
+      <link>/13-arrays-and-loops/agenda/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/13-arrays-and-loops/agenda/</guid>
+      <description> Review arrays
+ Discuss looping / iterating through arrays
+ Discuss using objects with arrays
+ Code Along: Array Exercise
+ Lab: Rock Paper Scissors
+  </description>
+    </item>
+    
+    <item>
+      <title>Agenda</title>
+      <link>/14-javascript-lab/agenda/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/14-javascript-lab/agenda/</guid>
+      <description> Discuss anonymous functions
+ Discuss $(this)
+ Lab: Weather Application
+  </description>
+    </item>
+    
+    <item>
+      <title>Agenda</title>
+      <link>/15-responsive-design/agenda/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/15-responsive-design/agenda/</guid>
+      <description> Fixed Width and Mobile Layouts
+ Responsive Design Overview
+ Viewport Meta Tag
+ Media Queries and Breakpoints
+ Grids
+ Code Along
+ Ems / Rems
+ Lab
+  </description>
+    </item>
+    
+    <item>
+      <title>Agenda</title>
+      <link>/16-responsive-design-lab/agenda/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/16-responsive-design-lab/agenda/</guid>
+      <description> Review Concepts from last class
+ Lab: Startup Matchmaker - Responsive
+  </description>
+    </item>
+    
+    <item>
+      <title>Agenda</title>
+      <link>/17-forms/agenda/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/17-forms/agenda/</guid>
+      <description> Discuss Forms
+ Styling Tips for Forms
+ Code Along: Contact Us Form
+  </description>
+    </item>
+    
+    <item>
+      <title>Background Image</title>
+      <link>/08-css-positioning-and-colors/background-images/background-image/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/08-css-positioning-and-colors/background-images/background-image/</guid>
+      <description>background-image Property  background-image property allows you to place an image behind any HTML element
+ Image can be &amp;ldquo;behind&amp;rdquo; the entire page or part of a page
+ By default a background image will repeat to fill an entire box
+  body { /* this image will be applied to the entire page */ background-image: url(&amp;quot;images/cool-background-image.gif&amp;quot;); } .hero-section { /* this image will be applied to container with a &amp;quot;hero-section&amp;quot; class attribute */ background-image: url(&amp;quot;images/another-cool-background-image.</description>
+    </item>
+    
+    <item>
+      <title>Border</title>
+      <link>/06-css-box-model/box-model-overview/border/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/06-css-box-model/box-model-overview/border/</guid>
+      <description>Border  Every box has a border, and by default it is invisible (0 pixels wide)
+ Borders separates the edge of one box from another
+ Border is expressed in three parts
+ Border width: how thick the border will be
+ Border style: solid, dashed, etc
+ Border color: color of the border
+    /* border is most usually expressed using shorthand which allows you to specify a combination of the border 3 properties when using shorthand for border the order of the values does not matter */ /* style */ border: solid; /* width | style */ border: 2px dotted; /* style | color */ border: outset #f33; /* width | style | color */ border: medium dashed green; /* Border can be applied to individual sides of a box using border-top, border-bottom, border-left or border-right */ border-top: solid 1px blue; /* Also you can specify the border properties individually (this approach is not widely used) */ border-color: red; border-style: solid; border-width: 1px; border-top-color: blue; border-bottom-width: 3px;  JS Bin on jsbin.</description>
+    </item>
+    
+    <item>
+      <title>Code Along - Relative Paths</title>
+      <link>/03-relative-paths/code-along-relative-paths/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/03-relative-paths/code-along-relative-paths/</guid>
+      <description>Code Along: Relative Paths  Using Atom, open the folder called relative_paths_exercise in your lesson_03_files folder. You will be using these files as starting off point.  Instructions  1) Add a link from the Homepage to the About page
+ 2) Add a link from the About page to the Homepage
+ 3) Add links from Homepage to index.html pages of the following sections:
+ Mammals Birds Reptiles  4) Add links from the Homepage to the index.</description>
+    </item>
+    
+    <item>
+      <title>Code Along: Working with Github</title>
+      <link>/02-git-github/code-along-working-with-github/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/02-git-github/code-along-working-with-github/</guid>
+      <description>During this exercise, we will be walking through the process of working with Git and Github.
+The steps for submitting your assignments using Git &amp;amp; Github are detailed here
+Steps  1) Fork this US states repository located on Github.com
+ 2) Clone the Repository using Github Desktop
+ 3) Save the local copy of the repository in your FEWD/github folder
+ 4) Open the project in Atom and fix the spelling errors found in index.</description>
+    </item>
+    
+    <item>
+      <title>Color Names</title>
+      <link>/08-css-positioning-and-colors/css-colors/color-names/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/08-css-positioning-and-colors/css-colors/color-names/</guid>
+      <description> Color Names  colors represented by predefined names 147 color names this approach is limited  h1 { color: green; }  </description>
+    </item>
+    
+    <item>
+      <title>Documentation</title>
+      <link>/21-class-resources/documentation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/21-class-resources/documentation/</guid>
+      <description>Referencing documentation is a core task for developers.
+ Documentation communicates how something (in our case programming languages, software libraries) works.
+ Good documentation reduces implementation time and increases predictability of our software programs.
+  We will be referring to the following list of the documentation resources frequently throughout the course:
+HTML MDN&amp;rsquo;s HTML Reference
+CSS MDN&amp;rsquo;s CSS Reference
+Javascript MDN&amp;rsquo;s Javascript Reference
+jQuery jQuery Documentation</description>
+    </item>
+    
+    <item>
+      <title>EMS</title>
+      <link>/15-responsive-design/relative-measurements/ems/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/15-responsive-design/relative-measurements/ems/</guid>
+      <description>What are EMs?  Scalable unit that is used in web document media
+ Font-size is computed relative to font-size of parent element
+ Does not lock users into an absolute font-size (older browsers do not re-size text set in pixels when users zoom)
+ Provides users with highest level of control over the content they are viewing
+  History: Old-fashioned metal typesetting, the em referred to the size of the metal plates that contained a raised letter, which had to be wide enough to fit the widest letter, the capital M.</description>
+    </item>
+    
+    <item>
+      <title>MacOS Instructions</title>
+      <link>/21-class-resources/running-local-server/macos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/21-class-resources/running-local-server/macos/</guid>
+      <description>MacOS Instructions  Open the Terminal application on your Macbook
+ Using the command line navigate to the project folder
+In the hypothetical example below the project folder is stored in Documents/FEWD/Demos/mapbox_example
+On your command line you would do the following (do not type &amp;lsquo;$&amp;rsquo;, your text input on the command line should with cd):
+$ cd Documents/FEWD/Demos/mapbox_example  Run python -m SimpleHTTPServer 8000 to start the local server</description>
+    </item>
+    
+    <item>
+      <title>Maps with MapBox</title>
+      <link>/course-materials/code-demos/maps-with-mapbox/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/course-materials/code-demos/maps-with-mapbox/</guid>
+      <description>Overview Mapbox is a Javascript library that allows you to add maps to your projects
+Demo Application Summary This application uses Mapbox chart a map of all of the Museums in NYC.
+download NYC Museums Map
+Setup Instructions  Sign up for a Mapbox account
+ Download the demo application and save files in your class folder
+ Add your Access Token to main.js on line 7
+ Run a Local Server on your computer (Required!</description>
+    </item>
+    
+    <item>
+      <title>Media Query Overview</title>
+      <link>/15-responsive-design/media-queries/media-query-overview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/15-responsive-design/media-queries/media-query-overview/</guid>
+      <description>What are the Media Queries?  Key element in responsive design
+ Allow you to apply different styles based on the screen size of the user&amp;rsquo;s device (viewport)
+ Media Queries ask questions such as: Is the width of the viewport greater than or equal to 768px?
+ Media queries don’t affect the HTML (the actual content and structure of the underlying page) — they only affect the styles that are applied to the page using CSS</description>
+    </item>
+    
+    <item>
+      <title>Overview &amp; Requirements</title>
+      <link>/final-projects/overview-requirements/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/final-projects/overview-requirements/</guid>
+      <description>Overview  Final Projects are a requirement of &amp;ldquo;course completion&amp;rdquo;
+ Project should be something that you are passionate about
+ We&amp;rsquo;ve established some milestones (and due dates) that will help you stay on track to complete your projects on time
+ Each milestone will include a deliverable  Instruction team will actively work with you to help you manage scope and come up with a project plan
+ Click here for examples of what other GA FEWD students have built</description>
+    </item>
+    
+    <item>
+      <title>Presentation Script</title>
+      <link>/19-final-project-presentations/presentation-script/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/19-final-project-presentations/presentation-script/</guid>
+      <description>Presentation Script Each student will use the script below to present their projects to the class
+ Introduce yourself and your project
+ Question: Why did you choose to build this project?
+ Provide the class with a quick demo of your project
+ Question: What was the most challenging aspect your project?
+ Question: Given more time and knowledge what additional features would you have added?
+ Question: What did you enjoy most about building this project?</description>
+    </item>
+    
+    <item>
+      <title>Selecting Elements</title>
+      <link>/10-intro-to-jquery/jquery-in-action/selecting-elements/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/10-intro-to-jquery/jquery-in-action/selecting-elements/</guid>
+      <description>Selecting Elements  A most common usage pattern for jQuery is to programmatically select (or grab) an element and then do something to it - usually add a listener or manipulate (change) it in some way
+ jQuery allows us to use css selectors to select elements:
+   // We can use css selectors to programmatically select elements $(&#39;p&#39;); // Element/Tag selector $(&#39;.feature&#39;); // Class selector $(&#39;#checkout&#39;); // ID selector $(&#39;li strong&#39;); // Descendant selector $(&#39;em, i&#39;); // Multiple selector $(&#39;a[target=&amp;quot;_blank&amp;quot;]&#39;); // Attribute selector $(&#39;p:nth-child(2)&#39;); // Pseudo-class selector   Dynamically changing your page using Javascript is commonly referred to as manipulating the DOM  Example #1</description>
+    </item>
+    
+    <item>
+      <title>Specificity</title>
+      <link>/06-css-box-model/css-cascading-guidelines/specificity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/06-css-box-model/css-cascading-guidelines/specificity/</guid>
+      <description>Specificity  If one selector is more specific than others, then the more specific rule takes precedent
+ For example:
+ h1 is more specific than * p.discount is more specific than p #city is more specific than img.town   Live Example
+JS Bin on jsbin.com
+In the example above #featured is more specific than .box so the background-color of the element will be red even though .box is listed after #featured</description>
+    </item>
+    
+    <item>
+      <title>Static Positioning</title>
+      <link>/08-css-positioning-and-colors/css-positioning/static-positioning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/08-css-positioning-and-colors/css-positioning/static-positioning/</guid>
+      <description>Static Positioning (Normal Flow)  Default way browser handles block and inline elements
+ Each block-level element sits on top of the next one
+ Inline elements will share line/row with other inline elements (space permitting)
+ If developers want to explicitly specify static positioning, they can do so using CSS:
+  .box { /* not necessary, as this is the default for all elements */ position: static; }  However, this is not necessary since all elements are statically positioned by default</description>
+    </item>
+    
+    <item>
+      <title>Strings</title>
+      <link>/11-javascript-fundamentals/data-types/strings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/11-javascript-fundamentals/data-types/strings/</guid>
+      <description>Strings  Strings can consist of letters and other characters
+ They are surrounded by either double quotes or single quotes (this is how you recognize you are working with a string)
+ Concatenation allows you to combine strings
+  // declare a variable called color and store a string let color = &amp;quot;green&amp;quot;;  Single or double quotes can be used for strings, but the opening quote must match the closing quote</description>
+    </item>
+    
+    <item>
+      <title>Text Input</title>
+      <link>/17-forms/form-elements/text-input/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/17-forms/form-elements/text-input/</guid>
+      <description> Text Input &amp;lt;form action=&amp;quot;http://www.example.com/login.php&amp;quot;&amp;gt; &amp;lt;p&amp;gt; Username: &amp;lt;input type=&amp;quot;text&amp;quot; name=&amp;quot;username&amp;quot; maxlength=&amp;quot;30&amp;quot; /&amp;gt; &amp;lt;/p&amp;gt; &amp;lt;/form&amp;gt;  Text Input Example Text Input Attributes  type=&amp;ldquo;text&amp;rdquo;: Tells browser input will store plain text name: Used by the server to identify which form control that data came from maxlength: (optional) Specifies that max number of characters that can be entered  </description>
+    </item>
+    
+    <item>
+      <title>What Is Responsive Design?</title>
+      <link>/15-responsive-design/responsive-design-overview/what-is-responsive-design/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/15-responsive-design/responsive-design-overview/what-is-responsive-design/</guid>
+      <description> What is Responsive Design?  A way of making websites that can be easily viewed and used on any type of device and size of screen  Advantages of Responsive Design  Developers only have to create one website, one design, one set of code, and one set of content
+ Better optimized for search (SEO), no longer need to use m-dot websites
+  </description>
+    </item>
+    
+    <item>
+      <title>What are Variables?</title>
+      <link>/11-javascript-fundamentals/variables/what-are-variables/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/11-javascript-fundamentals/variables/what-are-variables/</guid>
+      <description>What are variables?  Allows us to store values and so our programs can keep track of Data
+ Similar to algebra
+ Helps you represent data or values
+ Used to help your program “remember” values
+ Can be thought of as a “box” that we put values in
+ In programming, you store values in variables if you plan on referencing that value at a later time</description>
+    </item>
+    
+    <item>
+      <title>What is jQuery?</title>
+      <link>/10-intro-to-jquery/jquery-overview/what-is-jquery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/10-intro-to-jquery/jquery-overview/what-is-jquery/</guid>
+      <description>What is jQuery?  A Javascript library that makes it easy to dynamically update your pages (i.e. perform DOM manipulation)
+ Offers a simple way to achieve a variety of common Javascript tasks
+ Consistent across all browsers
+ Does not do anything native / vanilla Javascript cannot do, just does it with a more intuitive syntax
+  It&amp;rsquo;s important to note that jQuery is NOT another programming language it is a library or tool built on top of Javascript</description>
+    </item>
+    
+    <item>
+      <title>What is the Viewport?</title>
+      <link>/15-responsive-design/viewport-meta-tag/what-is-viewport/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/15-responsive-design/viewport-meta-tag/what-is-viewport/</guid>
+      <description>What is the viewport?  Area on the computer or device screen where you are viewing a web page
+ Viewport width is not always the same thing as screen width
+ For example: Drogo has a laptop that has a maximum screen width of 1280px, but likes to resize his web browser to 800px (viewport width)  On mobile devices viewport width is the same as screen width because mobile devices don&amp;rsquo;t allow you to change the size of your browser</description>
+    </item>
+    
+    <item>
+      <title>iTunes Search API</title>
+      <link>/course-materials/code-demos/getting-data-from-other-services/itunes-search-api/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/course-materials/code-demos/getting-data-from-other-services/itunes-search-api/</guid>
+      <description>Demo Application Summary This application uses the iTunes API to display a list of songs/albums associated with artist submitted into the search field
+download iTunes Search Application</description>
+    </item>
+    
+    <item>
+      <title>Agenda</title>
+      <link>/05-css-selectors/agenda/</link>
+      <pubDate>Sun, 22 Jan 2017 18:05:18 -0500</pubDate>
+      
+      <guid>/05-css-selectors/agenda/</guid>
+      <description> Classes and IDs
+ CSS Selectors Overview &amp;amp; Examples
+ Exercise: CSS Diner
+  </description>
+    </item>
+    
+    <item>
+      <title>Agenda</title>
+      <link>/04-css-basics/agenda/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/04-css-basics/agenda/</guid>
+      <description> Thinking in boxes
+ What is CSS
+ Adding CSS to your websites
+  </description>
+    </item>
+    
+    <item>
+      <title>Agenda</title>
+      <link>/08-css-positioning-and-colors/agenda/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/08-css-positioning-and-colors/agenda/</guid>
+      <description> CSS Colors
+ CSS Positioning
+ Background Images
+ Lab: Fashion Blog - Pt 2
+  </description>
+    </item>
+    
+    <item>
+      <title>Agenda</title>
+      <link>/12-functions/agenda/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/12-functions/agenda/</guid>
+      <description> Discuss Functions
+ Code Along: Geometry Formulas using Functions
+ Code Along: HiLo
+ Lab: Complete HiLo
+  </description>
+    </item>
+    
+    <item>
+      <title>Exercise: Working with Github</title>
+      <link>/02-git-github/exercise-github-workflow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/02-git-github/exercise-github-workflow/</guid>
+      <description>Work together in pairs and follow the directions below.
+Use this Guide as reference
+Steps  1) Fork this repository located on Github.com
+ 2) Clone the Repository using Github Desktop
+ 3) Save the local copy of the repository in your FEWD/github folder
+ 4) Open the project in Atom and and add the lyrics to Barney&amp;rsquo;s (you know the purple dinosaur) hit song &amp;ldquo;I Love You&amp;rdquo;. Save your work.</description>
+    </item>
+    
+    <item>
+      <title>!important</title>
+      <link>/06-css-box-model/css-cascading-guidelines/important/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/06-css-box-model/css-cascading-guidelines/important/</guid>
+      <description>!important  You can override all the above rules by adding a “!important” after any property
+ This should be used sparingly; excessive use of !important can cause confusion within your codebase
+  // in css #thing { color: green; } // add the !important option at the end of your declaration; p { color: red !important; }  &amp;lt;!-- in html --&amp;gt; &amp;lt;!DOCTYPE html&amp;gt; &amp;lt;html&amp;gt; &amp;lt;head&amp;gt; &amp;lt;title&amp;gt;Sample Page&amp;lt;/title&amp;gt; &amp;lt;/head&amp;gt; &amp;lt;body&amp;gt; &amp;lt;p id=&amp;quot;thing&amp;quot;&amp;gt;Will be RED and NOT Green&amp;lt;/p&amp;gt; &amp;lt;/body&amp;gt; &amp;lt;/html&amp;gt;  Here we used the !</description>
+    </item>
+    
+    <item>
+      <title>Thinking in Boxes</title>
+      <link>/04-css-basics/thinking-in-boxes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/04-css-basics/thinking-in-boxes/</guid>
+      <description>Understanding the CSS Box Model is key to understanding how CSS works
+ Going forward, you should view every element as a box (because that&amp;rsquo;s how browsers view them)
+   Block elements in the image are outlined in red, while inline elements are outlined in green
+ Every element is a box, some boxes contain other boxes &amp;lt;body&amp;gt;, &amp;lt;div&amp;gt; or &amp;lt;article&amp;gt;
+ CSS allows you to create rules the control each individual box</description>
+    </item>
+    
+    <item>
+      <title>Fixed Width Layouts</title>
+      <link>/15-responsive-design/fixed-width-layouts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/15-responsive-design/fixed-width-layouts/</guid>
+      <description>Fixed Width Layouts  Method of designing websites so they look the same on any sized monitor
+ Pre-dates advent of smartphones and mobile web-browsing
+ Not optimized for smaller screens
+ Uses pixels to set width of the layout
+ Still fairly common
+  Examples of Fixed Width Design  ikea.com
+ amazon.com
+  Disadvantages of Fixed Width Design  Displayed the same way regardless of screen size</description>
+    </item>
+    
+    <item>
+      <title>Intro to CSS</title>
+      <link>/04-css-basics/css-intro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/04-css-basics/css-intro/</guid>
+      <description>What is CSS?  Stands for Cascading Style Sheet
+ Allows you to control design of page
+ With CSS allows you to create rules that specify how the content of an element should appear
+  p { color: gray; }  Applying the CSS rule above will result in text color of all &amp;lt;p&amp;gt; tags being changed to gray.
+Anatomy of a CSS Rule  CSS works by associating rules with HTML elements.</description>
+    </item>
+    
+    <item>
+      <title>Adding CSS to your website</title>
+      <link>/04-css-basics/adding-css/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/04-css-basics/adding-css/</guid>
+      <description>There are three ways to add css to your site  1) Inline (avoid!)
+ 2) Internal css using &amp;lt;style&amp;gt; tag (avoid!)
+ 3) External file (best practice)
+  Inline CSS (avoid!)  This method involves adding styles directly to html elements using a style attribute   &amp;lt;body style=&amp;quot;background-color: orange;&amp;quot;&amp;gt; &amp;lt;!-- other tags redacted for example --&amp;gt; &amp;lt;/body&amp;gt;  Internal CSS (avoid!)  This method involves adding styles directly to html elements using a &amp;lt;style&amp;gt; tag  &amp;lt;!</description>
+    </item>
+    
+    <item>
+      <title>Classes and Ids</title>
+      <link>/05-css-selectors/classes-and-ids/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/05-css-selectors/classes-and-ids/</guid>
+      <description>Classes and Ids  Both are just HTML attributes
+ Should start with a letter or underscore
+ Can be applied to any html element
+ Important: Use of the class or id attribute by itself does not change the appearance of an element; CSS/Javascript must be involved
+  Class Attribute  Is used to group elements together, therefore establishing them as different from other elements on the page</description>
+    </item>
+    
+    <item>
+      <title>Defining Functions</title>
+      <link>/12-functions/defining-functions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/12-functions/defining-functions/</guid>
+      <description>Defining a Function  A function definition is code that stipulates what the function can do
+ Use the function keyword to define a function
+ Functions can be given a name
+ The name must be followed by parentheses
+ The opening and closing curly braces indicate a “code block”
+ The statements for your function goes within the code block
+ Simply defining the function will not run this code, this function must be “called” in order for the code inside the function to be run</description>
+    </item>
+    
+    <item>
+      <title>Inheritance</title>
+      <link>/06-css-box-model/css-cascading-guidelines/inheritance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/06-css-box-model/css-cascading-guidelines/inheritance/</guid>
+      <description>Inheritance  Certain CSS properties such as font-family, font-size, color will be inherited by child properties
+ However, properties such as background color or border properties are not inherited
+ Click here to see a full list inherited and non-inherited CSS properties
+  Live Example
+JS Bin on jsbin.com
+In the example, the p element will automatically inherit the font color property from its ancestor (body) since color is a css property that can be inherited.</description>
+    </item>
+    
+    <item>
+      <title>Lesson Files</title>
+      <link>/course-materials/lesson-files/</link>
+      <pubDate>Sun, 17 Mar 2019 13:48:09 -0400</pubDate>
+      
+      <guid>/course-materials/lesson-files/</guid>
+      <description>Lesson Files  Lesson 00 files (Course Intro &amp;amp; Tools) : No files needed
+ Lesson 01 files (HTML Basics)
+ Lesson 02 files (Git/Github): No files needed
+ Lesson 03 files (Relative Paths)
+ Lesson 04 files (CSS Basics)
+ Lesson 05 files (CSS Selectors): No files needed
+ Lesson 06 files (CSS Box Model)
+ Lesson 07 files (Page Layout with Flexbox)
+ Lesson 08 files (CSS Positioning, Colors &amp;amp; Background Images)</description>
+    </item>
+    
+    <item>
+      <title>Body, Head &amp; Title</title>
+      <link>/01-html-basics/tag-overview/body-head-title/</link>
+      <pubDate>Thu, 14 Mar 2019 20:29:59 -0400</pubDate>
+      
+      <guid>/01-html-basics/tag-overview/body-head-title/</guid>
+      <description>&amp;lt;html&amp;gt;, &amp;lt;body&amp;gt;, &amp;lt;head&amp;gt;, &amp;lt;title&amp;gt; The following tags make up the structure of all web pages
+ &amp;lt;html&amp;gt;
+ Represents the root (top-level element) of an HTML document, so it is also referred to as the root element
+ All other elements must be descendants of this element.
+  &amp;lt;body&amp;gt;
+ Everything inside the body tag is shown inside the browser window  &amp;lt;head&amp;gt;
+ Contains information about the page (vs shown on the pages</description>
+    </item>
+    
+    <item>
+      <title>Keyboard Shortcuts</title>
+      <link>/21-class-resources/keyboard-shortcuts/</link>
+      <pubDate>Sun, 22 Jan 2017 18:05:18 -0500</pubDate>
+      
+      <guid>/21-class-resources/keyboard-shortcuts/</guid>
+      <description>General Window Management &amp;amp; Browser Shortcuts    Action Mac Windows     Open Chrome Developer Tools cmd+option + i F2 or ctrl + shift + i   Refresh page cmd + R ctrl + R   Switch between applications cmd + tab alt + tab   Switch between windows in the same application cmd + ~     Atom Shortcuts Files, Windows, Tabs Management    Command macOS Windows Linux Description     Open Settings Menu cmd+, ctrl+, ctrl+, Opens the Atom&amp;rsquo;s settings menu   Open File (Fuzzy) cmd+p or cmd+t ctrl+p or ctrl+t ctrl+p or ctrl+t Opens the Fuzzy Finder   Browse Open Files cmd+b ctrl+b ctrl+b Browse tabs within the window   Previous Tab alt+cmd+left ctrl+pageup ctrl+pageup Cycles left through open tabs (in the active pane)   Next Tab alt+cmd+right ctrl+pagedown ctrl+pagedown Cycles right through open tabs (in the active page)   Toggle Tree View cmd+\ ctrl+\ ctrl+\ Toggles Atom&amp;rsquo;s file Tree View   Show Available Snippets alt+shift+s alt+shift+s alt+shift+s Shows the snippets available to Atom   Save cmd+s ctrl+s ctrl+s Saves the currently active file   Save As shift+cmd+s ctrl+shift+s ctrl+shift+s Saves the currently active file under a different name   Save All alt+cmd+s   Saves all changed files   Close Tab cmd+w ctrl+w ctrl+w Closes the currently active tab   Close Window shift+cmd+w ctrl+shift+w ctrl+shift+w Closes the currently active editor window   Split Window cmd+k up/down/left/right ctrl+k up/down/left/right ctrl+k up/down/left/right Split the currently active tab in one of the four directions   Focus Pane cmd+k cmd+up/down/left/right ctrl+k ctrl+up/down/left/right ctrl+k ctrl+up/down/left/right Move the focus to the pane in one of the four directions   Toggle full screen ctrl+cmd+f F11 F11 Toggle full screen window    Editing    Command macOS Windows Linux Description     Duplicate Lines shift+cmd+d ctrl+shift+d ctrl+shift+d Duplicates the line of the current cursor position and creates a new line under it with the same contents   Delete Line ctrl+shift+k ctrl+shift+k ctrl+shift+k Deletes the current line   Move Line Up ctrl+cmd+up ctrl+up ctrl+up Moves the contents of the current cursor position up one line.</description>
+    </item>
+    
+    <item>
+      <title>Objectives</title>
+      <link>/00-course-intro-and-tools/objectives/</link>
+      <pubDate>Sun, 22 Jan 2017 18:05:18 -0500</pubDate>
+      
+      <guid>/00-course-intro-and-tools/objectives/</guid>
+      <description> Understand what the term &amp;ldquo;front-end Development&amp;rdquo; means
+ Introduce tools you will be using throughout the class
+ Cover class logistics, structure &amp;amp; keys to success
+  </description>
+    </item>
+    
+    <item>
+      <title>.val()</title>
+      <link>/10-intro-to-jquery/jquery-in-action/reading-writing-content/val/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/10-intro-to-jquery/jquery-in-action/reading-writing-content/val/</guid>
+      <description>.val()  Allows you to either read (get) or write (set) the value of html elements (documentation)
+ This is mainly used to read and write values of form elements such as text fields (input fields)
+  Reading Values  To read (or get) the value of elements using jQuery you need to use the .val() method with nothing between the parentheses   // read the value found in the element .</description>
+    </item>
+    
+    <item>
+      <title>Align Self</title>
+      <link>/07-page-layout-flexbox/flexbox/flex-items-properties/align-self/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/07-page-layout-flexbox/flexbox/flex-items-properties/align-self/</guid>
+      <description>align-self  allows the default alignment (or the one specified by align-items) to be overridden for individual flex items.   .item { align-self: auto | flex-start | flex-end | center | baseline | stretch; } --- Live Example  JS Bin on jsbin.com</description>
+    </item>
+    
+    <item>
+      <title>Anonymous Functions</title>
+      <link>/14-javascript-lab/anonymous-functions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/14-javascript-lab/anonymous-functions/</guid>
+      <description>What are Anonymous Functions? // An anonymous function is a function without a name function(width, height){ return width * height; }; // this function can later be stored as a variable and used later in your code let area = function(width, height){ return width * height; }; // Call anonymous function stored as a variable area(4, 5); // returns 20  When should you use Anonymous Functions?  Use for code that only needs to run once within a task</description>
+    </item>
+    
+    <item>
+      <title>Arrays</title>
+      <link>/13-arrays-and-loops/arrays/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/13-arrays-and-loops/arrays/</guid>
+      <description>Arrays  Used to when you are working with a list of values that are related to each other
+ Use square brackets to create an array (this is also how you quickly recognize arrays)
+ Values in an array are separated by commas
+  Creating an Array  We can store variables just like any other data type
+ You can create that doesn&amp;rsquo;t initially contain any values, this is called an empty array</description>
+    </item>
+    
+    <item>
+      <title>Background Repeat</title>
+      <link>/08-css-positioning-and-colors/background-images/background-repeat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/08-css-positioning-and-colors/background-images/background-repeat/</guid>
+      <description> background-repeat Property  background-repeat allows you to control how an background image is repeated
+ repeat: image is repeated both horizontally and vertically (default behavior)
+ repeat-x: image is only repeated horizontally
+ repeat-y: image is only repeated vertically
+ no-repeat: image is only shown once and not repeated
+   </description>
+    </item>
+    
+    <item>
+      <title>Benefits of jQuery</title>
+      <link>/10-intro-to-jquery/jquery-overview/benefits-of-jquery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/10-intro-to-jquery/jquery-overview/benefits-of-jquery/</guid>
+      <description>Benefits of jQuery?  Uses CSS selectors to help us grab or select elements programmatically (i.e. in our code)
+ Accomplishes more with less code vs using native Javascript
+  CSS selectors means less code Here&amp;rsquo;s how we would programmatically select an element with an id of &amp;ldquo;flavors&amp;rdquo; using native Javascript
+// selecting an element using native Javascript document.getElementById(&#39;flavors&#39;).onClick = doSomething();  Here&amp;rsquo;s how we would programmatically select an element with an id of &amp;ldquo;flavors&amp;rdquo; using jQuery</description>
+    </item>
+    
+    <item>
+      <title>Calling Functions</title>
+      <link>/12-functions/calling-functions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/12-functions/calling-functions/</guid>
+      <description>Calling a Function  Calling a function means you are using the function (as opposed to defining a function which only tells us what the function can do)
+ To call a function you simply write function name followed by parentheses (don’t forget the parentheses!)
+ Now you can call this function as many times as you want
+  // define / declare a function named shout() // by itself this doesn&#39;t do anything, we must &amp;quot;Call&amp;quot; it // in order to use it function shout() { alert(&amp;quot;HELLO!</description>
+    </item>
+    
+    <item>
+      <title>Code Along - FAQ</title>
+      <link>/11-javascript-fundamentals/code-along-faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/11-javascript-fundamentals/code-along-faq/</guid>
+      <description> Code Along: FAQ (Frequently Asked Questions)  Using Atom, open the folder called faq in your lesson_11_files folder. You will be using these files as starting off point.
+ During this exercise, we&amp;rsquo;ll be doing the following:
+ We&amp;rsquo;ll use jQuery implement a FAQ often found on a company&amp;rsquo;s support page   </description>
+    </item>
+    
+    <item>
+      <title>Containing Elements</title>
+      <link>/07-page-layout-flexbox/containing-elements/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/07-page-layout-flexbox/containing-elements/</guid>
+      <description>Containing Elements  Elements that contain groups of elements
+ For example, grouping all of the elements associated with the header in a &amp;lt;div&amp;gt;
+ &amp;lt;div&amp;gt; tags are commonly used as containing elements
+  In example the above example, orange lines represent &amp;lt;div&amp;gt; tags
+&amp;lt;div&amp;gt;  Used to group a set of elements together in one block-level box
+ &amp;lt;div&amp;gt; element are block-level elements which means they will start on a new line</description>
+    </item>
+    
+    <item>
+      <title>Declaring Variables</title>
+      <link>/11-javascript-fundamentals/variables/declaring-variables/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/11-javascript-fundamentals/variables/declaring-variables/</guid>
+      <description> Declaring Variables  Variables are created by declaring them
+ Use the let keyword to declare a variable
+ If you declare a variable without assigning it an initial value, the value of that variable will be undefined
+  // declaring a variable let firstName;  Variables only need to be declared once
+ </description>
+    </item>
+    
+    <item>
+      <title>Display</title>
+      <link>/07-page-layout-flexbox/flexbox/flex-container-properties/display/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/07-page-layout-flexbox/flexbox/flex-container-properties/display/</guid>
+      <description> display  Defines a flex container
+ inline or block depending on the given value
+  .container { display: flex; /* or inline-flex */ }  </description>
+    </item>
+    
+    <item>
+      <title>Form Overview</title>
+      <link>/17-forms/form-overview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/17-forms/form-overview/</guid>
+      <description> What are forms?  Forms allow us to get data from users  How do forms work? Form Structure &amp;lt;form action=&amp;quot;http://www.example.com/subscribe.php&amp;quot; method=&amp;quot;get&amp;quot;&amp;gt; &amp;lt;p&amp;gt;This is where the form controls will appear.&amp;lt;/p&amp;gt; &amp;lt;/form&amp;gt;  Form Attributes  action: Required, the url on the server that will receive the information from the form
+ method: Either a get or post
+ Use get when the data being sent to server is not senstive information and is relatively small (search form) Use post when sending senstive data and when sending large amounts of data (registration form)   </description>
+    </item>
+    
+    <item>
+      <title>HW #1 - Online Travel Guide</title>
+      <link>/homework-assignments/assignments/hw-01-online-travel-guide/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/homework-assignments/assignments/hw-01-online-travel-guide/</guid>
+      <description>Homework #1: Online Travel Guide Create an online travel guide for a travel destination of your choice
+Please refer to the Homework Submission Github Workflow guide for detailed instructions for starting, completing and submitting Homework Assignments
+ Directions:  Review the assignment here
+ Fork the following repository: fewd20190318/hw-01-online-travel-guide
+ Clone the assignment repository down to your computer
+ Work on your assignment and regularly commit your work
+ Submit your assignment using a Pull Request</description>
+    </item>
+    
+    <item>
+      <title>Hex codes</title>
+      <link>/08-css-positioning-and-colors/css-colors/hex-codes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/08-css-positioning-and-colors/css-colors/hex-codes/</guid>
+      <description> Hex Codes  colors represented by values for red, green and blue in hexadecimal code  h1 { color: #66cdaa; }  </description>
+    </item>
+    
+    <item>
+      <title>Lab Overview</title>
+      <link>/16-responsive-design-lab/lab-overview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/16-responsive-design-lab/lab-overview/</guid>
+      <description> Lab: Startup Matchmaker  You have been hired to turn Startup Matchmaker into a fully responsive site  Requirements  Using Atom, open the folder called startup_matchmaker in your lesson_16_files folder. You will be using these files as starting off point.
+ Update Startup Matchmaker so the homepage&amp;rsquo;s content is effectively displayed on tablets or below (viewport width: 768px or below)
+  </description>
+    </item>
+    
+    <item>
+      <title>Media Features</title>
+      <link>/15-responsive-design/media-queries/media-query-parts/media-features/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/15-responsive-design/media-queries/media-query-parts/media-features/</guid>
+      <description>@media only screen and (min-width: 576px) { /** add styles here **/ }  Media Feature/Attribute  Media features allows you to specify different viewport attributes and are always expressed in parentheses  @media only screen and (min-width: 768px) { body { /* styles go here */ } p { /* styles go here */ } .some-style { /* styles go here */ } }   The styles in the media query above will only be applied when the viewport width is greater than or equal to 768px  Available Media Query Attributes (Features) The following is a list of Media Features available</description>
+    </item>
+    
+    <item>
+      <title>Media Types</title>
+      <link>/15-responsive-design/media-queries/media-query-parts/media-types/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/15-responsive-design/media-queries/media-query-parts/media-types/</guid>
+      <description>@media only screen and (min-width: 576px) { /** add styles here **/ }  Media Types  Indicates what type of media the query will be using. Screen tells the browser the query will be used by a computer or mobile device
+ The only keyword indicates that this query will be only be for the screen media type and no other
+  While we will just be using the screen media type, you can see a list of all available media types here</description>
+    </item>
+    
+    <item>
+      <title>Numbers</title>
+      <link>/11-javascript-fundamentals/data-types/numbers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/11-javascript-fundamentals/data-types/numbers/</guid>
+      <description>Numbers  Used for tasks involving counting or calculating sums
+ Whole numbers (integers) or decimals (floats)
+ Numbers can be negative or positive
+ Numbers do not have quotes around them
+  There are no commas used when expressing numbers, for example the number 1,750 is expressed as 1750 in Javascript
+ JS Bin on jsbin.com
+Converting Strings to Numbers  Sometimes you will find yourself in a position where you need to convert a string to a number</description>
+    </item>
+    
+    <item>
+      <title>Password Input</title>
+      <link>/17-forms/form-elements/password-input/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/17-forms/form-elements/password-input/</guid>
+      <description> Password Input &amp;lt;form action=&amp;quot;http://www.example.com/login.php&amp;quot;&amp;gt; &amp;lt;p&amp;gt; Username: &amp;lt;input type=&amp;quot;text&amp;quot; name=&amp;quot;username&amp;quot; size=&amp;quot;15&amp;quot; maxlength=&amp;quot;30&amp;quot; /&amp;gt; &amp;lt;/p&amp;gt; &amp;lt;p&amp;gt; Password: &amp;lt;input type=&amp;quot;password&amp;quot; name=&amp;quot;password&amp;quot; size=&amp;quot;15&amp;quot; maxlength=&amp;quot;30&amp;quot; /&amp;gt; &amp;lt;/p&amp;gt; &amp;lt;/form&amp;gt;  Password Input Example Password Input Attributes  type=&amp;ldquo;password&amp;rdquo;: Tells browser input will store sensitive information, block characters from being displayed name: Used by the server to identify which form control that data came from maxlength: (optional) Specifies that max number of characters that can be entered  </description>
+    </item>
+    
+    <item>
+      <title>Programming Protips</title>
+      <link>/10-intro-to-jquery/programming-protips/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/10-intro-to-jquery/programming-protips/</guid>
+      <description>Bugs &amp;amp; errors will always happen and they are a good thing consider them to be Learning Opportunities
+ When an error occurs, take the following steps:
+ Take deep breath Read the error message (look for clues) Find the source of the error (i.e. which line of code is causing the error) Fix the error  The process of fixing bugs is also referred to as debugging
+    Use your developer console always</description>
+    </item>
+    
+    <item>
+      <title>REMs</title>
+      <link>/15-responsive-design/relative-measurements/rems/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/15-responsive-design/relative-measurements/rems/</guid>
+      <description>What are REMs?  Similar to EMs, key difference is how the relative measurement is calculated
+ Instead of sizing fonts relative to their parent containers, REM sizes fonts relative to the root view (i.e. )
+ This means a lot less math when attempting to calculate the real pixel value
+  Example: REMs in Action
+JS Bin on jsbin.com
+In the example above, the .green-box element has it&amp;rsquo;s font size set using REM (font-size: 1.</description>
+    </item>
+    
+    <item>
+      <title>Relative Positioning</title>
+      <link>/08-css-positioning-and-colors/css-positioning/relative-positioning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/08-css-positioning-and-colors/css-positioning/relative-positioning/</guid>
+      <description>Relative Positioning  Moves element in relation to where it would have been in normal flow
+ Uses offset properties (top or bottom and left or right) to indicate how far to move the element from where it would have been in normal flow
+ Usually accompanied by box offsets: top, right, bottom, left.
+ It will not effect the other elements on the page, surrounding elements stay in the position in their normal flow positions</description>
+    </item>
+    
+    <item>
+      <title>Responsive Design Examples</title>
+      <link>/15-responsive-design/responsive-design-overview/examples/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/15-responsive-design/responsive-design-overview/examples/</guid>
+      <description> Examples of Responsive Design  World Wild Life Fund
+ Etsy
+ Boston Globe
+ Shopify
+ Slack
+  </description>
+    </item>
+    
+    <item>
+      <title>Student Projects</title>
+      <link>/19-final-project-presentations/student-projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/19-final-project-presentations/student-projects/</guid>
+      <description>Student Project     Senecca Bratcher https://sjbrat.github.io/   Paloma Calles https://palomacalles.github.io/   Lauren Farfel https://lfarfel95.github.io/   Allison Gollub https://allisongee.github.io/index.html   Jennifer Gong https://jngong.github.io/   Emilee Lindner https://emilee537.github.io/   Taylor Mckeel https://josephmckeel.github.io/index.html   Karen Ortiz https://kayoh26.github.io/   Sammi Oyeniyi https://soyeniyi801.github.io/   Sarah Shaw https://sarahfshaw.github.io/   Nathan Taylor http://nhtaylor.github.io   Jacy Waldrop https://jbwaldrop01.github.io/   Lauralyn Watson https://lswatson.</description>
+    </item>
+    
+    <item>
+      <title>Submit Project Ideas</title>
+      <link>/final-projects/milestones-due-dates/submit-project-ideas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/final-projects/milestones-due-dates/submit-project-ideas/</guid>
+      <description> Milestone I: Submit Project Ideas  Submit three (3) ideas for your final project
+ Deliverable: Use this form to submit your final project ideas
+ Due Date: Monday, April 15th
+ After which, I&amp;rsquo;ll schedule some time to meet with you to discuss your ideas
+  </description>
+    </item>
+    
+    <item>
+      <title>Viewport Meta Tag</title>
+      <link>/15-responsive-design/viewport-meta-tag/viewport-meta-tag/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/15-responsive-design/viewport-meta-tag/viewport-meta-tag/</guid>
+      <description>Viewport Meta Tag Add the following to your  element
+ This enables use of media queries for cross-device layouts.  &amp;lt;meta name=&amp;quot;viewport&amp;quot; content=&amp;quot;width=device-width, initial-scale=1&amp;quot;&amp;gt;  More info on the viewport meta tag
+What happens if you don&amp;rsquo;t set the viewport?  The example above depicts a website being viewed on a legacy iPhone (320 pixels wide)
+ Because the viewport meta tag was not set the mobile browser will automatically assume you want to see the &amp;ldquo;entire&amp;rdquo; page on your smaller screen.</description>
+    </item>
+    
+    <item>
+      <title>What is Programming?</title>
+      <link>/09-intro-to-programming/what-is-programming/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/09-intro-to-programming/what-is-programming/</guid>
+      <description> What is Programming?  List of instructions that a computer needs in order to complete a task
+ Instructions are provided in a programming language that the computer understands
+ These set of instructions are commonly referred as source code or a program
+  </description>
+    </item>
+    
+    <item>
+      <title>Windows Instructions</title>
+      <link>/21-class-resources/running-local-server/windows/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/21-class-resources/running-local-server/windows/</guid>
+      <description>Windows Instructions  Open the Command Prompt application on Windows
+ Install python, see the instructions here
+ Using the command line navigate to the project folder
+In the hypothetical example below the project folder is stored in Documents/FEWD/Demos/mapbox_example
+On your command line you would do the following (do not type &amp;lsquo;$&amp;rsquo;, your text input on the command line should with cd):
+$ cd Documents/FEWD/Demos/mapbox_example  Run python -m SimpleHTTPServer 8000 to start the local server</description>
+    </item>
+    
+    <item>
+      <title>Adding jQuery to your projects</title>
+      <link>/10-intro-to-jquery/jquery-overview/adding-jquery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/10-intro-to-jquery/jquery-overview/adding-jquery/</guid>
+      <description>There are two ways to add jQuery to your projects  Download the jQuery library file and store it within your project
+ Use a CDN (content delivery network) and reference the jQuery library file remotely
+  Option #1 - Download jQuery file(s) This approach assumes you downloaded the jQuery file and stored it on your js folder
+&amp;lt;html&amp;gt; &amp;lt;head&amp;gt; &amp;lt;title&amp;gt;Add jQuery by downloading jQuery file(s)&amp;lt;/title&amp;gt; &amp;lt;/head&amp;gt; &amp;lt;body&amp;gt; &amp;lt;script src=&amp;quot;js/jquery-3.</description>
+    </item>
+    
+    <item>
+      <title>CSS Selectors</title>
+      <link>/05-css-selectors/css-selectors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/05-css-selectors/css-selectors/</guid>
+      <description>CSS Selectors Overview  Many different types of selectors that allow you to target rules to specific elements in an HTML document
+ Selectors are case sensitive, must match element names and attributes exactly
+     Selector Meaning Example     Universal Selector Applies to all elements *{}   Type Selector Match elements names h1, h2, h3 {}   Class Selector Matches all elements with a class attribute value matching on specified after a period (.</description>
+    </item>
+    
+    <item>
+      <title>CSS Selectors Examples</title>
+      <link>/05-css-selectors/css-selectors-examples/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/05-css-selectors/css-selectors-examples/</guid>
+      <description>CSS Selectors Examples Class Selector JS Bin on jsbin.com
+ID Selector JS Bin on jsbin.com
+Child Selector JS Bin on jsbin.com
+Descendent Selector Descendant Selector Example on jsbin.com
+Adjacent Sibling Selector Adjacent Sibling Selector example on jsbin.com
+General Sibling Selector General Sibling Selector Example on jsbin.com
+Pseudo Class Selector JS Bin on jsbin.com
+Pseudo Element Selector JS Bin on jsbin.com</description>
+    </item>
+    
+    <item>
+      <title>Responsive Design Components</title>
+      <link>/15-responsive-design/responsive-design-overview/responsive-design-components/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/15-responsive-design/responsive-design-overview/responsive-design-components/</guid>
+      <description>Two Main Components of Responsive Design  Media Queries
+ Flexibility
+  Media Queries  Allow you to use CSS to change the design of the website depending on the width of the device’s screen / viewport  Flexibility  Concept means that our Horizontal measurements on our site need to respond to changes in the size of the screen
+ This means:
+ Width of columns and other layout elements will be in percentages</description>
+    </item>
+    
+    <item>
+      <title>Styling Forms</title>
+      <link>/17-forms/styling-forms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/17-forms/styling-forms/</guid>
+      <description> Tips for Styling Forms  Use border box
+ Use reset.css or normalize.css to reduce browser specific quirks
+ Read the following:
+ Mozilla Network Guide to Styling forms
+ CSS Tricks Styling forms
+ Code Tuts Styling forms using CSS3
+   </description>
+    </item>
+    
+    <item>
+      <title>Working with Parameters</title>
+      <link>/12-functions/working-with-parameters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/12-functions/working-with-parameters/</guid>
+      <description>Declaring Functions that need information  Some functions need additional information in order to perform a specific task
+ This additional information is referred to as “parameters”
+ To provide parameters to a function, you specify them inside the parentheses after the parameter name
+ The parameters are used like variables within the function body
+ We use the return keyword when we want our function to &amp;ldquo;give us back&amp;rdquo; a value</description>
+    </item>
+    
+    <item>
+      <title>jQuery syntax using $() function</title>
+      <link>/10-intro-to-jquery/jquery-overview/jquery-syntax/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/10-intro-to-jquery/jquery-overview/jquery-syntax/</guid>
+      <description>$() function  jQuery uses a built-in function called jQuery() to allow developers to programmatically select elements on a html page
+ $() is shorthand for jQuery()
+ This shorthand syntax is used almost exclusively (because results in less typing) and that is what we will be using throughout the course   // programmatically &amp;quot;select&amp;quot; all p tags on the page using jQuery() syntax jQuery(&#39;p&#39;) // programmatically &amp;quot;select&amp;quot; all p tags on the page using the $() shorthand syntax; most widely used approach $(&#39;p&#39;)  Example</description>
+    </item>
+    
+    <item>
+      <title>Code Along - About Me</title>
+      <link>/04-css-basics/code-along/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/04-css-basics/code-along/</guid>
+      <description>Code Along: Building an &amp;ldquo;About Me&amp;rdquo; page  As a class, we&amp;rsquo;ll walk through using html and css to build the &amp;ldquo;About Me&amp;rdquo; page depicted in the image below   Using Atom, open the folder called rocket_raccoon_about_me in your lesson_04_files folder. You will be using these files as starting off point.
+ When building websites it is a best practice to have a plan in place before starting out.</description>
+    </item>
+    
+    <item>
+      <title>Code Along - Contact Us Form</title>
+      <link>/17-forms/code-along-contact-us-form/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/17-forms/code-along-contact-us-form/</guid>
+      <description> Code Along: Build a Contact Us Form  Using Atom, open the folder called contact_us_form in your lesson_17_files folder. You will be using these files as starting off point.
+ As a class, we&amp;rsquo;ll build and design form a contact us form
+  </description>
+    </item>
+    
+    <item>
+      <title>Code Along - GA Press Release</title>
+      <link>/01-html-basics/code-along/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/01-html-basics/code-along/</guid>
+      <description> Code Along: GA Press Release  As a class, we&amp;rsquo;ll walk through using html to build out an html version of a press release
+ Using Sublime, open the folder called ga_press_release (found within the starter_code) folder
+  </description>
+    </item>
+    
+    <item>
+      <title>Document Ready Function</title>
+      <link>/10-intro-to-jquery/jquery-overview/document-ready/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/10-intro-to-jquery/jquery-overview/document-ready/</guid>
+      <description>Document Ready Function  jQuery (and native Javascript) must wait for a page to be loaded before it can try to dynamically update a page (i.e. Manipulate the page&amp;rsquo;s DOM)  We can also avoid this issue by adding the &amp;lt;script&amp;gt; tag (the tag we used to link our .js files to our .html files) at the bottom of your html pages right before the closing &amp;lt;\body&amp;gt; tag
+  jQuery provides a &amp;ldquo;document ready&amp;rdquo; function that will run once the DOM is fully loaded</description>
+    </item>
+    
+    <item>
+      <title>Lab - Portfolio page</title>
+      <link>/04-css-basics/lab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/04-css-basics/lab/</guid>
+      <description>Lab: Start/Complete Portfolio Page  Individually or in teams to finish the fictional developer&amp;rsquo;s site by building out their portfolio page (depicted in the image below)
+ You will be adding a Portfolio page to your existing rocket_raccoon_about_me project
+ Timebox: 35 mins
+ Before you start building: Draw a wireframe of the layout to help you plan your approach
+ The &amp;ldquo;About Me&amp;rdquo; and &amp;ldquo;Porfolio&amp;rdquo; pages should be linked using a relative url</description>
+    </item>
+    
+    <item>
+      <title>Code Along - Geometry Calculator</title>
+      <link>/12-functions/code-along-geometry-calculator/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/12-functions/code-along-geometry-calculator/</guid>
+      <description> Code Along: Geometry Calculator  Using Atom, open the folder called geometry_calculator in your lesson_12_files folder. You will be using these files as starting off point.
+ During this exercise, we&amp;rsquo;ll be doing the following:
+ We&amp;rsquo;ll use javascript to implement an app that calculates geometry functions   </description>
+    </item>
+    
+    <item>
+      <title>Exercise - CSS Diner</title>
+      <link>/05-css-selectors/exercise-css-diner/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/05-css-selectors/exercise-css-diner/</guid>
+      <description> Exercise: CSS Diner During this exercise, you&amp;rsquo;ll go through an interactive tutorial focused on learning the different CSS Selectors
+ Complete the interactive tutorial found here
+ Timebox: 25 mins
+  </description>
+    </item>
+    
+    <item>
+      <title>Lab - Cookie Recipe</title>
+      <link>/01-html-basics/lab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/01-html-basics/lab/</guid>
+      <description> Lab: Cookie Recipe  Work individually or in teams to create an html version of a Cookie recipe depicted in the images below
+ Using Atom, open the folder called cookie_recipe in your lesson_01_files folder. You will be using these files as starting off point.
+ Tips
+ Focus on the content first, then the image then the CSS There will be some items that you will need to look up, CSS is one of them (don&amp;rsquo;t worry we will be going over this in the next class, but part of being a developer is being able to google your way to solutions)   </description>
+    </item>
+    
+    <item>
+      <title>$(this)</title>
+      <link>/14-javascript-lab/this/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/14-javascript-lab/this/</guid>
+      <description>$(this)  this one of the most misunderstood concepts in javascript this (pure javascript) refers to the owner of a function $(this) (jquery) gives you reference to uses jQuery to select the current element  Example of $(this) in use // Event that makes the &amp;lt;p&amp;gt; element disappear when it is clicked $(&#39;p&#39;).click(function(){ // $(this) refers to the jQuery element, $(p), that // the click event was called on // Tell the &amp;lt;p&amp;gt; element to hide itself $(this).</description>
+    </item>
+    
+    <item>
+      <title>.html()</title>
+      <link>/10-intro-to-jquery/jquery-in-action/reading-writing-content/html/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/10-intro-to-jquery/jquery-in-action/reading-writing-content/html/</guid>
+      <description>.html() TBD</description>
+    </item>
+    
+    <item>
+      <title>Absolute Positioning</title>
+      <link>/08-css-positioning-and-colors/css-positioning/absolute-positioning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/08-css-positioning-and-colors/css-positioning/absolute-positioning/</guid>
+      <description>Absolute Positioning  This type of positioning takes box out of normal flow
+ Other elements act as if the absolutely positioned element is not longer there
+ Box offset properties (top or bottom and left or right) are used to position the element
+ Elements positioned absolutely will be positioned relative to the nearest positioned parent element
+  Remember that these values will be relative to the next parent element with relative (or absolute) positioning.</description>
+    </item>
+    
+    <item>
+      <title>Background Position</title>
+      <link>/08-css-positioning-and-colors/background-images/background-position/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/08-css-positioning-and-colors/background-images/background-position/</guid>
+      <description>background-position Property  Used to position an image
+ This property has two values
+ horizontal position
+ vertical position
+   body { /* this image will be applied to the entire page */ background-image: url(&amp;quot;images/cool-background-image.gif&amp;quot;); background-repeat: no-repeat; background-position: center top; }   If you only specify one value, the second value will default to center
+ You can also you pixels or percentages
+ They will represent the distance from the top left corner of the window (or the containing box) top left corner is 0% 0%</description>
+    </item>
+    
+    <item>
+      <title>Booleans</title>
+      <link>/11-javascript-fundamentals/data-types/booleans/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/11-javascript-fundamentals/data-types/booleans/</guid>
+      <description>Booleans  Can only have a value of true or false
+ true/false are special keywords in javascript and do not have quotes around them
+  // declare a variable called isOn and assign a value of true let isOn = true; // declare a variable called isWarm let isWarm; // assign a value of false to isWarm isWarm = false;   Booleans are useful for helping our programs make decisions (when used with conditionals, comparison &amp;amp; logical operators)</description>
+    </item>
+    
+    <item>
+      <title>Breakpoints</title>
+      <link>/15-responsive-design/media-queries/breakpoints/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/15-responsive-design/media-queries/breakpoints/</guid>
+      <description>What are Breakpoints?  Term used to describe that specific widths (or points) where your CSS styles change as a result of a media queries   @media only screen and (min-width: 768px) { /* styles go here */ }  The example above, the styles inside the media query will go into effect at the point where the viewport width is greater than or equal to 768px
+Example of CSS stylesheet with media queries  /* styles outside of the media queries are considered default styles */ .</description>
+    </item>
+    
+    <item>
+      <title>Carousels with Slick</title>
+      <link>/course-materials/code-demos/carousels/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/course-materials/code-demos/carousels/</guid>
+      <description>Overview Slick is a Javascript plugin that makes it easy to carousels to your project.
+Demo Application Summary This application uses Slick to create a simple carousels of 80&amp;rsquo;s cartoons cover art.
+download 80&amp;rsquo;s Cartoons Carousel</description>
+    </item>
+    
+    <item>
+      <title>Code Along - Host Final Project on Github Pages</title>
+      <link>/18-final-projects-lab/code-along-host-github-pages/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/18-final-projects-lab/code-along-host-github-pages/</guid>
+      <description>Github Pages  Free service from Github that allows developers to host websites in the cloud
+ We will be using Github Pages to host your final projects
+  Instructions As a class we will follow the instructions found in the link below to host our Final Projects in the cloud:
+instructions</description>
+    </item>
+    
+    <item>
+      <title>Code Along - Tags and Boxes</title>
+      <link>/06-css-box-model/code-along-tags-and-boxes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/06-css-box-model/code-along-tags-and-boxes/</guid>
+      <description> Code Along: Tags &amp;amp; Boxes  Using Atom, open the folder called tags_boxes in your lesson_06_files folder. You will be using these files as starting off point.
+ As a class, we&amp;rsquo;ll walk through seeing examples of the box model in action
+  </description>
+    </item>
+    
+    <item>
+      <title>Document Object Model</title>
+      <link>/10-intro-to-jquery/dom-intro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/10-intro-to-jquery/dom-intro/</guid>
+      <description>Document Object Model (DOM)  Browsers view our webpages as documents
+ Programming interface for HTML documents
+ The DOM allows us to use a programming language (Javascript) to make dynamic changes to our web pages  Using Javascript to dynamically change our web pages is also referred to as manipulating the DOM
+  Example: Visual representation of the DOM
+In the image above, we have a html document on the left and a visual representation of this page&amp;rsquo;s DOM on the right</description>
+    </item>
+    
+    <item>
+      <title>Flex Direction</title>
+      <link>/07-page-layout-flexbox/flexbox/flex-container-properties/flex-direction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/07-page-layout-flexbox/flexbox/flex-container-properties/flex-direction/</guid>
+      <description> flex direction  Establishes the main-axis and defines the direction flex items are placed in the flex container
+ Determines whether the flex items are layed out as either horizontal rows or vertical columns
+  .container { flex-direction: row | row-reverse | column | column-reverse; }  </description>
+    </item>
+    
+    <item>
+      <title>Get Idea Approved</title>
+      <link>/final-projects/milestones-due-dates/get-idea-approved/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/final-projects/milestones-due-dates/get-idea-approved/</guid>
+      <description> Milestone II: Get Final Project Idea Approved Details TBD
+ Due Date: Monday, April 22nd  </description>
+    </item>
+    
+    <item>
+      <title>Giphy Search API</title>
+      <link>/course-materials/code-demos/getting-data-from-other-services/giphy-api/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/course-materials/code-demos/getting-data-from-other-services/giphy-api/</guid>
+      <description>Demo Application Summary This application uses the Giphy API to display a list of gifs associated with a search term submitted into the search field
+download Giphy Search Application
+Setup Instructions  Sign up for a Giphy Developer account
+ Download the demo application and save files in your class folder
+ Add your Access Token to app.js on line 31
+ Run a Local Server on your computer (Required!</description>
+    </item>
+    
+    <item>
+      <title>HW #2 - Relaxr Project</title>
+      <link>/homework-assignments/assignments/hw-02-relaxr-project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/homework-assignments/assignments/hw-02-relaxr-project/</guid>
+      <description>Homework #2: Relaxr Project Create a landing page and blog for an up and coming startup client.
+Please refer to the Homework Submission Github Workflow guide for detailed instructions for starting, completing and submitting Homework Assignments
+ Directions:  Review the assignment here
+ Fork the following repository: fewd20190318/hw-02-relaxr-project
+ Clone the assignment repository down to your computer
+ Work on your assignment and regularly commit your work
+ Submit your assignment using a Pull Request</description>
+    </item>
+    
+    <item>
+      <title>Lab - Fashion Blog II</title>
+      <link>/08-css-positioning-and-colors/lab-fashion-blog-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/08-css-positioning-and-colors/lab-fashion-blog-2/</guid>
+      <description>Lab: Fashion Blog II  Using Atom, open the folder called fashion_blog_part_II in your lesson_08_files folder. You will be using these files as starting off point.
+ Work in teams to update the layout for the fashion blog site, the end result of your update should closely resemble the image below:
+ We have provided you with a finished version of Fashion Blog part I, please use these files for the lab</description>
+    </item>
+    
+    <item>
+      <title>Lab - Final Projects</title>
+      <link>/18-final-projects-lab/lab-final-projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/18-final-projects-lab/lab-final-projects/</guid>
+      <description> Lab  Work on your final project
+ At this point you should only be adding finishing touches (fine tuning CSS, fixing indentation, etc)
+ You should avoid adding new features at this point
+  </description>
+    </item>
+    
+    <item>
+      <title>Lab Overview</title>
+      <link>/14-javascript-lab/lab-overview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/14-javascript-lab/lab-overview/</guid>
+      <description>Lab: Weather Appliction  You will build a Weather Application that converts a Celsius temperature input by a user to Fahrenheit and changes the background image according to the weather.  Requirements  Application will take Celsius temperature (via user input) and convert it to Fahrenheit Application will change the background image of the page to match the new temperature  Please Note: The layout and &amp;ldquo;look and feel&amp;rdquo; of the application is totally up to you as long as you meet the requirements above</description>
+    </item>
+    
+    <item>
+      <title>Looping through Arrays</title>
+      <link>/13-arrays-and-loops/looping-through-arrays/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/13-arrays-and-loops/looping-through-arrays/</guid>
+      <description>Loops and Iteration  Loops offer a quick and easy way to do something repeatedly  Javascript offers many different ways to loop, click here for more information
+ Using .forEach() (native javascript)  Native javascript offers a .forEach() method loops through (iterates) an array  let fruits=[“Banana”,”Apple”,”Pear”]; fruits.forEach(function(element,index){ console.log(element,index); });  JS Bin on jsbin.com
+click here for more information about the forEach() loop
+ Using $.each() (jQuery)  jQuery also provides a way to iterate arrays through its $.</description>
+    </item>
+    
+    <item>
+      <title>Milestone #1</title>
+      <link>/16-responsive-design-lab/milestone-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/16-responsive-design-lab/milestone-1/</guid>
+      <description>Follow the steps below to complete Milestone #1:
+In groups:
+ Create wireframes (sketches) of your proposed layout for mobile version (tablet and below) of the Startup Matchmaker landing page  Some things to think about:
+ Will you need to hide menus?
+ What content should be featured on a narrow screen?
+  Time box: 15 minutes</description>
+    </item>
+    
+    <item>
+      <title>Order</title>
+      <link>/07-page-layout-flexbox/flexbox/flex-items-properties/order/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/07-page-layout-flexbox/flexbox/flex-items-properties/order/</guid>
+      <description>Controls the order in which flex-items appear in the flex container
+ Lower values are listed first (-1 will be listed before 2)
+ If no order is set on a flex-item it will have a default value of 0
+   .item { order: &amp;lt;integer&amp;gt;; }  Live Example
+JS Bin on jsbin.com
+In the example above we are applying order: -1 to the red box (.three) which results in it being listed first among the other flex-items even though in our html it was listed last.</description>
+    </item>
+    
+    <item>
+      <title>Percentages</title>
+      <link>/15-responsive-design/relative-measurements/percentages/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/15-responsive-design/relative-measurements/percentages/</guid>
+      <description>Percentages  Percentages are a relative unit of measurement similar to EMs
+ When you size elements based on percentages the resulting size will be relative to that element&amp;rsquo;s parent
+ The default font-size in percentages is 100%
+ Can also be used instead of EMs
+  Example: Percentage in action
+JS Bin on jsbin.com
+In the example above you will see that the % measurements for the .</description>
+    </item>
+    
+    <item>
+      <title>Progressive Enhancement</title>
+      <link>/15-responsive-design/progressive-enhancement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/15-responsive-design/progressive-enhancement/</guid>
+      <description> What is progressive enhancement?  Design for the most narrow screens first then work your way up to larger screens
+ Also referred to as Mobile-first design
+ See this article for information on progressive enhancement
+  </description>
+    </item>
+    
+    <item>
+      <title>Pseudocode</title>
+      <link>/09-intro-to-programming/pseudocode/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/09-intro-to-programming/pseudocode/</guid>
+      <description> Pseudocode  Process of writing a program without using the syntax of a programming language
+ Mixture of natural language and high-level programming concepts
+ There is no standard way to write pseudocode, use langauge that can be understood by technical and non-technical people
+ Use pseudocode as an &amp;ldquo;outline&amp;rdquo; for your real code
+  </description>
+    </item>
+    
+    <item>
+      <title>RGB</title>
+      <link>/08-css-positioning-and-colors/css-colors/rgb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/08-css-positioning-and-colors/css-colors/rgb/</guid>
+      <description> RGB  colors represented by values for red, green and blue expressed as numbers between 0 and 255  h1 { color: rgb(102, 205, 170); }  </description>
+    </item>
+    
+    <item>
+      <title>Recommended Atom Editor Settings</title>
+      <link>/21-class-resources/atom-editor-settings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/21-class-resources/atom-editor-settings/</guid>
+      <description>All of the settings below can be accessed using the following steps:
+ Mac: cmd + , -&amp;gt; Editor PC: ctrl + , -&amp;gt; Editor  Setting indentation levels / default tab-size During our course we will be using a set indentation level of 2 spaces (1 indentation level = 2 spaces). Atom makes it easy conform to this approach by setting our tab to a set level of indentation.</description>
+    </item>
+    
+    <item>
+      <title>Semantic Elements</title>
+      <link>/07-page-layout-flexbox/semantic-elements/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/07-page-layout-flexbox/semantic-elements/</guid>
+      <description>Structure using Semantic tags  Similar to &amp;lt;div&amp;gt;s, semantic tags are container elements
+ HTML5 introduced semantic tags that directly communicate type of content the container element contains
+ Important note: incorrect use of the tags will not result in any errors (but may be confusing for your teammates)
+ There are rougly 100 semantic elements
+ Above picture is just an example! This structure is not set in stone, use what makes sense for your project</description>
+    </item>
+    
+    <item>
+      <title>Single Responsibility Principle</title>
+      <link>/12-functions/single-responsibility-principle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/12-functions/single-responsibility-principle/</guid>
+      <description>Single Responsibility Principle (SRP)  SRP is a programming best practice that advocates modular code
+ Put another way, your programs should be broken up in such a way where each part is responsible for only one &amp;ldquo;thing&amp;rdquo; or domain
+ SRP is often applied to functions
+  Applying SRP to Functions  This concepts calls for your functions to only be &amp;ldquo;responsible&amp;rdquo; for one thing
+ Often you&amp;rsquo;ll find that the logic in your functions are doing too much (for example: making calculations AND displaying the result to the screen)</description>
+    </item>
+    
+    <item>
+      <title>Text Area</title>
+      <link>/17-forms/form-elements/text-area/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/17-forms/form-elements/text-area/</guid>
+      <description> Text Area &amp;lt;form action=&amp;quot;http://www.example.com/comments.php&amp;quot;&amp;gt; &amp;lt;p&amp;gt;What did you think of FEWD?&amp;lt;/p&amp;gt; &amp;lt;textarea name=&amp;quot;comments&amp;quot; cols=&amp;quot;20&amp;quot; rows=&amp;quot;4&amp;quot;&amp;gt;Enter your comments...&amp;lt;/textarea&amp;gt; &amp;lt;/form&amp;gt;  Text Area Example Text Area Attributes  col: Controls number of columns rows: Controls number of rows  </description>
+    </item>
+    
+    <item>
+      <title>Updating Variables</title>
+      <link>/11-javascript-fundamentals/variables/updating-variables/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/11-javascript-fundamentals/variables/updating-variables/</guid>
+      <description>Updating Variables  We can provide variables with a value by updating a value to the variable
+ An = (equal sign) is used to assign a value to variable
+ This process of updating/changing variable&amp;rsquo;s value is also referred to as assigning a value to a variable
+  // declaring a variable let firstName; // assigning a value to the variable firstName = &amp;quot;Cletus&amp;quot;;  Declaring &amp;amp; Assigning Variables in one step  We can both declare and assign variables in one step</description>
+    </item>
+    
+    <item>
+      <title>Code Along - HiLo</title>
+      <link>/12-functions/code-along-hilo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/12-functions/code-along-hilo/</guid>
+      <description> Code Along: HiLo  Using Atom, open the folder called hilo in your lesson_12_files folder. You will be using these files as starting off point.
+ During this exercise, we&amp;rsquo;ll be doing the following:
+ We&amp;rsquo;ll use javascript to implement a guessing game   </description>
+    </item>
+    
+    <item>
+      <title>Code Along - Notifications</title>
+      <link>/06-css-box-model/code-along-notifications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/06-css-box-model/code-along-notifications/</guid>
+      <description> Code Along: Notifications  Using Atom, open the folder called notifications in your lesson_06_files folder. You will be using these files as starting off point.
+ As a class, we&amp;rsquo;ll see examples of using classes and ids to style notifications that are often used to provide contextual information to users within an application
+  </description>
+    </item>
+    
+    <item>
+      <title>Lab - HiLo</title>
+      <link>/12-functions/lab-hilo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/12-functions/lab-hilo/</guid>
+      <description>Lab: Complete HiLo  Form groups and work together to complete the HiLo application
+ Instructions: Add the following functionality
+ The secret number should be randomly generated
+ Players should be limited to only 5 guesses
+ If the player reaches 5 guesses without guessing the correct number then an error message with appear
+ The game should reset after 5 guesses has been reached or after the secret number has been correctly guessed</description>
+    </item>
+    
+    <item>
+      <title>z-index</title>
+      <link>/08-css-positioning-and-colors/css-positioning/z-index/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/08-css-positioning-and-colors/css-positioning/z-index/</guid>
+      <description>Z-index  If boxes do overlap, the elements that appear later in the HTML code sit on top of those that are earlier in the page
+ Z-index allows you to control which elements appear on top when elements overlap
+  .positioned { position: absolute; top: 30; left: 50; z-index: 10; }   z-index property accepts a number, the higher the number, the closer that element will be to the front  Live Example</description>
+    </item>
+    
+    <item>
+      <title>Classwork &amp; Lab Solutions</title>
+      <link>/course-materials/solutions/</link>
+      <pubDate>Sun, 17 Mar 2019 14:08:08 -0400</pubDate>
+      
+      <guid>/course-materials/solutions/</guid>
+      <description> Solutions Disclaimer: These files are not meant to be viewed as the &amp;ldquo;right answer, instead view them as a way to learn how another developer approached the same problem.
+ Lesson 01: HTML Basics  GA Press Release Solution Cookie Receipe Solution  Lesson 03: Relative Paths  Relative Paths Exercise Solution  Lesson 04: CSS Basics  Rocket Raccoon About Me Solution  Lesson 06: CSS Box Model  Fashion Blog Solution  Lesson 07: Page Layout with Flexbox  Layout Challenge Solution  Lesson 08: CSS Positioning, Colors &amp;amp; Background Images  Fashion Blog II: TBD  Lesson 09: Intro to Programming  Color Scheme Switcher Solution (native Javascript) Traffic Light Solution (native Javascript)  Lesson 10: Intro to jQuery  Color Scheme Switcher Solution (jQuery) jQuery DOM Selector Practice Solution  Lesson 11: Javascript Fundamentals  FAQ Solution Score Keeper Solution Blackout Solution Compare That Solution  Lesson 12: Functions  Geometry Calculator Solution Hilo Solution  Lesson 13: Arrays &amp;amp; Loops  Rock, Paper, Scissors Solution  Lesson 15: Responsive Design  Responsive Marketing Layout Solution  Lesson 16: Responsive Design Lab  Startup Matchmaker Responsive Solution  Lesson 17: Forms  Contact Us Form Solution  </description>
+    </item>
+    
+    <item>
+      <title>Text</title>
+      <link>/01-html-basics/tag-overview/text/</link>
+      <pubDate>Thu, 14 Mar 2019 20:29:59 -0400</pubDate>
+      
+      <guid>/01-html-basics/tag-overview/text/</guid>
+      <description>HTML Headings  Six (6) levels of headings h1 tags is used for main headings h2 tags are used for subheadings Remaining level headings used as needed based on your content hierarchy  Browsers display headings differently, but relative sizes will always be consistent (by default) - i.e. h1 will always be bigger than h2
+ JS Bin on jsbin.com
+Paragraphs  Use &amp;lt;p&amp;gt; element to display paragraphs
+ By default, browser displays each paragraph on a new line</description>
+    </item>
+    
+    <item>
+      <title>Adding New Elements using Append/Prepend</title>
+      <link>/10-intro-to-jquery/jquery-in-action/adding-new-elements/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/10-intro-to-jquery/jquery-in-action/adding-new-elements/</guid>
+      <description>Adding New Elements using append() and prepend() Using methods like .prepend() and .append() you can dynamically add elements to html to your pages
+JS Bin on jsbin.com</description>
+    </item>
+    
+    <item>
+      <title>Arrays</title>
+      <link>/11-javascript-fundamentals/data-types/arrays/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/11-javascript-fundamentals/data-types/arrays/</guid>
+      <description>Arrays  Used to when you are working with a list of values that are related to each other
+ Use square brackets to create an array (this is also how you quickly recognize arrays)
+ Values in an array are separated by commas
+  Creating an Array  We can store variables just like any other data type
+ You can create that doesn&amp;rsquo;t initially contain any values, this is called an empty array</description>
+    </item>
+    
+    <item>
+      <title>Background Image Examples</title>
+      <link>/08-css-positioning-and-colors/background-images/background-image-examples/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/08-css-positioning-and-colors/background-images/background-image-examples/</guid>
+      <description> Background Image examples  Using Atom, open the folder called background_image_examples in your lesson_08_files
+ We walk through live examples of background image in action
+  </description>
+    </item>
+    
+    <item>
+      <title>Background Size</title>
+      <link>/08-css-positioning-and-colors/background-images/background-size/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/08-css-positioning-and-colors/background-images/background-size/</guid>
+      <description>&amp;lsquo;background-size&amp;rsquo; property  Used to set the size of the element&amp;rsquo;s background image
+ The image can be left to its natural size, stretched, or constrained to fit the available space
+  values  contain
+ Scales the image as large as possible without cropping or stretching the image.  cover
+ Scales the image as large as possible without stretching the image. If the proportions of the image differ from the element, it is cropped either vertically or horizontally so that no empty space remains.</description>
+    </item>
+    
+    <item>
+      <title>Class Exercise - Smart Thermostat Pseudocode</title>
+      <link>/09-intro-to-programming/class-exercise-smart-thermostat-pseudocode/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/09-intro-to-programming/class-exercise-smart-thermostat-pseudocode/</guid>
+      <description> Class Exercise: Thermostat logic in pseudocode We&amp;rsquo;re going to use pseudocode to describe the basic functionality of a smart thermostat
+ As as class we are going to write some pseudocode for a program for a smart thermostat
+ We’ll focus on coming up with the logic that will help the thermostat know when to turn the heat on and off
+  </description>
+    </item>
+    
+    <item>
+      <title>Create Github Repository for Final Project</title>
+      <link>/final-projects/milestones-due-dates/create-github-repository-for-final-project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/final-projects/milestones-due-dates/create-github-repository-for-final-project/</guid>
+      <description>Milestone III: Create Github Repository for Final Project  Create a github repository for your final project, clone the project down to your &amp;lsquo;github&amp;rsquo; folder on your laptop
+ Submit a link to your final project&amp;rsquo;s github repository
+ Here&amp;rsquo;s an example of what link should look like: https://github.com/kareemgrant/kg-awesome-game  Due Date: Wednesday, April 24th
+ Deliverable: Use this form to submit your repository url
+  Do not include spaces in your github repository names</description>
+    </item>
+    
+    <item>
+      <title>Fancy Filtering &amp; Sorting with MixitUp</title>
+      <link>/course-materials/code-demos/fancy-filtering-sorting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/course-materials/code-demos/fancy-filtering-sorting/</guid>
+      <description>Overview MixItUp is a Javascript plugin that makes it easy to adding visually appealing filter and sorting to your projects.
+Demo Application Summary This application uses MixItUp to create a Greek Mythology Flash card application.
+download Greek Mythology Flash Cards</description>
+    </item>
+    
+    <item>
+      <title>Fixed Positioning</title>
+      <link>/08-css-positioning-and-colors/css-positioning/fixed-positioning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/08-css-positioning-and-colors/css-positioning/fixed-positioning/</guid>
+      <description>Fixed Positioning  Positions the element in relation to the browser window (not its containing element)
+ Fixed positioned element stays in place even if user scrolls down the page
+ Box offset properties (top or bottom and left or right) specify where the element should appear in relation to browser window
+ Fixed positioning commonly used to create a fixed navbar
+  .navbar { position: fixed; }  A fixed position element is positioned relative to the viewport, or the browser window itself.</description>
+    </item>
+    
+    <item>
+      <title>Flex Basis</title>
+      <link>/07-page-layout-flexbox/flexbox/flex-items-properties/flex-basis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/07-page-layout-flexbox/flexbox/flex-items-properties/flex-basis/</guid>
+      <description> flex-basis  Controls the initial size of an element, before it is manipulated by other Flexbox properties
+ It can be a length (e.g. pixels, percentages, etc) or auto
+ Values for flex-basis will take precedent over the values of width or height (in the case of flex-direction: column)
+  .item { flex-basis: &amp;lt;length&amp;gt; | auto; /* default auto */ }  </description>
+    </item>
+    
+    <item>
+      <title>Flex Wrap</title>
+      <link>/07-page-layout-flexbox/flexbox/flex-container-properties/flex-wrap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/07-page-layout-flexbox/flexbox/flex-container-properties/flex-wrap/</guid>
+      <description>flex-wrap allows developers to change that and allow the items to wrap as needed with this property  By default, flex items will all try to fit onto one line
+ .container { flex-wrap: nowrap | wrap | wrap-reverse; }  Live Example
+JS Bin on jsbin.com</description>
+    </item>
+    
+    <item>
+      <title>Flexbox Tips</title>
+      <link>/07-page-layout-flexbox/flexbox/flexbox-tips/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/07-page-layout-flexbox/flexbox/flexbox-tips/</guid>
+      <description>Flexbox Tips  Use wireframes to plan out all of your flex containers
+ Identify which flex containers will have a row direction and which will have a column direction?
+ Identify where you will have nested flex containers (i.e. containers in containers)
+  Keep is simple, use divs for all of your flex containers
+ Technically any element can be used as a flex  Use classes to name your flex containers</description>
+    </item>
+    
+    <item>
+      <title>HW #3 - jQuery Traffic Light</title>
+      <link>/homework-assignments/assignments/hw-03-jquery-traffic-light/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/homework-assignments/assignments/hw-03-jquery-traffic-light/</guid>
+      <description>Homework #3: jQuery Traffic Light Use jQuery to make the Traffic Light application fully functional
+Please refer to the Homework Submission Github Workflow guide for detailed instructions for starting, completing and submitting Homework Assignments
+ Directions:  Review the assignment here
+ Fork the following repository: fewd20190318/hw-03-jquery-traffic-light
+ Clone the assignment repository down to your computer
+ Work on your assignment and regularly commit your work
+ Submit your assignment using a Pull Request</description>
+    </item>
+    
+    <item>
+      <title>HW #4 - Citipix</title>
+      <link>/homework-assignments/assignments/hw-04-citipix/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/homework-assignments/assignments/hw-04-citipix/</guid>
+      <description>Homework #4: Citipix Use Javascript &amp;amp; jQuery to create an interactive web application
+Please refer to the Homework Submission Github Workflow guide for detailed instructions for starting, completing and submitting Homework Assignments
+ Directions:  Review the assignment here
+ Fork the following repository: fewd20190318/hw-04-citipix
+ Clone the assignment repository down to your computer
+ Work on your assignment and regularly commit your work
+ Submit your assignment using a Pull Request</description>
+    </item>
+    
+    <item>
+      <title>Implementing Responsive Design</title>
+      <link>/15-responsive-design/responsive-design-overview/how-to-implement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/15-responsive-design/responsive-design-overview/how-to-implement/</guid>
+      <description> Implementing Responsive Design  Add Viewport Meta Tag to your  tag
+ Use Media Queries
+ Leverage relative measurement approaches (EMs/REMs or Percentages) instead of pixels
+  </description>
+    </item>
+    
+    <item>
+      <title>Lab - Fashion Blog</title>
+      <link>/06-css-box-model/lab-fashion-blog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/06-css-box-model/lab-fashion-blog/</guid>
+      <description>Lab: Fashion Blog  Work in teams to finish the fictional developer&amp;rsquo;s site by building out their portfolio page (depicted in the image below)
+ Timebox: 40 mins
+   Using Atom, open the folder called fashion_blog in your lesson_06_files folder. You will be using these files as starting off point.
+ Before you start building: Draw a wireframe of the layout to help you plan your approach</description>
+    </item>
+    
+    <item>
+      <title>Lab Milestone #1</title>
+      <link>/14-javascript-lab/milestone-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/14-javascript-lab/milestone-1/</guid>
+      <description>Follow the steps below to complete Milestone #1:
+In groups of three or four students:
+ Document the requirements of the proposed application
+ User stories are a good way to document requirements, learn more here  Write the pseudo code for the application
+  Time box: 20 minutes</description>
+    </item>
+    
+    <item>
+      <title>Milestone #2</title>
+      <link>/16-responsive-design-lab/milestone-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/16-responsive-design-lab/milestone-2/</guid>
+      <description>Follow the steps below to complete Milestone #2:
+In pairs (or groups):
+ Add the the required media query / breakpoint that optimize the content to be viewable on screens that have a viewport of 768px or below.
+ Use your wireframes created from Milestone #1 to help guide you as you add the styles necessary make viewing the landing page on tablets or below an optimal experience
+  Time box: 45 minutes</description>
+    </item>
+    
+    <item>
+      <title>Naming Rules for Variables</title>
+      <link>/11-javascript-fundamentals/variables/naming-rules/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/11-javascript-fundamentals/variables/naming-rules/</guid>
+      <description>Naming Rules for Variables    Do Don&amp;rsquo;t     Use variable names that start with a letter, $, or _ Use variable names that start with a number   Use variable names that include letters, numbers, $ or _ Create variable names that include a &amp;ldquo;-&amp;rdquo;, &amp;ldquo;.&amp;rdquo; or space   Use &amp;ldquo;lower camel case&amp;rdquo; when creating variable names made up of more than one word, for example: firstName Create variable names that use reserved Javascript keywords such as let, var, function or switch    Variables names should describe the kind of information the variable stores</description>
+    </item>
+    
+    <item>
+      <title>Objects</title>
+      <link>/11-javascript-fundamentals/data-types/objects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/11-javascript-fundamentals/data-types/objects/</guid>
+      <description>Objects  Objects are used to represent real world objects in programming
+ Within an object, variables are known as properties and functions are known as methods
+ Curly braces are a means of identifying if a variable is an object
+  // create an object that represents a dog let myDog = { name: &amp;quot;Fido&amp;quot;, age: 4, speak: function() { console.log(&#39;Woof woof&#39;); } }   In the example above, we created an object and stored it in a variable called myDog</description>
+    </item>
+    
+    <item>
+      <title>RGBa</title>
+      <link>/08-css-positioning-and-colors/css-colors/rgba/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/08-css-positioning-and-colors/css-colors/rgba/</guid>
+      <description> RGBa  Leverages CSS3 inclusion of the opacity property Just like RGB but allows you to specify the opacity as the fourth value (alpha value) alpha must be a number between 0.0 and 1.0 (0.5 means 50% opacity)  h1 { color: rgba(102, 205, 170, 0.25); }  </description>
+    </item>
+    
+    <item>
+      <title>Radio Button</title>
+      <link>/17-forms/form-elements/radio-button/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/17-forms/form-elements/radio-button/</guid>
+      <description>Radio Button &amp;lt;form action=&amp;quot;http://www.example.com/profile.php&amp;quot;&amp;gt; &amp;lt;p&amp;gt;Please select your favorite sport: &amp;lt;br /&amp;gt; &amp;lt;input type=&amp;quot;radio&amp;quot; name=&amp;quot;sport&amp;quot; value=&amp;quot;football&amp;quot; checked=&amp;quot;checked&amp;quot; /&amp;gt; Football &amp;lt;input type=&amp;quot;radio&amp;quot; name=&amp;quot;sport&amp;quot; value=&amp;quot;soccer&amp;quot; /&amp;gt; Soccer &amp;lt;input type=&amp;quot;radio&amp;quot; name=&amp;quot;sport&amp;quot; value=&amp;quot;basketball&amp;quot; /&amp;gt; Basketball &amp;lt;/p&amp;gt; &amp;lt;/form&amp;gt;  Radio Button Example Radio Button Attributes  type=&amp;ldquo;radio&amp;rdquo;: Allows users to pick just one of the number of options name: Identifies which form control that data came from (radio buttons in the same group share the same name attribute) value: Indicates the value that is sent to the server for the selected option checked: Used to indicate which value (if any) should be selected when the page loads  Once a radio button is selected it cannot be deselected</description>
+    </item>
+    
+    <item>
+      <title>Recommended Breakpoints</title>
+      <link>/15-responsive-design/media-queries/recommended-breakpoints/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/15-responsive-design/media-queries/recommended-breakpoints/</guid>
+      <description>If you are starting a responsive design project from scratch This approach assumes you are starting a responsive design project from scratch and you will use progressive enhancement (also referred to a &amp;ldquo;mobile first&amp;rdquo;) approach
+/* main.css */ /* Extra small devices (portrait phones, less than 576px) No media query since styles outside of the media queries below will apply to everything &#39;up to 576px&#39; or everything below 576px */ p { } .</description>
+    </item>
+    
+    <item>
+      <title>Responsive Images</title>
+      <link>/15-responsive-design/responsive-images/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/15-responsive-design/responsive-images/</guid>
+      <description>Tips for working with Images  Start with largest version of your image and use css styling to resize to desired size (more on this next class)
+ Use max-width: 100% to prevent images from extending wider than its container
+  /* Apply to all images */ img { max-width: 100%; }  Example: Fixing the image container issue
+JS Bin on jsbin.com
+In the example above, the default size of the image extends beyond the image container.</description>
+    </item>
+    
+    <item>
+      <title>Setting Up Font Size for Responsive Projects</title>
+      <link>/15-responsive-design/relative-measurements/setting-up-font-size/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/15-responsive-design/relative-measurements/setting-up-font-size/</guid>
+      <description>How should we set up font size for a responsively designed project? Current best practice (subject to change) is to use the following approach in your CSS file for your responsively designed projects:
+// main.css body { // default font-size for most browsers is 16px // setting it to 100% ensures that the base size // will conform to the browser defaults font-size: 100%; } .content { // use ems or rems for all other font-sizes font-size: 1.</description>
+    </item>
+    
+    <item>
+      <title>Using Objects with Arrays</title>
+      <link>/13-arrays-and-loops/objects-with-arrays/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/13-arrays-and-loops/objects-with-arrays/</guid>
+      <description>Objects with Arrays  Since objects are used to represent real world &amp;ldquo;things&amp;rdquo;, they are often combined with arrays to represent a collection of real world things  // declaring an array that contains objects as items let shows = [ { name: &amp;quot;Breaking Bad&amp;quot;, genre: &amp;quot;Drama&amp;quot;, network: &amp;quot;AMC&amp;quot; }, { name: &amp;quot;Game of Thrones&amp;quot;, genre: &amp;quot;Fantasy&amp;quot;, network: &amp;quot;HBO&amp;quot; }, { name: &amp;quot;Silicon Valley&amp;quot;, genre: &amp;quot;Comedy&amp;quot;, network: &amp;quot;HBO&amp;quot; }, { name: &amp;quot;Narcos&amp;quot;, genre: &amp;quot;Drama&amp;quot;, network: &amp;quot;Netflix&amp;quot; }, { name: &amp;quot;Vikings&amp;quot;, genre: &amp;quot;Action&amp;quot;, network: &amp;quot;History Channel&amp;quot; }, { name: &amp;quot;Power&amp;quot;, genre: &amp;quot;Drama&amp;quot;, network: &amp;quot;Starz&amp;quot; }, ];   In the code example above, we have an array called shows that contains a collection of objects that represents some TV shows  Looping (iteration) through an array of objects  Looping through an array of objects is technically the same as looping through an array of any other datatype (i.</description>
+    </item>
+    
+    <item>
+      <title>Working with Atom Themes</title>
+      <link>/21-class-resources/atom-themes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/21-class-resources/atom-themes/</guid>
+      <description>Changing Themes Atom allows you to easily switch between your installed themes by doing the following:
+ Opening Atom Settings (mac: cmd + , | pc: ctrl + ,) Select Themes in the left-hand menu Select the dropdown menu labeled Syntax Themes Choose one of the installed themes listed in the dropdown menu  Atom comes pre-installed with a set of themes. See that section below to add new themes to Atom</description>
+    </item>
+    
+    <item>
+      <title>Rules of Thumb</title>
+      <link>/15-responsive-design/rules-of-thumb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/15-responsive-design/rules-of-thumb/</guid>
+      <description>Rules of Thumb for Responsive Design The following is a list of sensible guidelines to following when incorporating responsive design into your projects
+ When determining which breakpoints to use, always start with the recommended breakpoints and then add others on an as needed basis
+ Use EMs (or REMs) to make you text size scalable
+ Use Percentages or EMs/REMs for Horizontal measurements
+ Consider using EMs/REMs to dynamically adjust padding if to optimize readability of your content at different widths</description>
+    </item>
+    
+    <item>
+      <title>What Is front-end Development?</title>
+      <link>/00-course-intro-and-tools/what-is-frontend-development/</link>
+      <pubDate>Sat, 16 Mar 2019 19:57:51 -0400</pubDate>
+      
+      <guid>/00-course-intro-and-tools/what-is-frontend-development/</guid>
+      <description>Overview  Front-end web development, also known as client-side development is the practice of producing HTML, CSS and JavaScript for a website or Web Application so that a user can see and interact with them directly.  What are the primary technologies associated with front-end development?  HTML
+ CSS
+ Javascript
+  How is front-end development differ from back-end development?  Backend development, is also known as server-side development and involves storing data on behalf of users or customers</description>
+    </item>
+    
+    <item>
+      <title>Arithmetic Operators</title>
+      <link>/11-javascript-fundamentals/arithmetic-operators/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/11-javascript-fundamentals/arithmetic-operators/</guid>
+      <description>Arithmetic Operators  Mathematical symbol that can act on two values (or variables) and produce a result     Description Operator Example     Addition + 7 + 8   Subtraction - 34 - 12   Multiplication * 3 * 5   Division / 42 / 6   Modulus (Remainder) % 13 % 6 (returns 1, as 6 goes into 13 twice, leaving 1 as the remainder )   Exponential ** 4 ** 2 (returns 16 or 4 * 4)   Increment ++ 9++ (returns 10)   Decrement -- 37-- (returns 36)    Examples</description>
+    </item>
+    
+    <item>
+      <title>Checkbox</title>
+      <link>/17-forms/form-elements/checkbox/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/17-forms/form-elements/checkbox/</guid>
+      <description> Checkbox &amp;lt;form action=&amp;quot;http://www.example.com/profile.php&amp;quot;&amp;gt; &amp;lt;p&amp;gt;Please select your favorite music service(s): &amp;lt;br /&amp;gt; &amp;lt;input type=&amp;quot;checkbox&amp;quot; name=&amp;quot;service&amp;quot; value=&amp;quot;itunes&amp;quot; /&amp;gt; iTunes &amp;lt;input type=&amp;quot;checkbox&amp;quot; name=&amp;quot;service&amp;quot; value=&amp;quot;lastfm&amp;quot; /&amp;gt; Last.fm &amp;lt;input type=&amp;quot;checkbox&amp;quot; name=&amp;quot;service&amp;quot; value=&amp;quot;spotify&amp;quot; /&amp;gt; Spotify &amp;lt;/p&amp;gt; &amp;lt;/form&amp;gt;  Checkbox Example Checkbox Attributes  type=&amp;ldquo;checkbox&amp;rdquo;: Allows users to pick one or more options name: Used by the server to identify which form control that data came from (checkboxes in the same group share the same name attribute) value: Indicates the value that is sent to the server for the selected option checked: Used to indicate which value (if any) should be selected when the page loads  </description>
+    </item>
+    
+    <item>
+      <title>Code Along - Arrays Exercise</title>
+      <link>/13-arrays-and-loops/code-along-arrays-exercise/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/13-arrays-and-loops/code-along-arrays-exercise/</guid>
+      <description> Code Along: Arrays Exercise  Using Atom, open the folder called arrays_exercise in your lesson_13_files folder. You will be using these files as starting off point.
+ Instructions
+ We&amp;rsquo;ll practice working with arrays by following the instructions specified in the exercise.js file   </description>
+    </item>
+    
+    <item>
+      <title>Create &amp; Submit Wireframes</title>
+      <link>/final-projects/milestones-due-dates/create-submit-wireframes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/final-projects/milestones-due-dates/create-submit-wireframes/</guid>
+      <description>Milestone IV: Create and Submit Wireframes  Due Date: Monday, April 29nd
+ Create wireframes for each page layout (assuming you have multiple pages with different layouts) of your final project
+ Instructions
+  The following assumes you have already created a github repository for your final project and cloned the project down to your &amp;lsquo;github&amp;rsquo; folder on your laptop (see Milestone II)
+  Add a new folder to your project files/folders for final project (created in Milestone II) called wireframes</description>
+    </item>
+    
+    <item>
+      <title>Exercise - Flexbox Froggy</title>
+      <link>/07-page-layout-flexbox/exercise/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/07-page-layout-flexbox/exercise/</guid>
+      <description> Exercise: Flexbox Froggy During this exercise, you&amp;rsquo;ll go through an interactive tutorial focused on learning flexbox
+ Each student complete this tutorial
+ Timebox: 20 mins
+  </description>
+    </item>
+    
+    <item>
+      <title>Flex Flow Shorthand</title>
+      <link>/07-page-layout-flexbox/flexbox/flex-container-properties/flex-flow-shorthand/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/07-page-layout-flexbox/flexbox/flex-container-properties/flex-flow-shorthand/</guid>
+      <description> Flex Flow shorthand  Allows developers to specify the flex-direction and flex-wrap properties at the same time   flex-flow: &amp;lt;‘flex-direction’&amp;gt; || &amp;lt;‘flex-wrap’&amp;gt;   //specifies flow-direction: row &amp;amp; flex-wrap: wrap flex-flow: row wrap  </description>
+    </item>
+    
+    <item>
+      <title>Flex Grow</title>
+      <link>/07-page-layout-flexbox/flexbox/flex-items-properties/flex-grow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/07-page-layout-flexbox/flexbox/flex-items-properties/flex-grow/</guid>
+      <description>flex-grow  defines the ability for a flex item to grow if necessary
+ dictates what amount of the available space inside the flex container the item should take up
+ a unitless measure that respresents a proportion or ratio
+ flex-grow value overrides the width of the flex-item
+   .item { flex-grow: &amp;lt;number&amp;gt;; /* default 0 */ }  JS Bin on jsbin.com
+In the example above, the 2nd flex-item (green box) has its flex-grow set to 2 while the other flex-items have their flex-grow set to 1</description>
+    </item>
+    
+    <item>
+      <title>Group Exercise - Rock, Paper, Scissors</title>
+      <link>/09-intro-to-programming/group-exercise-rock-paper-scissors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/09-intro-to-programming/group-exercise-rock-paper-scissors/</guid>
+      <description>Group Exercise: Rock, Paper and Scissors Form groups and write pseudocode describing a game of Rock, Paper, Scissors</description>
+    </item>
+    
+    <item>
+      <title>Homework Solutions</title>
+      <link>/course-materials/homework-solutions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/course-materials/homework-solutions/</guid>
+      <description> Solutions Disclaimer: These files are not meant to be viewed as the &amp;ldquo;right answer, instead view them as a way to learn how another developer approached the same problem.
+ Homework #1: Online Travel Guide Solution  No solution, assignment was specific to each student  Homework #2: Relaxr Project Solution  HW #2 Solution  Homework #3: jQuery Traffic Light Solution  HW #3 Solution  Homework #4: Citipix Solution  HW #4 Solution  </description>
+    </item>
+    
+    <item>
+      <title>Lab Milestone #2</title>
+      <link>/14-javascript-lab/milestone-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/14-javascript-lab/milestone-2/</guid>
+      <description>Follow the steps below to complete Milestone #2:
+In your groups:
+ Set up your projects (folder structure) Write the code that will do the following process temperature (in Celsius) input by a user and convert that temperature to Fahrenheit and Display the result on the screen  Time box: 60 minutes
+Note: While you will be working within a group, each student should have their own copy of the project on their computers</description>
+    </item>
+    
+    <item>
+      <title>Milestone #3</title>
+      <link>/16-responsive-design-lab/milestone-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/16-responsive-design-lab/milestone-3/</guid>
+      <description>Follow the steps below to complete the Milestone #3:
+In pairs (or groups):
+ Implement a hamburger menu that will be displayed on narrow screens
+ When the user clicks on the hamburger menu, the hidden navigation items (i.e. Developers, Designers, How It Works, Our Team) should slide down
+  Time box: 30 minutes
+Hint: Review the Responsive Marketing Layout Code Along for an example of how to implement a hamburger menu</description>
+    </item>
+    
+    <item>
+      <title>Wireframes to HTML</title>
+      <link>/21-class-resources/wireframes-to-html/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/21-class-resources/wireframes-to-html/</guid>
+      <description>Why Wireframes? Wireframes are meant to help you plan the overall structure (layout of your pages)
+See this article for a good overview of wireframes: https://balsamiq.com/learn/resources/articles/what-are-wireframes/
+What happens after the wireframes? The next step after creating your wireframes is to convert the wireframes into HTML (using minimal css to create high level box containers).
+After that is done, you can then proceed to add your content and CSS styling.</description>
+    </item>
+    
+    <item>
+      <title>let vs var</title>
+      <link>/11-javascript-fundamentals/variables/let-vs-var/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/11-javascript-fundamentals/variables/let-vs-var/</guid>
+      <description>let vs var  In recent past var was the only way to declare variables
+ While var worked it a lot of confusing issues that came along with it
+ let was introduced in the latest release of Javascript, ES6 to address these issues
+ While var is still in use for legacy codebases, it is a recommended best practice to use let instead of var going forward</description>
+    </item>
+    
+    <item>
+      <title>Class Logistics &amp; Materials</title>
+      <link>/00-course-intro-and-tools/class-logistics-materials/</link>
+      <pubDate>Sat, 16 Mar 2019 10:04:07 -0400</pubDate>
+      
+      <guid>/00-course-intro-and-tools/class-logistics-materials/</guid>
+      <description>Class Logistics  Class Schedule: Monday &amp;amp; Wednesdays, 6:30pm - 9:30pm, from Mar 18th through May 22nd
+ Break: 15 minute break during the middle of class from 7:45pm to 8:00pm (subject to change depending on flow of the class, but you&amp;rsquo;ll always get a 15 min break)
+ Class Materials: Most lessons will include a set of files that you&amp;rsquo;ll work with during that lesson, we&amp;rsquo;ll refer to these files as the &amp;ldquo;lesson files&amp;rdquo;</description>
+    </item>
+    
+    <item>
+      <title>Lists</title>
+      <link>/01-html-basics/tag-overview/lists/</link>
+      <pubDate>Thu, 14 Mar 2019 20:29:59 -0400</pubDate>
+      
+      <guid>/01-html-basics/tag-overview/lists/</guid>
+      <description>Lists  3 different types of lists:
+ Unordered - lists start with a bullet point by default Ordered - numbered lists Definition - set of terms along with definition of those terms (not used often)  Both unordered and ordered lists contain list items
+ list items elements are the items within list, they use opening and closing tag
+ list item elements are indented by default
+ list items elements are always a child a list element (in this case the “unordered list” or ul element.</description>
+    </item>
+    
+    <item>
+      <title>Code Along - Color Scheme Switcher using jQquery</title>
+      <link>/10-intro-to-jquery/code-along-color-scheme-switcher-jquery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/10-intro-to-jquery/code-along-color-scheme-switcher-jquery/</guid>
+      <description> Code Along: Color Switcher using jQuery  Using Atom, open the folder called color_scheme_switcher_jquery in your lesson_10_files folder. You will be using these files as starting off point.
+ During this exercise, we&amp;rsquo;ll be doing the following:
+ We&amp;rsquo;ll use jQuery (instead of native javascript) to get the color scheme switcher project working   </description>
+    </item>
+    
+    <item>
+      <title>Code Along - Layout Challenge</title>
+      <link>/07-page-layout-flexbox/code-along/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/07-page-layout-flexbox/code-along/</guid>
+      <description> Code Along: Page Layout using Flexbox  Using Atom, open the folder called layout_challenge in your lesson_07_files folder. You will be using these files as starting off point.
+ As a class, we&amp;rsquo;ll use flexbox to create the following page layouts (depicted in the images below)
+  </description>
+    </item>
+    
+    <item>
+      <title>Code Along - Score Keeper</title>
+      <link>/11-javascript-fundamentals/code-along-score-keeper/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/11-javascript-fundamentals/code-along-score-keeper/</guid>
+      <description> Code Along: Score Keeper  Using Atom, open the folder called score_keeper in your lesson_11_files folder. You will be using these files as starting off point.
+ During this exercise, we&amp;rsquo;ll be doing the following:
+ We&amp;rsquo;ll use javascript to complete an application used to keep track of a game&amp;rsquo;s score   </description>
+    </item>
+    
+    <item>
+      <title>Create Project Plan</title>
+      <link>/final-projects/milestones-due-dates/create-project-plan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/final-projects/milestones-due-dates/create-project-plan/</guid>
+      <description>Milestone V: Create Project Plan  Due Date: Monday, April 29th
+ Work with the instructor team to break up your final project into a series of steps that you&amp;rsquo;ll turn into tasks
+ Create a Trello account and and create a &amp;ldquo;board&amp;rdquo; called FEWD Final Project to track your progress towards completed these tasks
+ Invite / Add Kareem and Alejandra to your board as teammates
+ Create an initial list of tasks that you&amp;rsquo;ll use to help keep you on track to complete your final project on time</description>
+    </item>
+    
+    <item>
+      <title>Flex Shrink</title>
+      <link>/07-page-layout-flexbox/flexbox/flex-items-properties/flex-shrink/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/07-page-layout-flexbox/flexbox/flex-items-properties/flex-shrink/</guid>
+      <description> flex-shrink  defines the ability for a flex item to shrink if necessary.
+ a unitless measure that respresents a proportion or ratio (similar to flex-grow)
+  </description>
+    </item>
+    
+    <item>
+      <title>HSL</title>
+      <link>/08-css-positioning-and-colors/css-colors/hsl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/08-css-positioning-and-colors/css-colors/hsl/</guid>
+      <description> HSL  Introduced with CSS3
+ Provides an alternative way to express colors based on:
+ Hue (expressed as an angle between 0 and 360 degrees)
+ Saturation (expressed as a percentage)
+ Lightness (expressed as a percentage 0% =&amp;gt; white, 50% =&amp;gt; normal &amp;amp; 100% =&amp;gt; black)
+   body { background-color: hsl(0, 0%, 78%); }  </description>
+    </item>
+    
+    <item>
+      <title>Justify Content</title>
+      <link>/07-page-layout-flexbox/flexbox/flex-container-properties/justify-content/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/07-page-layout-flexbox/flexbox/flex-container-properties/justify-content/</guid>
+      <description> justify-content  defines the alignment along the main axis
+ will distribute extra free space left after all the flex items have reached their maximum size
+  .container { justify-content: flex-start | flex-end | center | space-between | space-around; }  </description>
+    </item>
+    
+    <item>
+      <title>Lab - Rock, Paper, Scissors</title>
+      <link>/13-arrays-and-loops/lab-rock-paper-scissors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/13-arrays-and-loops/lab-rock-paper-scissors/</guid>
+      <description>Lab: Rock, Paper Scissors  Using Atom, open the folder called rock_paper_scissors in your lesson_13_files folder. You will be using these files as starting off point.
+ Instructions
+ Work in pairs/groups (each student should have their own copy of the app on your computers)
+ Review the completed version of the app (found in folder called rock_paper_scissors_obfuscated) to understand how the app is expected to work
+ Review the Javascript code (found in js/main.</description>
+    </item>
+    
+    <item>
+      <title>Lab Milestone #3</title>
+      <link>/14-javascript-lab/milestone-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/14-javascript-lab/milestone-3/</guid>
+      <description>Follow the steps below to complete Milestone #3:
+In your groups:
+ Complete the application by adding logic that changes the background image to reflect the converted temperature   Example: If the converted temperature is 10 F (degrees) the background image should represent something cold
+ Make the application your own - choose your own background images
+  Timebox: 20 to 30 minutes
+Note: While you will be working within a group, each student should have their own copy of the project on their computers</description>
+    </item>
+    
+    <item>
+      <title>Select</title>
+      <link>/17-forms/form-elements/select/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/17-forms/form-elements/select/</guid>
+      <description> Select &amp;lt;form action=&amp;quot;http://www.example.com/profile.php&amp;quot;&amp;gt; &amp;lt;p&amp;gt;What device do you listen to music on?&amp;lt;/p&amp;gt; &amp;lt;select name=&amp;quot;devices&amp;quot;&amp;gt; &amp;lt;option value=&amp;quot;ipod&amp;quot;&amp;gt;iPod&amp;lt;/option&amp;gt; &amp;lt;option value=&amp;quot;radio&amp;quot;&amp;gt;Radio&amp;lt;/option&amp;gt; &amp;lt;option value=&amp;quot;computer&amp;quot;&amp;gt;Computer&amp;lt;/option&amp;gt; &amp;lt;/select&amp;gt; &amp;lt;/form&amp;gt;  Select Example Select Attributes  &amp;lt;select&amp;gt;: Creates a drop down list box
+ name: Identifies which form control that data came from  &amp;lt;option&amp;gt;: Specifies the options that the user can select from
+ value: Indicates the value that is sent to the server for the selected option selected: Indicates which option should be selected when the page loads   </description>
+    </item>
+    
+    <item>
+      <title>What is Javascript?</title>
+      <link>/09-intro-to-programming/what-is-javascript/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/09-intro-to-programming/what-is-javascript/</guid>
+      <description> What is Javascript?  programming language created in 1995 by Netscape (now Mozilla)
+ It was created in 10 days
+ Not the same as java
+  What does Javascript do?  Adds interactivity to your websites
+ Makes web based software feel more like desktop software
+ Improves user experience
+  Why teach javascript in front-end web development?  Javascript is the only programming language that all web browsers understand  </description>
+    </item>
+    
+    <item>
+      <title>const</title>
+      <link>/11-javascript-fundamentals/variables/const/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/11-javascript-fundamentals/variables/const/</guid>
+      <description>const  Stands for constant
+ These are variables for which its value does not change after it has been assigned an initial value
+ This help make your code easier to debug and protects certain values from accidentally being overridden in your codebase
+  Declaring a constant const are the same as let but with one key difference, values can only be assigned once to a const variable</description>
+    </item>
+    
+    <item>
+      <title>Course Tools</title>
+      <link>/00-course-intro-and-tools/tools/</link>
+      <pubDate>Sat, 16 Mar 2019 10:03:50 -0400</pubDate>
+      
+      <guid>/00-course-intro-and-tools/tools/</guid>
+      <description>Text Editor:
+ Why?: Text editor is a program that developers use to create and edit a range of programming language files. We&amp;rsquo;ll be using Atom, because it&amp;rsquo;s open source (free) and really good.
+ Download Atom
+  Browser:
+ Why?: Google chrome is a robust browser with a variety of tools that are helpful to developers.
+ Install Google Chrome
+  Github:
+ Why?: Github (and Git) are tools/applications used to by developers to manage their code and work collaboratively with each other.</description>
+    </item>
+    
+    <item>
+      <title>Align Items</title>
+      <link>/07-page-layout-flexbox/flexbox/flex-container-properties/align-items/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/07-page-layout-flexbox/flexbox/flex-container-properties/align-items/</guid>
+      <description> Align Items  defines the default behaviour for how flex items are laid out along the cross axis on the current line  </description>
+    </item>
+    
+    <item>
+      <title>Bonus Milestone</title>
+      <link>/14-javascript-lab/bonus-milestone/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/14-javascript-lab/bonus-milestone/</guid>
+      <description>Follow the steps below to complete the Bonus Milestone:
+ Add logic that also allows users to convert from Fahrenheit to Celsius (currently the application only converts from Celsius to Fahrenheit)
+ Add logic that displays an error message when the user enters a non number (for example: when users enter a letter or a special character such as &amp;ldquo;#&amp;rdquo; or &amp;ldquo;$&amp;rdquo; into the text field and tries to calculate the temperature conversion)</description>
+    </item>
+    
+    <item>
+      <title>Code Along - Color Scheme Switcher</title>
+      <link>/09-intro-to-programming/code-along-color-scheme-switcher/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/09-intro-to-programming/code-along-color-scheme-switcher/</guid>
+      <description> Code Along: Color Scheme Switcher  Using Atom, open the folder called color_scheme_switcher in your lesson_09_files folder. You will be using these files as starting off point.
+ During this exercise, we&amp;rsquo;ll be doing the following:
+ Walk through an actual javascript code step-by-step
+ Introduce variables, functions, listeners
+ Talk about how Javascript finding the elements to control
+ Make some small changes and examine the results.
+   </description>
+    </item>
+    
+    <item>
+      <title>Comparison Operators</title>
+      <link>/11-javascript-fundamentals/comparison-operators/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/11-javascript-fundamentals/comparison-operators/</guid>
+      <description>Comparison Operators  Compares operands (the things on either side of the operator) and returns true or false (boolean) based one the comparison     Operator Description Example (all return true)     Equal (==) Returns true if the operands are equal 3 == &amp;ldquo;3&amp;rdquo; (uhmm yes this is actually true)   Not equal (!=) Returns true if the operands are not equal. (4 + 1) !</description>
+    </item>
+    
+    <item>
+      <title>Flex Shorthand</title>
+      <link>/07-page-layout-flexbox/flexbox/flex-items-properties/flex-shorthand/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/07-page-layout-flexbox/flexbox/flex-items-properties/flex-shorthand/</guid>
+      <description> flex shorthand  allows developers to specify a flex-item&amp;rsquo;s flex-grow, flex-shrink and flex-basis all at the same time   .item { flex: none | [ &amp;lt;&#39;flex-grow&#39;&amp;gt; &amp;lt;&#39;flex-shrink&#39;&amp;gt;? || &amp;lt;&#39;flex-basis&#39;&amp;gt; ] }  </description>
+    </item>
+    
+    <item>
+      <title>HSLa</title>
+      <link>/08-css-positioning-and-colors/css-colors/hsla/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/08-css-positioning-and-colors/css-colors/hsla/</guid>
+      <description> HSLa  Just like HSL but adds the ability to specify opacity using an alpha value
+ alpha must be a number between 0.0 and 1.0 (0.5 means 50% opacity)
+  body { background-color: hsla(0, 100%, 75%, 0.5); }  </description>
+    </item>
+    
+    <item>
+      <title>Host Final Project using Github Pages</title>
+      <link>/final-projects/milestones-due-dates/host-final-project-on-github-pages/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/final-projects/milestones-due-dates/host-final-project-on-github-pages/</guid>
+      <description> Milestone VI: Host Final Project using Github Pages Details TBD
+ Due Date: Monday, May 13th  </description>
+    </item>
+    
+    <item>
+      <title>Lab - Layout Challenge</title>
+      <link>/07-page-layout-flexbox/lab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/07-page-layout-flexbox/lab/</guid>
+      <description> Lab: Layout Challenge  Using Atom, open the folder called layout_challenge in your lesson_07_files folder. You will be using these files as starting off point.
+ Work in teams to use flexbox to recreate the remaining layouts depicted in layout_challenge/layouts.pdf file
+ Before you start building:
+ Draw a wireframe of the layout Identify your flex containers Idenitfy your nested flex containers  Timebox: 45 mins
+  </description>
+    </item>
+    
+    <item>
+      <title>Lab - jQuery DOM Selector Practice</title>
+      <link>/10-intro-to-jquery/lab-jquery-dom-selector-practice/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/10-intro-to-jquery/lab-jquery-dom-selector-practice/</guid>
+      <description> Lab: jQuery DOM Selector Practice  Using Atom, open the folder called jquery_dom_selector_practice in your lesson_10_files folder. You will be using these files as starting off point.
+ Instructions
+ Follow the instructions specified in the exercise.js file   </description>
+    </item>
+    
+    <item>
+      <title>Pinterest-style layout with Masonry</title>
+      <link>/course-materials/code-demos/pinterest-type-layout-masonry/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/course-materials/code-demos/pinterest-type-layout-masonry/</guid>
+      <description>Overview Masonry is a Javascript plugin that makes it easy to create cascading grids that automatically resize as the viewport width resizes. This results in a UI layout similar to Pinterest.
+Demo Application Summary This application uses Masonry to create a cascading grid layout.
+download Masonry example</description>
+    </item>
+    
+    <item>
+      <title>Submit Button</title>
+      <link>/17-forms/form-elements/submit-button/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/17-forms/form-elements/submit-button/</guid>
+      <description>Submit Button &amp;lt;form action=&amp;quot;http://www.example.com/subscribe.php&amp;quot;&amp;gt; &amp;lt;p&amp;gt;Subscribe to our email list:&amp;lt;/p&amp;gt; &amp;lt;input type=&amp;quot;text&amp;quot; name=&amp;quot;email&amp;quot; /&amp;gt; &amp;lt;input type=&amp;quot;submit&amp;quot; name=&amp;quot;subscribe&amp;quot; value=&amp;quot;Subscribe&amp;quot; /&amp;gt; &amp;lt;/form&amp;gt;  Submit Button Example Submit Button Attributes  type=&amp;ldquo;submit&amp;rdquo;: Submit button are used to submit a form to a server
+ name: Used by the server to identify which form control that data came from
+ value: Controls the text that appears on the button
+  The &amp;lt;button&amp;gt; element can also be used more info</description>
+    </item>
+    
+    <item>
+      <title>Links</title>
+      <link>/01-html-basics/tag-overview/links/</link>
+      <pubDate>Thu, 14 Mar 2019 20:29:59 -0400</pubDate>
+      
+      <guid>/01-html-basics/tag-overview/links/</guid>
+      <description> Links  Links created using the &amp;lt;a&amp;gt; tag
+ link tags use the href attribute (remember attributes come with a name and a value)
+ The value of the href attribute is the location where the link will direct you after it has been clicked
+  &amp;lt;!DOCTYPE html&amp;gt; &amp;lt;html&amp;gt; &amp;lt;head&amp;gt; &amp;lt;!-- contains information about the page --&amp;gt; &amp;lt;title&amp;gt;My page&amp;lt;/title&amp;gt; &amp;lt;/head&amp;gt; &amp;lt;body&amp;gt; &amp;lt;a href=&amp;quot;https://www.cnn.com&amp;quot;&amp;gt; CNN &amp;lt;/a&amp;gt; &amp;lt;a href=&amp;quot;/about_us.html&amp;quot;&amp;gt;About Us&amp;lt;/a&amp;gt; &amp;lt;/body&amp;gt; &amp;lt;/html&amp;gt;  </description>
+    </item>
+    
+    <item>
+      <title>Align Content</title>
+      <link>/07-page-layout-flexbox/flexbox/flex-container-properties/align-content/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/07-page-layout-flexbox/flexbox/flex-container-properties/align-content/</guid>
+      <description>Align Content  aligns a flex container&amp;rsquo;s lines within when there is extra space in the cross-axis
+ align-content only applies when there are mutiple lines of flex items
+  .container { align-content: flex-start | flex-end | center | space-between | space-around | stretch; }  Live Example
+JS Bin on jsbin.com
+In the example above we are using align-content: center to align the 2 wrapped rows of flex-items along the center of the cross-axis</description>
+    </item>
+    
+    <item>
+      <title>Code Along - Responsive Marketing Layout</title>
+      <link>/15-responsive-design/code-along-responsive-marketing-layout/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/15-responsive-design/code-along-responsive-marketing-layout/</guid>
+      <description> Code Along: Responsive Simple Marketing Layout  Using Atom, open the folder called responsive_marketing_layout_updated in your lesson_15_files folder. You will be using these files as starting off point.
+ As a class, we&amp;rsquo;ll convert this layout to a responsive layout
+  </description>
+    </item>
+    
+    <item>
+      <title>Lab - Traffic Light</title>
+      <link>/09-intro-to-programming/lab-traffic-light/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/09-intro-to-programming/lab-traffic-light/</guid>
+      <description>Lab: Traffic Light  Using Atom, open the folder called traffic_light in your lesson_09_files folder. You will be using these files as starting off point.
+ DurigThe yellow button changes the bulb to purple and the green light does not work, change the code so that the traffic light works correctly.
+ Instructions
+ Work in pairs
+ Use &amp;ldquo;pattern matching&amp;rdquo; to identify what needs to fix the broken code</description>
+    </item>
+    
+    <item>
+      <title>Label</title>
+      <link>/17-forms/form-elements/label/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/17-forms/form-elements/label/</guid>
+      <description>Labels &amp;lt;form action=&amp;quot;http://www.example.com/subscribe.php&amp;quot;&amp;gt; &amp;lt;label&amp;gt;Age: &amp;lt;input type=&amp;quot;text&amp;quot; name=&amp;quot;age&amp;quot; /&amp;gt;&amp;lt;/label&amp;gt; &amp;lt;br/ &amp;gt; Gender: &amp;lt;input id=&amp;quot;female&amp;quot; type=&amp;quot;radio&amp;quot; name=&amp;quot;gender&amp;quot; value=&amp;quot;f&amp;quot;&amp;gt; &amp;lt;label for=&amp;quot;female&amp;quot;&amp;gt;Female&amp;lt;/label&amp;gt; &amp;lt;input id=&amp;quot;male&amp;quot; type=&amp;quot;radio&amp;quot; name=&amp;quot;gender&amp;quot; value=&amp;quot;m&amp;quot;&amp;gt; &amp;lt;label for=&amp;quot;male&amp;quot;&amp;gt;Male&amp;lt;/label&amp;gt; &amp;lt;/form&amp;gt;  Label Example Label The &amp;lt;label&amp;gt; element can be used in two ways:
+1) Wrap around both the text and form input
+or
+2) Kept separate from the form control and use the for attribute to indicate which form control it is a label for</description>
+    </item>
+    
+    <item>
+      <title>Logical Operators</title>
+      <link>/11-javascript-fundamentals/logical-operators/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/11-javascript-fundamentals/logical-operators/</guid>
+      <description>Logical Operators  Evaluates between two conditions/expressions and returns true or false
+ with &amp;amp;&amp;amp; (Logical And) operators, both conditions have to be true in order for the whole expression to be true
+ with || (Logical Or) operators, any of the condition must be true for entire expression to be true; but if all conditions are false then the entire expression is false
+     Operator Description Example (all return true)     Logical AND (&amp;amp;&amp;amp;) expr1 &amp;amp;&amp;amp; expr2 (3 &amp;gt; 1) &amp;amp;&amp;amp; &amp;ldquo;cat&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Conditionals</title>
+      <link>/11-javascript-fundamentals/conditionals/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/11-javascript-fundamentals/conditionals/</guid>
+      <description>What are Conditionals?  Conditionals tests whether an “expression” evaluates to true or false and then makes a decision based on the results of that test
+ if statements are the most common form of conditionals
+ There are two types of if statements
+ (if..else) statements
+ (if..else if) statements
+   (if&amp;hellip;else) statements  when evaluating between just two choices, use if/else
+ These are great for “either or” situations</description>
+    </item>
+    
+    <item>
+      <title>Flex Property Examples</title>
+      <link>/07-page-layout-flexbox/flexbox/flex-container-properties/flex-property-examples/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/07-page-layout-flexbox/flexbox/flex-container-properties/flex-property-examples/</guid>
+      <description>Using the jsbin below, change the following properties and observe the result:
+ Change the value of flex-direction property of the .container selector to the each of the following and observe the result:
+ column row-reverse column-reverse  With the flex-direction set to row, change the value of justify-content property of the .container selector to the each of the following and observe the result:
+ flex-start flex-end center space-between space-around  Follow all of the steps laid out in #2 above but this time set the flex-direction set to column and observe the changes</description>
+    </item>
+    
+    <item>
+      <title>Submit Final Project</title>
+      <link>/final-projects/milestones-due-dates/submit-final-project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/final-projects/milestones-due-dates/submit-final-project/</guid>
+      <description> Milestone VII: Submit Final Project Details TBD
+ Due Date: Monday, May 20th  </description>
+    </item>
+    
+    <item>
+      <title>Folder Organization</title>
+      <link>/00-course-intro-and-tools/folder-structure/</link>
+      <pubDate>Sat, 16 Mar 2019 10:03:59 -0400</pubDate>
+      
+      <guid>/00-course-intro-and-tools/folder-structure/</guid>
+      <description> Recommended Folder Organization  Create a folder in your Documents (My Documents on Windows) folder called FEWD
+ At beginning of every class, download and unzip (mac instructions | windows instructions) the &amp;ldquo;Lesson Files&amp;rdquo; for that lesson directly into your FEWD folder
+  While the lesson files will be hosted on Dropbox, you do not need to have a dropbox account to download the files.
+  As the course progresses you&amp;rsquo;ll have a neatly organized listing of all of your work that looks similar to this:  </description>
+    </item>
+    
+    <item>
+      <title>Images</title>
+      <link>/01-html-basics/tag-overview/images/</link>
+      <pubDate>Thu, 14 Mar 2019 20:29:59 -0400</pubDate>
+      
+      <guid>/01-html-basics/tag-overview/images/</guid>
+      <description>Images  Images are placed in a &amp;lt;img&amp;gt;
+ Empty element meaning there is no closing tag
+   &amp;lt;img src=&amp;quot;images/team_hands&amp;quot; alt=&amp;quot;a group of people touching hands in a star formation&amp;quot; title=&amp;quot;teamwork is awesome&amp;quot;&amp;gt;  Image Attributes  src - Tells browser where to find the image (may relative or absolute path)
+ alt - Provides description of image for people who cannot see the image (accessibility)
+ title - Used to provide additional information about the image.</description>
+    </item>
+    
+    <item>
+      <title>Code Along - Compare That</title>
+      <link>/11-javascript-fundamentals/code-along-compare-that/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/11-javascript-fundamentals/code-along-compare-that/</guid>
+      <description> Code Along: Compare That  Using Atom, open the folder called compare_that in your lesson_11_files folder. You will be using these files as starting off point.
+ During this exercise, we&amp;rsquo;ll be doing the following:
+ We&amp;rsquo;ll use javascript to complete an application used to compare two numbers   </description>
+    </item>
+    
+    <item>
+      <title>Code Along - Blackout</title>
+      <link>/11-javascript-fundamentals/code-along-blackout/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/11-javascript-fundamentals/code-along-blackout/</guid>
+      <description> Code Along: Blackout  Using Atom, open the folder called blackout in your lesson_11_files folder. You will be using these files as starting off point.
+ During this exercise, we&amp;rsquo;ll be doing the following:
+ We&amp;rsquo;ll use javascript to complete an application imitate a light switch   </description>
+    </item>
+    
+    <item>
+      <title>Keys to Success</title>
+      <link>/00-course-intro-and-tools/keys-to-success/</link>
+      <pubDate>Sat, 16 Mar 2019 17:11:17 -0400</pubDate>
+      
+      <guid>/00-course-intro-and-tools/keys-to-success/</guid>
+      <description>Do your homework: More you practice the concepts learned in class, the faster you&amp;rsquo;ll pick them up
+ Don&amp;rsquo;t try to memorize anything: You&amp;rsquo;ll memorize things naturally through the act of doing things over and over again. Besides, if you don&amp;rsquo;t remember something just look it up (i.e. google).
+ Work smarter not harder: In additional to looking things up, developers are really good at referencing past code that they&amp;rsquo;ve used in the past to solve problems they encounter in the present.</description>
+    </item>
+    
+    <item>
+      <title>Tables</title>
+      <link>/01-html-basics/tag-overview/tables/</link>
+      <pubDate>Thu, 14 Mar 2019 20:29:59 -0400</pubDate>
+      
+      <guid>/01-html-basics/tag-overview/tables/</guid>
+      <description>Tables  Tables represent data in a grid format
+ Table Tags
+ &amp;lt;table&amp;gt;: element used to create a table
+ &amp;lt;tr&amp;gt;: table row
+ &amp;lt;td&amp;gt;: table data, represents a cell in the table
+ &amp;lt;th&amp;gt;: table headings used to respresent the header for a column or a row
+   Learn more about tables here
+ ---- Table examples  JS Bin on jsbin.com
+JS Bin on jsbin.</description>
+    </item>
+    
+    <item>
+      <title>Block &amp; Inline Elements</title>
+      <link>/01-html-basics/tag-overview/block-and-inline-elements/</link>
+      <pubDate>Thu, 14 Mar 2019 20:29:59 -0400</pubDate>
+      
+      <guid>/01-html-basics/tag-overview/block-and-inline-elements/</guid>
+      <description>Block Elements  Block elements always appear on a new line in the browser window
+ &amp;lt;h1&amp;gt;, &amp;lt;p&amp;gt;, &amp;lt;ul&amp;gt;, and &amp;lt;li&amp;gt; are examples of block elements
+  JS Bin on jsbin.com
+Inline Elements  Inline elements will always appear to continue on the same line as their neighboring elements
+ &amp;lt;a&amp;gt;, &amp;lt;img&amp;gt;, &amp;lt;b&amp;gt;, and &amp;lt;em&amp;gt; are examples of inline elements
+  JS Bin on jsbin.com</description>
+    </item>
+    
+    <item>
+      <title>Divs &amp; Spans</title>
+      <link>/01-html-basics/tag-overview/divs-spans/</link>
+      <pubDate>Thu, 14 Mar 2019 20:29:59 -0400</pubDate>
+      
+      <guid>/01-html-basics/tag-overview/divs-spans/</guid>
+      <description>Divs  Divs allow you to group a set of elements together in one block-level box  JS Bin on jsbin.com
+ Divs are mainly used to break your content up into logical sections. By doing so, you have more control of the layout and appearance of your pages.  Spans  Spans are the inline equivalent to Divs
+ Spans are used to either:
+ contain a section of text where there is no other suitable element to differentiate it from its surrounding text</description>
+    </item>
+    
+    <item>
+      <title>Other Tags</title>
+      <link>/01-html-basics/tag-overview/other-tags/</link>
+      <pubDate>Thu, 14 Mar 2019 20:29:59 -0400</pubDate>
+      
+      <guid>/01-html-basics/tag-overview/other-tags/</guid>
+      <description>Many more tags There are many other tags available to developers such as:
+ &amp;lt;b&amp;gt; Makes text bold&amp;lt;/b&amp;gt; &amp;lt;i&amp;gt; Italic text &amp;lt;/i&amp;gt; &amp;lt;br/&amp;gt; Used to break text within a paragraph &amp;lt;hr /&amp;gt; Used to add a horizontal line to visually break up text  JS Bin on jsbin.com
+MDN (Mozilla Developer Network) is an excellent resource for all things HTML, CSS and Javascript. For a complete list of all tags avaiable click here</description>
+    </item>
+    
+    <item>
+      <title>Reading Assignment</title>
+      <link>/01-html-basics/reading-assignment/</link>
+      <pubDate>Sun, 17 Mar 2019 01:04:09 -0400</pubDate>
+      
+      <guid>/01-html-basics/reading-assignment/</guid>
+      <description>View the following videos before the next class
+ Video: What is Version Control (6 mins) 
+ Video: What is Git (8 mins)
+ Video: What is Github? (4 mins)
+  Complete the following tutorial before the next class
+ Tutorial: Hello World Github Tutorial  </description>
+    </item>
+    
+  </channel>
+</rss>

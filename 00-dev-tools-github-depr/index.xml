@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dev Tools, Git &amp; Github on FEWD</title>
+    <link>/00-dev-tools-github-depr/</link>
+    <description>Recent content in Dev Tools, Git &amp; Github on FEWD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 22 Jan 2017 18:04:24 -0500</lastBuildDate>
+    
+	<atom:link href="/00-dev-tools-github-depr/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Git Tutorial</title>
+      <link>/00-dev-tools-github-depr/github-tutorial/</link>
+      <pubDate>Sun, 22 Jan 2017 18:05:18 -0500</pubDate>
+      
+      <guid>/00-dev-tools-github-depr/github-tutorial/</guid>
+      <description>Initial Setup Step 1: Create a Github Account* *one-time step
+&amp;nbsp;
+Step 2: Download Github Desktop software* *one-time step
+&amp;nbsp;
+Step 3: Sign in to Github Account through the Github Desktop application  Github Desktop -&amp;gt; Preferences -&amp;gt; Accounts  *one-time step / Use your Github account username &amp;amp; password
+&amp;nbsp;
+Step 4: Create a folder named github in your &amp;ldquo;class&amp;rdquo; folder* *one-time step
+&amp;nbsp;
+Starting an Assignment Step 5a: Fork Instructor Repository  The link for the Instructor repository will be provided to you  &amp;nbsp;</description>
+    </item>
+    
+  </channel>
+</rss>

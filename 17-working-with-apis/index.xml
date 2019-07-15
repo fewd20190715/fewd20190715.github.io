@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Working with APIs on FEWD</title>
+    <link>http://example.org/17-working-with-apis/</link>
+    <description>Recent content in Working with APIs on FEWD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 22 Jan 2017 18:04:24 -0500</lastBuildDate>
+    
+	<atom:link href="http://example.org/17-working-with-apis/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Objectives</title>
+      <link>http://example.org/17-working-with-apis/objectives/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>http://example.org/17-working-with-apis/objectives/</guid>
+      <description> Learn about APIs and understand how they are used  </description>
+    </item>
+    
+    <item>
+      <title>Agenda</title>
+      <link>http://example.org/17-working-with-apis/agenda/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>http://example.org/17-working-with-apis/agenda/</guid>
+      <description> Discuss JSON
+ Understand APIs and why they are used
+ Explore a real use case of API usage
+  </description>
+    </item>
+    
+    <item>
+      <title>JSON</title>
+      <link>http://example.org/17-working-with-apis/json/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>http://example.org/17-working-with-apis/json/</guid>
+      <description>What is JSON?  Stands for JavaScript Object Notation
+ A way to store information in an organized, easy-to-access manner
+ A popular way to send data from on web server (service) to another
+ Resembles a normal Javascript Object (it contains properties and values) but does not contain methods
+   { &amp;quot;id&amp;quot;: 1, &amp;quot;name&amp;quot;: &amp;quot;Scoobie Doo&amp;quot;, &amp;quot;favoriteFood&amp;quot;: &amp;quot;Scoobie Snacks&amp;quot; }  JSON Guidelines  Property names must be double-quoted strings</description>
+    </item>
+    
+    <item>
+      <title>API Overview</title>
+      <link>http://example.org/17-working-with-apis/api-overview/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>http://example.org/17-working-with-apis/api-overview/</guid>
+      <description>What is an API?  Stands for &amp;ldquo;Application Programing Interface&amp;rdquo;
+ A way to exchange data between servers / services (i.e. software to software communication)
+ Set of programming instructions and standards for accessing a Web-based software application or Web tool
+ For example, Amazon.com released its API so that Web site developers could more easily access Amazon&amp;rsquo;s product information
+ In a nutshell, if you want to leverage information from another website or application your first choice should be to use an API (if they offer one)</description>
+    </item>
+    
+    <item>
+      <title>Making API Requests with jQuery</title>
+      <link>http://example.org/17-working-with-apis/making-api-requests-with-jquery/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>http://example.org/17-working-with-apis/making-api-requests-with-jquery/</guid>
+      <description>What is Ajax?  AJAX stands for Asynchronous JavaScript And XML
+ The meaning: web applications can send or receive data from the server without requesting an entire page - instead, they can just request or send an arbitrary amount of data
+ In front-end development, Ajax Often used to make API requests that will fetch data from another service without having to refresh the web page
+  Click here for more information about AJAX</description>
+    </item>
+    
+    <item>
+      <title>API Example</title>
+      <link>http://example.org/17-working-with-apis/api-example/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>http://example.org/17-working-with-apis/api-example/</guid>
+      <description> API Example: iTunes Search  Using Sublime, open the folder called itunes_search_api (found within the starter_code) folder
+ As a class, we&amp;rsquo;ll walk through an example of using an API to fetch data from iTunes
+  </description>
+    </item>
+    
+    <item>
+      <title>Code Along</title>
+      <link>http://example.org/17-working-with-apis/code-along/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>http://example.org/17-working-with-apis/code-along/</guid>
+      <description> Code Along: Weather Application  Using Sublime, open the folder called weather_app (found within the starter_code) folder
+ As a class, we&amp;rsquo;ll leverage the API from OpenWeatherMap to display the current weather for a given city
+  </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Getting Data from Other Services on FEWD</title>
+    <link>/course-materials/code-demos/getting-data-from-other-services/</link>
+    <description>Recent content in Getting Data from Other Services on FEWD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/course-materials/code-demos/getting-data-from-other-services/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>iTunes Search API</title>
+      <link>/course-materials/code-demos/getting-data-from-other-services/itunes-search-api/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/course-materials/code-demos/getting-data-from-other-services/itunes-search-api/</guid>
+      <description>Demo Application Summary This application uses the iTunes API to display a list of songs/albums associated with artist submitted into the search field
+download iTunes Search Application</description>
+    </item>
+    
+    <item>
+      <title>Giphy Search API</title>
+      <link>/course-materials/code-demos/getting-data-from-other-services/giphy-api/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/course-materials/code-demos/getting-data-from-other-services/giphy-api/</guid>
+      <description>Demo Application Summary This application uses the Giphy API to display a list of gifs associated with a search term submitted into the search field
+download Giphy Search Application
+Setup Instructions  Sign up for a Giphy Developer account
+ Download the demo application and save files in your class folder
+ Add your Access Token to app.js on line 31
+ Run a Local Server on your computer (Required!</description>
+    </item>
+    
+  </channel>
+</rss>

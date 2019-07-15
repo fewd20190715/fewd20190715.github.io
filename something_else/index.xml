@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Something Else on FEWD</title>
+    <link>http://example.org/something_else/</link>
+    <description>Recent content in Something Else on FEWD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 14 Mar 2019 20:29:02 -0400</lastBuildDate>
+    
+	<atom:link href="http://example.org/something_else/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First Content</title>
+      <link>http://example.org/something_else/first-content/</link>
+      <pubDate>Thu, 14 Mar 2019 20:29:19 -0400</pubDate>
+      
+      <guid>http://example.org/something_else/first-content/</guid>
+      <description> Hello there </description>
+    </item>
+    
+  </channel>
+</rss>

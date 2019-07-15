@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Variables, Datatypes &amp; Conditionals on FEWD</title>
+    <link>http://example.org/09-variables-datatypes-conditionals/</link>
+    <description>Recent content in Variables, Datatypes &amp; Conditionals on FEWD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 22 Jan 2017 18:04:24 -0500</lastBuildDate>
+    
+	<atom:link href="http://example.org/09-variables-datatypes-conditionals/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Objectives</title>
+      <link>http://example.org/09-variables-datatypes-conditionals/objectives/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>http://example.org/09-variables-datatypes-conditionals/objectives/</guid>
+      <description> Introduce variables and identify best cases to use them
+ Differentiate most used javascript data types
+ Introduce logical &amp;amp; comparison operators
+ Introduce conditionals
+  </description>
+    </item>
+    
+    <item>
+      <title>Agenda</title>
+      <link>http://example.org/09-variables-datatypes-conditionals/agenda/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>http://example.org/09-variables-datatypes-conditionals/agenda/</guid>
+      <description> Last Class Review
+ Code Along: FAQ
+ Console Log
+ Variables
+ Data Types
+ Arithmetic Operators
+ Code Along: Score Keeper
+ Comparison &amp;amp; Logical Operators
+ Conditionals
+ Code Alongs: Compare That &amp;amp; Blackout
+  </description>
+    </item>
+    
+    <item>
+      <title>Last Class Review</title>
+      <link>http://example.org/09-variables-datatypes-conditionals/last-class-review/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>http://example.org/09-variables-datatypes-conditionals/last-class-review/</guid>
+      <description>DOM  Document Object Model
+ Browsers views HTML pages as documents and provides developers with a means of programatically referencing HTML pages using Javascript
+  What is jQuery?  A Javascript library that allows developers to manipulate the DOM using CSS selectors
+ jQuery provides an alternative (more intuitive) way of referencing the DOM (HTML elements) so we can add behavior to our pages
+  // selecting an element using native/pure javascript document.</description>
+    </item>
+    
+    <item>
+      <title>Code Along #1</title>
+      <link>http://example.org/09-variables-datatypes-conditionals/code-along-1/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>http://example.org/09-variables-datatypes-conditionals/code-along-1/</guid>
+      <description> Code Along #1: FAQ (frequently asked questions)  Using Sublime, open the folder called faq (found within the starter_code) folder
+ During this exercise, we&amp;rsquo;ll be doing the following:
+ We&amp;rsquo;ll use jQuery implement a F.A.Q. found on a company&amp;rsquo;s support page   </description>
+    </item>
+    
+    <item>
+      <title>Console Log</title>
+      <link>http://example.org/09-variables-datatypes-conditionals/console-log/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>http://example.org/09-variables-datatypes-conditionals/console-log/</guid>
+      <description>A method of debugging and troubleshooting in Javascript
+ Gives you the opportunity to print values to the log
+ Can be used as a means of confirming your code is &amp;ldquo;on the right track&amp;rdquo;
+ To print something to the console in Javascript, you use the console.log() method
+  // in your javascript file // print out a name to the console console.log(&amp;quot;Kareem&amp;quot;); // print out values sentences with values (for more context) // this uses string concatenation - we&#39;ll go over that shortly // declare a variable called score and give it a value of 8 var score = 8; // print out the variable in a sentence console.</description>
+    </item>
+    
+    <item>
+      <title>Variables</title>
+      <link>http://example.org/09-variables-datatypes-conditionals/variables/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>http://example.org/09-variables-datatypes-conditionals/variables/</guid>
+      <description>What are variables?  Similar to algebra
+ Helps you represent data or values
+ Used to help your program “remember” values
+ Can be thought of as a “box” that we put values in
+ In programming, you store values in variables if you plan on referencing that value at a later time
+  Declaring Variables  Variables are created by declaring them
+ Use the var keyword to declare a variable</description>
+    </item>
+    
+    <item>
+      <title>Data Types</title>
+      <link>http://example.org/09-variables-datatypes-conditionals/data-types/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>http://example.org/09-variables-datatypes-conditionals/data-types/</guid>
+      <description>Strings  Strings can consist of letters and other characters
+ They are surrounded by either double quotes or single quotes
+ Concatenation allows you to combine strings
+  // declare a variable called color and store a string var color = &amp;quot;green&amp;quot;;  Single or double quotes can be used for strings, but the opening quote must match the closing quote
+ String Methods  Javascript has some built-in methods that allow developers to work with strings</description>
+    </item>
+    
+    <item>
+      <title>Arithmetic Operators</title>
+      <link>http://example.org/09-variables-datatypes-conditionals/arithmetic-operators/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>http://example.org/09-variables-datatypes-conditionals/arithmetic-operators/</guid>
+      <description>What are Arithmetic Operators?  Mathematical symbol that can act on two values (or variables) and produce a result  JS Bin on jsbin.com</description>
+    </item>
+    
+    <item>
+      <title>Code Along #2</title>
+      <link>http://example.org/09-variables-datatypes-conditionals/code-along-2/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>http://example.org/09-variables-datatypes-conditionals/code-along-2/</guid>
+      <description> Code Along #2: Score Keeper  Using Sublime, open the folder called score_keeper (found within the starter_code) folder
+ During this exercise, we&amp;rsquo;ll be doing the following:
+ We&amp;rsquo;ll use javascript to complete an application used to keep track of a game&amp;rsquo;s score   </description>
+    </item>
+    
+    <item>
+      <title>Comparison Operators</title>
+      <link>http://example.org/09-variables-datatypes-conditionals/comparison-operators/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>http://example.org/09-variables-datatypes-conditionals/comparison-operators/</guid>
+      <description>What are Comparison Operators?  Compares two values and returns true or false (boolean)  JS Bin on jsbin.com</description>
+    </item>
+    
+    <item>
+      <title>Logical Operators</title>
+      <link>http://example.org/09-variables-datatypes-conditionals/logical-operators/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>http://example.org/09-variables-datatypes-conditionals/logical-operators/</guid>
+      <description>What are Logical Operators?  Evaluates between two conditions/expressions and returns true or false
+ with &amp;amp;&amp;amp; (and) operators, both conditions have to be true in order for the whole expression to be true
+ with ||(or) operators, either condition must be true for entire expression to be true
+  JS Bin on jsbin.com</description>
+    </item>
+    
+    <item>
+      <title>Conditionals</title>
+      <link>http://example.org/09-variables-datatypes-conditionals/conditionals/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>http://example.org/09-variables-datatypes-conditionals/conditionals/</guid>
+      <description>What are Conditionals?  Condtionals tests whether an “expression” evaluates to true or false and then makes a decision based on the results of that test
+ if statements are the most common form of conditionals
+ There are two types of if statements
+ (if else) statements
+ (if else if) statements
+   (if else) statements  when evaluating between just two choices, use if/else
+ These are great for “either or” situations</description>
+    </item>
+    
+    <item>
+      <title>Code Along #3</title>
+      <link>http://example.org/09-variables-datatypes-conditionals/code-along-3/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>http://example.org/09-variables-datatypes-conditionals/code-along-3/</guid>
+      <description> Code Along #3: Compare That  Using Sublime, open the folder called compare_that (found within the starter_code) folder
+ During this exercise, we&amp;rsquo;ll be doing the following:
+ We&amp;rsquo;ll use javascript to complete an application used to compare two numbers   </description>
+    </item>
+    
+    <item>
+      <title>Code Along #4</title>
+      <link>http://example.org/09-variables-datatypes-conditionals/code-along-4/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>http://example.org/09-variables-datatypes-conditionals/code-along-4/</guid>
+      <description> Code Along #4: Black Out  Using Sublime, open the folder called blackout (found within the starter_code) folder
+ During this exercise, we&amp;rsquo;ll be doing the following:
+ We&amp;rsquo;ll use javascript to complete an application imitate a light switch   </description>
+    </item>
+    
+    <item>
+      <title>Homework</title>
+      <link>http://example.org/09-variables-datatypes-conditionals/homework/</link>
+      <pubDate>Sun, 22 Jan 2017 18:05:18 -0500</pubDate>
+      
+      <guid>http://example.org/09-variables-datatypes-conditionals/homework/</guid>
+      <description> Homework Assignment - jQuery Traffic Light Directions:
+1) Fork the following respository:
+Homework #3
+ Review the assignment here
+ Use process covered in the Git/Github Tutorial to submit your assignment
+  </description>
+    </item>
+    
+  </channel>
+</rss>

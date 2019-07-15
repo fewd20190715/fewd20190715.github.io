@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reading and Writing Content on FEWD</title>
+    <link>/10-intro-to-jquery/jquery-in-action/reading-writing-content/</link>
+    <description>Recent content in Reading and Writing Content on FEWD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/10-intro-to-jquery/jquery-in-action/reading-writing-content/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>.text()</title>
+      <link>/10-intro-to-jquery/jquery-in-action/reading-writing-content/text/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/10-intro-to-jquery/jquery-in-action/reading-writing-content/text/</guid>
+      <description>.text()  Allows you to either read (get) or write (set) the text of html elements (documentation)  Reading Text  To read (or get) the text of elements using jQuery you need to use the .text() method with nothing between the parentheses   // read the text found in the element .main // notice how nothing is in-between the parentheses $(&amp;quot;.main&amp;quot;).text();  Example #1 - Reading text using .</description>
+    </item>
+    
+    <item>
+      <title>.val()</title>
+      <link>/10-intro-to-jquery/jquery-in-action/reading-writing-content/val/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/10-intro-to-jquery/jquery-in-action/reading-writing-content/val/</guid>
+      <description>.val()  Allows you to either read (get) or write (set) the value of html elements (documentation)
+ This is mainly used to read and write values of form elements such as text fields (input fields)
+  Reading Values  To read (or get) the value of elements using jQuery you need to use the .val() method with nothing between the parentheses   // read the value found in the element .</description>
+    </item>
+    
+    <item>
+      <title>.html()</title>
+      <link>/10-intro-to-jquery/jquery-in-action/reading-writing-content/html/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/10-intro-to-jquery/jquery-in-action/reading-writing-content/html/</guid>
+      <description>.html() TBD</description>
+    </item>
+    
+  </channel>
+</rss>

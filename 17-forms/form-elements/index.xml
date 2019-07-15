@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Form Elements on FEWD</title>
+    <link>/17-forms/form-elements/</link>
+    <description>Recent content in Form Elements on FEWD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/17-forms/form-elements/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Text Input</title>
+      <link>/17-forms/form-elements/text-input/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/17-forms/form-elements/text-input/</guid>
+      <description> Text Input &amp;lt;form action=&amp;quot;http://www.example.com/login.php&amp;quot;&amp;gt; &amp;lt;p&amp;gt; Username: &amp;lt;input type=&amp;quot;text&amp;quot; name=&amp;quot;username&amp;quot; maxlength=&amp;quot;30&amp;quot; /&amp;gt; &amp;lt;/p&amp;gt; &amp;lt;/form&amp;gt;  Text Input Example Text Input Attributes  type=&amp;ldquo;text&amp;rdquo;: Tells browser input will store plain text name: Used by the server to identify which form control that data came from maxlength: (optional) Specifies that max number of characters that can be entered  </description>
+    </item>
+    
+    <item>
+      <title>Password Input</title>
+      <link>/17-forms/form-elements/password-input/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/17-forms/form-elements/password-input/</guid>
+      <description> Password Input &amp;lt;form action=&amp;quot;http://www.example.com/login.php&amp;quot;&amp;gt; &amp;lt;p&amp;gt; Username: &amp;lt;input type=&amp;quot;text&amp;quot; name=&amp;quot;username&amp;quot; size=&amp;quot;15&amp;quot; maxlength=&amp;quot;30&amp;quot; /&amp;gt; &amp;lt;/p&amp;gt; &amp;lt;p&amp;gt; Password: &amp;lt;input type=&amp;quot;password&amp;quot; name=&amp;quot;password&amp;quot; size=&amp;quot;15&amp;quot; maxlength=&amp;quot;30&amp;quot; /&amp;gt; &amp;lt;/p&amp;gt; &amp;lt;/form&amp;gt;  Password Input Example Password Input Attributes  type=&amp;ldquo;password&amp;rdquo;: Tells browser input will store sensitive information, block characters from being displayed name: Used by the server to identify which form control that data came from maxlength: (optional) Specifies that max number of characters that can be entered  </description>
+    </item>
+    
+    <item>
+      <title>Text Area</title>
+      <link>/17-forms/form-elements/text-area/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/17-forms/form-elements/text-area/</guid>
+      <description> Text Area &amp;lt;form action=&amp;quot;http://www.example.com/comments.php&amp;quot;&amp;gt; &amp;lt;p&amp;gt;What did you think of FEWD?&amp;lt;/p&amp;gt; &amp;lt;textarea name=&amp;quot;comments&amp;quot; cols=&amp;quot;20&amp;quot; rows=&amp;quot;4&amp;quot;&amp;gt;Enter your comments...&amp;lt;/textarea&amp;gt; &amp;lt;/form&amp;gt;  Text Area Example Text Area Attributes  col: Controls number of columns rows: Controls number of rows  </description>
+    </item>
+    
+    <item>
+      <title>Radio Button</title>
+      <link>/17-forms/form-elements/radio-button/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/17-forms/form-elements/radio-button/</guid>
+      <description>Radio Button &amp;lt;form action=&amp;quot;http://www.example.com/profile.php&amp;quot;&amp;gt; &amp;lt;p&amp;gt;Please select your favorite sport: &amp;lt;br /&amp;gt; &amp;lt;input type=&amp;quot;radio&amp;quot; name=&amp;quot;sport&amp;quot; value=&amp;quot;football&amp;quot; checked=&amp;quot;checked&amp;quot; /&amp;gt; Football &amp;lt;input type=&amp;quot;radio&amp;quot; name=&amp;quot;sport&amp;quot; value=&amp;quot;soccer&amp;quot; /&amp;gt; Soccer &amp;lt;input type=&amp;quot;radio&amp;quot; name=&amp;quot;sport&amp;quot; value=&amp;quot;basketball&amp;quot; /&amp;gt; Basketball &amp;lt;/p&amp;gt; &amp;lt;/form&amp;gt;  Radio Button Example Radio Button Attributes  type=&amp;ldquo;radio&amp;rdquo;: Allows users to pick just one of the number of options name: Identifies which form control that data came from (radio buttons in the same group share the same name attribute) value: Indicates the value that is sent to the server for the selected option checked: Used to indicate which value (if any) should be selected when the page loads  Once a radio button is selected it cannot be deselected</description>
+    </item>
+    
+    <item>
+      <title>Checkbox</title>
+      <link>/17-forms/form-elements/checkbox/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/17-forms/form-elements/checkbox/</guid>
+      <description> Checkbox &amp;lt;form action=&amp;quot;http://www.example.com/profile.php&amp;quot;&amp;gt; &amp;lt;p&amp;gt;Please select your favorite music service(s): &amp;lt;br /&amp;gt; &amp;lt;input type=&amp;quot;checkbox&amp;quot; name=&amp;quot;service&amp;quot; value=&amp;quot;itunes&amp;quot; /&amp;gt; iTunes &amp;lt;input type=&amp;quot;checkbox&amp;quot; name=&amp;quot;service&amp;quot; value=&amp;quot;lastfm&amp;quot; /&amp;gt; Last.fm &amp;lt;input type=&amp;quot;checkbox&amp;quot; name=&amp;quot;service&amp;quot; value=&amp;quot;spotify&amp;quot; /&amp;gt; Spotify &amp;lt;/p&amp;gt; &amp;lt;/form&amp;gt;  Checkbox Example Checkbox Attributes  type=&amp;ldquo;checkbox&amp;rdquo;: Allows users to pick one or more options name: Used by the server to identify which form control that data came from (checkboxes in the same group share the same name attribute) value: Indicates the value that is sent to the server for the selected option checked: Used to indicate which value (if any) should be selected when the page loads  </description>
+    </item>
+    
+    <item>
+      <title>Select</title>
+      <link>/17-forms/form-elements/select/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/17-forms/form-elements/select/</guid>
+      <description> Select &amp;lt;form action=&amp;quot;http://www.example.com/profile.php&amp;quot;&amp;gt; &amp;lt;p&amp;gt;What device do you listen to music on?&amp;lt;/p&amp;gt; &amp;lt;select name=&amp;quot;devices&amp;quot;&amp;gt; &amp;lt;option value=&amp;quot;ipod&amp;quot;&amp;gt;iPod&amp;lt;/option&amp;gt; &amp;lt;option value=&amp;quot;radio&amp;quot;&amp;gt;Radio&amp;lt;/option&amp;gt; &amp;lt;option value=&amp;quot;computer&amp;quot;&amp;gt;Computer&amp;lt;/option&amp;gt; &amp;lt;/select&amp;gt; &amp;lt;/form&amp;gt;  Select Example Select Attributes  &amp;lt;select&amp;gt;: Creates a drop down list box
+ name: Identifies which form control that data came from  &amp;lt;option&amp;gt;: Specifies the options that the user can select from
+ value: Indicates the value that is sent to the server for the selected option selected: Indicates which option should be selected when the page loads   </description>
+    </item>
+    
+    <item>
+      <title>Submit Button</title>
+      <link>/17-forms/form-elements/submit-button/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/17-forms/form-elements/submit-button/</guid>
+      <description>Submit Button &amp;lt;form action=&amp;quot;http://www.example.com/subscribe.php&amp;quot;&amp;gt; &amp;lt;p&amp;gt;Subscribe to our email list:&amp;lt;/p&amp;gt; &amp;lt;input type=&amp;quot;text&amp;quot; name=&amp;quot;email&amp;quot; /&amp;gt; &amp;lt;input type=&amp;quot;submit&amp;quot; name=&amp;quot;subscribe&amp;quot; value=&amp;quot;Subscribe&amp;quot; /&amp;gt; &amp;lt;/form&amp;gt;  Submit Button Example Submit Button Attributes  type=&amp;ldquo;submit&amp;rdquo;: Submit button are used to submit a form to a server
+ name: Used by the server to identify which form control that data came from
+ value: Controls the text that appears on the button
+  The &amp;lt;button&amp;gt; element can also be used more info</description>
+    </item>
+    
+    <item>
+      <title>Label</title>
+      <link>/17-forms/form-elements/label/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/17-forms/form-elements/label/</guid>
+      <description>Labels &amp;lt;form action=&amp;quot;http://www.example.com/subscribe.php&amp;quot;&amp;gt; &amp;lt;label&amp;gt;Age: &amp;lt;input type=&amp;quot;text&amp;quot; name=&amp;quot;age&amp;quot; /&amp;gt;&amp;lt;/label&amp;gt; &amp;lt;br/ &amp;gt; Gender: &amp;lt;input id=&amp;quot;female&amp;quot; type=&amp;quot;radio&amp;quot; name=&amp;quot;gender&amp;quot; value=&amp;quot;f&amp;quot;&amp;gt; &amp;lt;label for=&amp;quot;female&amp;quot;&amp;gt;Female&amp;lt;/label&amp;gt; &amp;lt;input id=&amp;quot;male&amp;quot; type=&amp;quot;radio&amp;quot; name=&amp;quot;gender&amp;quot; value=&amp;quot;m&amp;quot;&amp;gt; &amp;lt;label for=&amp;quot;male&amp;quot;&amp;gt;Male&amp;lt;/label&amp;gt; &amp;lt;/form&amp;gt;  Label Example Label The &amp;lt;label&amp;gt; element can be used in two ways:
+1) Wrap around both the text and form input
+or
+2) Kept separate from the form control and use the for attribute to indicate which form control it is a label for</description>
+    </item>
+    
+  </channel>
+</rss>

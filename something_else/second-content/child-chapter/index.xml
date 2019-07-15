@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nested chapter on FEWD</title>
+    <link>http://example.org/something_else/second-content/child-chapter/</link>
+    <description>Recent content in Nested chapter on FEWD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 14 Mar 2019 20:29:59 -0400</lastBuildDate>
+    
+	<atom:link href="http://example.org/something_else/second-content/child-chapter/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

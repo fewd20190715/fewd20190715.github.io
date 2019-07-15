@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Intro to Programming on FEWD</title>
+    <link>/09-intro-to-programming/</link>
+    <description>Recent content in Intro to Programming on FEWD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/09-intro-to-programming/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Agenda</title>
+      <link>/09-intro-to-programming/agenda/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/09-intro-to-programming/agenda/</guid>
+      <description> What is Programming?
+ Pseudocode
+ Class Exercise: Thermostat
+ Group Exercise: Rock, Paper, Scissors
+ What is Javascript?
+ Code Along: Color Scheme Switcher
+ Lab: Traffic Light
+  </description>
+    </item>
+    
+    <item>
+      <title>What is Programming?</title>
+      <link>/09-intro-to-programming/what-is-programming/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/09-intro-to-programming/what-is-programming/</guid>
+      <description> What is Programming?  List of instructions that a computer needs in order to complete a task
+ Instructions are provided in a programming language that the computer understands
+ These set of instructions are commonly referred as source code or a program
+  </description>
+    </item>
+    
+    <item>
+      <title>Pseudocode</title>
+      <link>/09-intro-to-programming/pseudocode/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/09-intro-to-programming/pseudocode/</guid>
+      <description> Pseudocode  Process of writing a program without using the syntax of a programming language
+ Mixture of natural language and high-level programming concepts
+ There is no standard way to write pseudocode, use langauge that can be understood by technical and non-technical people
+ Use pseudocode as an &amp;ldquo;outline&amp;rdquo; for your real code
+  </description>
+    </item>
+    
+    <item>
+      <title>Class Exercise - Smart Thermostat Pseudocode</title>
+      <link>/09-intro-to-programming/class-exercise-smart-thermostat-pseudocode/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/09-intro-to-programming/class-exercise-smart-thermostat-pseudocode/</guid>
+      <description> Class Exercise: Thermostat logic in pseudocode We&amp;rsquo;re going to use pseudocode to describe the basic functionality of a smart thermostat
+ As as class we are going to write some pseudocode for a program for a smart thermostat
+ We’ll focus on coming up with the logic that will help the thermostat know when to turn the heat on and off
+  </description>
+    </item>
+    
+    <item>
+      <title>Group Exercise - Rock, Paper, Scissors</title>
+      <link>/09-intro-to-programming/group-exercise-rock-paper-scissors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/09-intro-to-programming/group-exercise-rock-paper-scissors/</guid>
+      <description>Group Exercise: Rock, Paper and Scissors Form groups and write pseudocode describing a game of Rock, Paper, Scissors</description>
+    </item>
+    
+    <item>
+      <title>What is Javascript?</title>
+      <link>/09-intro-to-programming/what-is-javascript/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/09-intro-to-programming/what-is-javascript/</guid>
+      <description> What is Javascript?  programming language created in 1995 by Netscape (now Mozilla)
+ It was created in 10 days
+ Not the same as java
+  What does Javascript do?  Adds interactivity to your websites
+ Makes web based software feel more like desktop software
+ Improves user experience
+  Why teach javascript in front-end web development?  Javascript is the only programming language that all web browsers understand  </description>
+    </item>
+    
+    <item>
+      <title>Code Along - Color Scheme Switcher</title>
+      <link>/09-intro-to-programming/code-along-color-scheme-switcher/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/09-intro-to-programming/code-along-color-scheme-switcher/</guid>
+      <description> Code Along: Color Scheme Switcher  Using Atom, open the folder called color_scheme_switcher in your lesson_09_files folder. You will be using these files as starting off point.
+ During this exercise, we&amp;rsquo;ll be doing the following:
+ Walk through an actual javascript code step-by-step
+ Introduce variables, functions, listeners
+ Talk about how Javascript finding the elements to control
+ Make some small changes and examine the results.
+   </description>
+    </item>
+    
+    <item>
+      <title>Lab - Traffic Light</title>
+      <link>/09-intro-to-programming/lab-traffic-light/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/09-intro-to-programming/lab-traffic-light/</guid>
+      <description>Lab: Traffic Light  Using Atom, open the folder called traffic_light in your lesson_09_files folder. You will be using these files as starting off point.
+ DurigThe yellow button changes the bulb to purple and the green light does not work, change the code so that the traffic light works correctly.
+ Instructions
+ Work in pairs
+ Use &amp;ldquo;pattern matching&amp;rdquo; to identify what needs to fix the broken code</description>
+    </item>
+    
+  </channel>
+</rss>

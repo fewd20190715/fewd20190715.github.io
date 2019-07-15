@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Media Queries on FEWD</title>
+    <link>/15-responsive-design/media-queries/</link>
+    <description>Recent content in Media Queries on FEWD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/15-responsive-design/media-queries/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Media Query Overview</title>
+      <link>/15-responsive-design/media-queries/media-query-overview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/15-responsive-design/media-queries/media-query-overview/</guid>
+      <description>What are the Media Queries?  Key element in responsive design
+ Allow you to apply different styles based on the screen size of the user&amp;rsquo;s device (viewport)
+ Media Queries ask questions such as: Is the width of the viewport greater than or equal to 768px?
+ Media queries don’t affect the HTML (the actual content and structure of the underlying page) — they only affect the styles that are applied to the page using CSS</description>
+    </item>
+    
+    <item>
+      <title>Breakpoints</title>
+      <link>/15-responsive-design/media-queries/breakpoints/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/15-responsive-design/media-queries/breakpoints/</guid>
+      <description>What are Breakpoints?  Term used to describe that specific widths (or points) where your CSS styles change as a result of a media queries   @media only screen and (min-width: 768px) { /* styles go here */ }  The example above, the styles inside the media query will go into effect at the point where the viewport width is greater than or equal to 768px
+Example of CSS stylesheet with media queries  /* styles outside of the media queries are considered default styles */ .</description>
+    </item>
+    
+    <item>
+      <title>Recommended Breakpoints</title>
+      <link>/15-responsive-design/media-queries/recommended-breakpoints/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/15-responsive-design/media-queries/recommended-breakpoints/</guid>
+      <description>If you are starting a responsive design project from scratch This approach assumes you are starting a responsive design project from scratch and you will use progressive enhancement (also referred to a &amp;ldquo;mobile first&amp;rdquo;) approach
+/* main.css */ /* Extra small devices (portrait phones, less than 576px) No media query since styles outside of the media queries below will apply to everything &#39;up to 576px&#39; or everything below 576px */ p { } .</description>
+    </item>
+    
+  </channel>
+</rss>
