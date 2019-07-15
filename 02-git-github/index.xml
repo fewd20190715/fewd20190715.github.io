@@ -7,26 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 22 Jan 2017 18:05:18 -0500</lastBuildDate>
-    
+
 	<atom:link href="/02-git-github/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+
+
     <item>
       <title>Objectives</title>
       <link>/02-git-github/objectives/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
+
       <guid>/02-git-github/objectives/</guid>
       <description> Achieve high-level understanding of git and why developers use it
  Introduce students to a git workflow that will be used to submit (and recieve feeback on) assignments
   </description>
     </item>
-    
+
     <item>
       <title>Agenda</title>
       <link>/02-git-github/agenda/</link>
       <pubDate>Sun, 22 Jan 2017 18:05:18 -0500</pubDate>
-      
+
       <guid>/02-git-github/agenda/</guid>
       <description> Tools Overview &amp;amp; Folder Organization
  Git Overview
@@ -34,12 +34,12 @@
  Exercise: Working with Github
   </description>
     </item>
-    
+
     <item>
       <title>Git Overview</title>
       <link>/02-git-github/git-overview/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
+
       <guid>/02-git-github/git-overview/</guid>
       <description>What is Git?  Version control for Programmers
  Like Microsoft Word &amp;ldquo;Track Changes&amp;rdquo; feature with superpowers
@@ -49,34 +49,34 @@
  Built on top of git
  Home to +90% of all open source projects</description>
     </item>
-    
+
     <item>
       <title>Code Along: Working with Github</title>
       <link>/02-git-github/code-along-working-with-github/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
+
       <guid>/02-git-github/code-along-working-with-github/</guid>
       <description>During this exercise, we will be walking through the process of working with Git and Github.
 The steps for submitting your assignments using Git &amp;amp; Github are detailed here
 Steps  1) Fork this US states repository located on Github.com
  2) Clone the Repository using Github Desktop
  3) Save the local copy of the repository in your FEWD/github folder
- 4) Open the project in Atom and fix the spelling errors found in index.</description>
+ 4) Open the project in Visual Studio Codeand fix the spelling errors found in index.</description>
     </item>
-    
+
     <item>
       <title>Exercise: Working with Github</title>
       <link>/02-git-github/exercise-github-workflow/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
+
       <guid>/02-git-github/exercise-github-workflow/</guid>
       <description>Work together in pairs and follow the directions below.
 Use this Guide as reference
 Steps  1) Fork this repository located on Github.com
  2) Clone the Repository using Github Desktop
  3) Save the local copy of the repository in your FEWD/github folder
- 4) Open the project in Atom and and add the lyrics to Barney&amp;rsquo;s (you know the purple dinosaur) hit song &amp;ldquo;I Love You&amp;rdquo;. Save your work.</description>
+ 4) Open the project in Visual Studio Codeand and add the lyrics to Barney&amp;rsquo;s (you know the purple dinosaur) hit song &amp;ldquo;I Love You&amp;rdquo;. Save your work.</description>
     </item>
-    
+
   </channel>
 </rss>

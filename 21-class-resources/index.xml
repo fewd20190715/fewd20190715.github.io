@@ -7,25 +7,25 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 22 Jan 2017 18:05:18 -0500</lastBuildDate>
-    
+
 	<atom:link href="/21-class-resources/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+
+
     <item>
       <title>Github HW Submission Instructions</title>
       <link>/21-class-resources/homework-submission-github-workflow/</link>
       <pubDate>Sun, 22 Jan 2017 18:05:18 -0500</pubDate>
-      
+
       <guid>/21-class-resources/homework-submission-github-workflow/</guid>
       <description>Before you start Step 1: Ensure you have a github folder Ensure that you have a folder named gitHub in the FEWD folder . You will be using this folder to manage all of your work that lives in Github through the course. This folder only needs to be created once.
 Step 2: Log into to your Github account Ensure you are logged into your GitHub account on Github.com</description>
     </item>
-    
+
     <item>
       <title>Documentation</title>
       <link>/21-class-resources/documentation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
+
       <guid>/21-class-resources/documentation/</guid>
       <description>Referencing documentation is a core task for developers.
  Documentation communicates how something (in our case programming languages, software libraries) works.
@@ -36,47 +36,47 @@ CSS MDN&amp;rsquo;s CSS Reference
 Javascript MDN&amp;rsquo;s Javascript Reference
 jQuery jQuery Documentation</description>
     </item>
-    
+
     <item>
       <title>Keyboard Shortcuts</title>
       <link>/21-class-resources/keyboard-shortcuts/</link>
       <pubDate>Sun, 22 Jan 2017 18:05:18 -0500</pubDate>
-      
+
       <guid>/21-class-resources/keyboard-shortcuts/</guid>
-      <description>General Window Management &amp;amp; Browser Shortcuts    Action Mac Windows     Open Chrome Developer Tools cmd+option + i F2 or ctrl + shift + i   Refresh page cmd + R ctrl + R   Switch between applications cmd + tab alt + tab   Switch between windows in the same application cmd + ~     Atom Shortcuts Files, Windows, Tabs Management    Command macOS Windows Linux Description     Open Settings Menu cmd+, ctrl+, ctrl+, Opens the Atom&amp;rsquo;s settings menu   Open File (Fuzzy) cmd+p or cmd+t ctrl+p or ctrl+t ctrl+p or ctrl+t Opens the Fuzzy Finder   Browse Open Files cmd+b ctrl+b ctrl+b Browse tabs within the window   Previous Tab alt+cmd+left ctrl+pageup ctrl+pageup Cycles left through open tabs (in the active pane)   Next Tab alt+cmd+right ctrl+pagedown ctrl+pagedown Cycles right through open tabs (in the active page)   Toggle Tree View cmd+\ ctrl+\ ctrl+\ Toggles Atom&amp;rsquo;s file Tree View   Show Available Snippets alt+shift+s alt+shift+s alt+shift+s Shows the snippets available to Atom   Save cmd+s ctrl+s ctrl+s Saves the currently active file   Save As shift+cmd+s ctrl+shift+s ctrl+shift+s Saves the currently active file under a different name   Save All alt+cmd+s   Saves all changed files   Close Tab cmd+w ctrl+w ctrl+w Closes the currently active tab   Close Window shift+cmd+w ctrl+shift+w ctrl+shift+w Closes the currently active editor window   Split Window cmd+k up/down/left/right ctrl+k up/down/left/right ctrl+k up/down/left/right Split the currently active tab in one of the four directions   Focus Pane cmd+k cmd+up/down/left/right ctrl+k ctrl+up/down/left/right ctrl+k ctrl+up/down/left/right Move the focus to the pane in one of the four directions   Toggle full screen ctrl+cmd+f F11 F11 Toggle full screen window    Editing    Command macOS Windows Linux Description     Duplicate Lines shift+cmd+d ctrl+shift+d ctrl+shift+d Duplicates the line of the current cursor position and creates a new line under it with the same contents   Delete Line ctrl+shift+k ctrl+shift+k ctrl+shift+k Deletes the current line   Move Line Up ctrl+cmd+up ctrl+up ctrl+up Moves the contents of the current cursor position up one line.</description>
+      <description>General Window Management &amp;amp; Browser Shortcuts    Action Mac Windows     Open Chrome Developer Tools cmd+option + i F2 or ctrl + shift + i   Refresh page cmd + R ctrl + R   Switch between applications cmd + tab alt + tab   Switch between windows in the same application cmd + ~     Visual Studio CodeShortcuts Files, Windows, Tabs Management    Command macOS Windows Linux Description     Open Settings Menu cmd+, ctrl+, ctrl+, Opens the Atom&amp;rsquo;s settings menu   Open File (Fuzzy) cmd+p or cmd+t ctrl+p or ctrl+t ctrl+p or ctrl+t Opens the Fuzzy Finder   Browse Open Files cmd+b ctrl+b ctrl+b Browse tabs within the window   Previous Tab alt+cmd+left ctrl+pageup ctrl+pageup Cycles left through open tabs (in the active pane)   Next Tab alt+cmd+right ctrl+pagedown ctrl+pagedown Cycles right through open tabs (in the active page)   Toggle Tree View cmd+\ ctrl+\ ctrl+\ Toggles Atom&amp;rsquo;s file Tree View   Show Available Snippets alt+shift+s alt+shift+s alt+shift+s Shows the snippets available to Visual Studio Code  Save cmd+s ctrl+s ctrl+s Saves the currently active file   Save As shift+cmd+s ctrl+shift+s ctrl+shift+s Saves the currently active file under a different name   Save All alt+cmd+s   Saves all changed files   Close Tab cmd+w ctrl+w ctrl+w Closes the currently active tab   Close Window shift+cmd+w ctrl+shift+w ctrl+shift+w Closes the currently active editor window   Split Window cmd+k up/down/left/right ctrl+k up/down/left/right ctrl+k up/down/left/right Split the currently active tab in one of the four directions   Focus Pane cmd+k cmd+up/down/left/right ctrl+k ctrl+up/down/left/right ctrl+k ctrl+up/down/left/right Move the focus to the pane in one of the four directions   Toggle full screen ctrl+cmd+f F11 F11 Toggle full screen window    Editing    Command macOS Windows Linux Description     Duplicate Lines shift+cmd+d ctrl+shift+d ctrl+shift+d Duplicates the line of the current cursor position and creates a new line under it with the same contents   Delete Line ctrl+shift+k ctrl+shift+k ctrl+shift+k Deletes the current line   Move Line Up ctrl+cmd+up ctrl+up ctrl+up Moves the contents of the current cursor position up one line.</description>
     </item>
-    
+
     <item>
-      <title>Recommended Atom Editor Settings</title>
+      <title>Recommended Visual Studio CodeEditor Settings</title>
       <link>/21-class-resources/atom-editor-settings/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
+
       <guid>/21-class-resources/atom-editor-settings/</guid>
       <description>All of the settings below can be accessed using the following steps:
- Mac: cmd + , -&amp;gt; Editor PC: ctrl + , -&amp;gt; Editor  Setting indentation levels / default tab-size During our course we will be using a set indentation level of 2 spaces (1 indentation level = 2 spaces). Atom makes it easy conform to this approach by setting our tab to a set level of indentation.</description>
+ Mac: cmd + , -&amp;gt; Editor PC: ctrl + , -&amp;gt; Editor  Setting indentation levels / default tab-size During our course we will be using a set indentation level of 2 spaces (1 indentation level = 2 spaces). Visual Studio Codemakes it easy conform to this approach by setting our tab to a set level of indentation.</description>
     </item>
-    
+
     <item>
-      <title>Working with Atom Themes</title>
+      <title>Working with Visual Studio CodeThemes</title>
       <link>/21-class-resources/atom-themes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
+
       <guid>/21-class-resources/atom-themes/</guid>
-      <description>Changing Themes Atom allows you to easily switch between your installed themes by doing the following:
- Opening Atom Settings (mac: cmd + , | pc: ctrl + ,) Select Themes in the left-hand menu Select the dropdown menu labeled Syntax Themes Choose one of the installed themes listed in the dropdown menu  Atom comes pre-installed with a set of themes. See that section below to add new themes to Atom</description>
+      <description>Changing Themes Visual Studio Codeallows you to easily switch between your installed themes by doing the following:
+ Opening Visual Studio CodeSettings (mac: cmd + , | pc: ctrl + ,) Select Themes in the left-hand menu Select the dropdown menu labeled Syntax Themes Choose one of the installed themes listed in the dropdown menu  Visual Studio Codecomes pre-installed with a set of themes. See that section below to add new themes to Atom</description>
     </item>
-    
+
     <item>
       <title>Wireframes to HTML</title>
       <link>/21-class-resources/wireframes-to-html/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
+
       <guid>/21-class-resources/wireframes-to-html/</guid>
       <description>Why Wireframes? Wireframes are meant to help you plan the overall structure (layout of your pages)
 See this article for a good overview of wireframes: https://balsamiq.com/learn/resources/articles/what-are-wireframes/
 What happens after the wireframes? The next step after creating your wireframes is to convert the wireframes into HTML (using minimal css to create high level box containers).
 After that is done, you can then proceed to add your content and CSS styling.</description>
     </item>
-    
+
   </channel>
 </rss>
