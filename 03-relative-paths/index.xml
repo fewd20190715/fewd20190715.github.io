@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Relative Paths on FEWD</title>
+    <link>/03-relative-paths/</link>
+    <description>Recent content in Relative Paths on FEWD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 22 Jan 2017 18:04:24 -0500</lastBuildDate>
+    
+	<atom:link href="/03-relative-paths/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Objectives</title>
+      <link>/03-relative-paths/objectives/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/03-relative-paths/objectives/</guid>
+      <description> Learn about Relative Paths and why they are important  </description>
+    </item>
+    
+    <item>
+      <title>Agenda</title>
+      <link>/03-relative-paths/agenda/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/03-relative-paths/agenda/</guid>
+      <description> Discuss Relative Paths
+ Complete Relative Paths exercise
+  </description>
+    </item>
+    
+    <item>
+      <title>Overview</title>
+      <link>/03-relative-paths/overview/</link>
+      <pubDate>Sun, 22 Jan 2017 18:08:00 -0500</pubDate>
+      
+      <guid>/03-relative-paths/overview/</guid>
+      <description> Relative Paths  Relative URLs can be used when linking to pages and files within your own website.
+ Shorthand way of telling the browser where to find your files.
+ Inform students that they have already seen this is use with the link tag when referencing a css file
+  </description>
+    </item>
+    
+    <item>
+      <title>Example</title>
+      <link>/03-relative-paths/example/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/03-relative-paths/example/</guid>
+      <description>Example Project with Multiple Folders/Files Navigating within the Same Folder Linking from music index page to the music reviews page
+&amp;lt;a href=&amp;quot;reviews.html&amp;quot;&amp;gt; Music Reviews &amp;lt;/a&amp;gt;  Navigating to a file in a Child Folder Linking from the homepage (top-level index.html) to the music listings page
+&amp;lt;a href=&amp;quot;music/listings.html&amp;quot;&amp;gt; Music Listings &amp;lt;/a&amp;gt;  Navigating to a file in a Grandchild Folder Linking from the homepage (top-level index.html) to the dvd reviews page</description>
+    </item>
+    
+    <item>
+      <title>Code Along - Relative Paths</title>
+      <link>/03-relative-paths/code-along-relative-paths/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/03-relative-paths/code-along-relative-paths/</guid>
+      <description>Code Along: Relative Paths  Using Atom, open the folder called relative_paths_exercise in your lesson_03_files folder. You will be using these files as starting off point.  Instructions  1) Add a link from the Homepage to the About page
+ 2) Add a link from the About page to the Homepage
+ 3) Add links from Homepage to index.html pages of the following sections:
+ Mammals Birds Reptiles  4) Add links from the Homepage to the index.</description>
+    </item>
+    
+  </channel>
+</rss>
