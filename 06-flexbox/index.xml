@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Flexbox on FEWD</title>
+    <link>http://example.org/06-flexbox/</link>
+    <description>Recent content in Flexbox on FEWD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 22 Jan 2017 18:04:24 -0500</lastBuildDate>
+    
+	<atom:link href="http://example.org/06-flexbox/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Objectives</title>
+      <link>http://example.org/06-flexbox/objectives/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>http://example.org/06-flexbox/objectives/</guid>
+      <description> Introduce flexbox
+ Understand the differences between flexbox and floats
+  </description>
+    </item>
+    
+    <item>
+      <title>Agenda</title>
+      <link>http://example.org/06-flexbox/agenda/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>http://example.org/06-flexbox/agenda/</guid>
+      <description> Lab: Relaxr Blog
+ Flexbox Overview
+ Flexbox Terminology
+ Flex Containter Properties
+ Flex Item Properties
+ Exercise
+ Lab
+  </description>
+    </item>
+    
+    <item>
+      <title>Lab: Relaxr Blog</title>
+      <link>http://example.org/06-flexbox/lab-relaxr/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>http://example.org/06-flexbox/lab-relaxr/</guid>
+      <description> Lab: Relaxr Blog  Work in teams (2 to 3 students) to recreate the html page depicted in the image below.
+ The files for this lab can be found in the following folder: starter_code/relaxr_blog
+  </description>
+    </item>
+    
+    <item>
+      <title>Flexbox Overview</title>
+      <link>http://example.org/06-flexbox/flexbox-overview/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>http://example.org/06-flexbox/flexbox-overview/</guid>
+      <description>What is Flexbox?  New layout mode introduced with CSS3
+ Allows developers to create flexible layouts without having to rely on floats or inline-block elements
+ Is direction-agnostic as opposed to the regular layouts (block which is vertically-based and inline which is horizontally-based)
+ Widely supported across all modern browsers
+  See the full list of layout modes here
+ What problems does Flexbox solve?  Vertically centering a block of content inside its parent</description>
+    </item>
+    
+    <item>
+      <title>Flexbox Terminology</title>
+      <link>http://example.org/06-flexbox/flexbox-terminology/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>http://example.org/06-flexbox/flexbox-terminology/</guid>
+      <description>Flexbox Terminology Flex Container  The parent element in which flex items are contained
+ Defined using the flex or inline-flex values of the display property
+ flex: will make the flex-container a block-level element
+ inline-flex: will make the flex-container an inline element
+   Flex Item  Children of a flex container  Main Axis  The axis along which the flex items follow each other</description>
+    </item>
+    
+    <item>
+      <title>Flex Container Properties</title>
+      <link>http://example.org/06-flexbox/flex-container-properties/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>http://example.org/06-flexbox/flex-container-properties/</guid>
+      <description>The upcoming (and awesome) gifs were graciously borrowed from this insightful blog post that covers flexbox
+ display  Defines a flex container
+ inline or block depending on the given value
+  .container { display: flex; /* or inline-flex */ }  flex direction  Establishes the main-axis and defines the direction flex items are placed in the flex container
+ Determines whether the flex items are layed out as either horizontal rows or vertical columns</description>
+    </item>
+    
+    <item>
+      <title>Flex Items Properties</title>
+      <link>http://example.org/06-flexbox/flex-items-properties/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>http://example.org/06-flexbox/flex-items-properties/</guid>
+      <description>align-self  allows the default alignment (or the one specified by align-items) to be overridden for individual flex items.   .item { align-self: auto | flex-start | flex-end | center | baseline | stretch; }  Order  controls the order in which flex-items appear in the flex container   .item { order: &amp;lt;integer&amp;gt;; }  flex-grow  defines the ability for a flex item to grow if necessary</description>
+    </item>
+    
+    <item>
+      <title>Exercise</title>
+      <link>http://example.org/06-flexbox/exercise/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>http://example.org/06-flexbox/exercise/</guid>
+      <description> Exercise: Flexbox Froggy During this exercise, you&amp;rsquo;ll go through an interactive tutorial focused on learning flexbox
+ Each student complete this tutorial
+ Timebox: 20 mins
+  </description>
+    </item>
+    
+    <item>
+      <title>Flexbox with Floats</title>
+      <link>http://example.org/06-flexbox/flexbox-with-floats/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>http://example.org/06-flexbox/flexbox-with-floats/</guid>
+      <description>Using Flexbox with Floats  Flexbox are often used together to create page structures
+ Floats can be used for the layouts with flexbox being used to vertically or horizontally align elements inside of a container
+ Flex containers can be floated
+ Flex-items cannot be floated, however content inside of a flex-item can be floated
+  JS Bin on jsbin.com</description>
+    </item>
+    
+    <item>
+      <title>Code Along</title>
+      <link>http://example.org/06-flexbox/code-along/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>http://example.org/06-flexbox/code-along/</guid>
+      <description> Code Along: Marketing Page Layout using Flexbox &amp;amp; Floats  Using Sublime, open the folder called layout_challenge (found within the starter_code) folder
+ As a class, we&amp;rsquo;ll use flexbox and floats to create a marketing layout with nav (depicted in the image)
+  </description>
+    </item>
+    
+    <item>
+      <title>Lab</title>
+      <link>http://example.org/06-flexbox/lab/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>http://example.org/06-flexbox/lab/</guid>
+      <description> Lab: Magazine Layout using Flexbox &amp;amp; Floats  Work individually or in teams to recreate the magazine layout depicted in layouts_challenge/layouts.pdf file (found within the starter_code) in html  </description>
+    </item>
+    
+  </channel>
+</rss>
