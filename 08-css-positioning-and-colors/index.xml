@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CSS Positioning, Colors, Background Images on FEWD</title>
+    <link>/08-css-positioning-and-colors/</link>
+    <description>Recent content in CSS Positioning, Colors, Background Images on FEWD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/08-css-positioning-and-colors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Agenda</title>
+      <link>/08-css-positioning-and-colors/agenda/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/08-css-positioning-and-colors/agenda/</guid>
+      <description> CSS Colors
+ CSS Positioning
+ Background Images
+ Lab: Fashion Blog - Pt 2
+  </description>
+    </item>
+    
+    <item>
+      <title>Lab - Fashion Blog II</title>
+      <link>/08-css-positioning-and-colors/lab-fashion-blog-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/08-css-positioning-and-colors/lab-fashion-blog-2/</guid>
+      <description>Lab: Fashion Blog II  Using Atom, open the folder called fashion_blog_part_II in your lesson_08_files folder. You will be using these files as starting off point.
+ Work in teams to update the layout for the fashion blog site, the end result of your update should closely resemble the image below:
+ We have provided you with a finished version of Fashion Blog part I, please use these files for the lab</description>
+    </item>
+    
+  </channel>
+</rss>
