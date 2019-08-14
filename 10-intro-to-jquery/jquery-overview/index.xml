@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>jQuery Overview on FEWD</title>
+    <link>/10-intro-to-jquery/jquery-overview/</link>
+    <description>Recent content in jQuery Overview on FEWD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/10-intro-to-jquery/jquery-overview/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>What is jQuery?</title>
+      <link>/10-intro-to-jquery/jquery-overview/what-is-jquery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/10-intro-to-jquery/jquery-overview/what-is-jquery/</guid>
+      <description>What is jQuery?  A Javascript library that makes it easy to dynamically update your pages (i.e. perform DOM manipulation)
+ Offers a simple way to achieve a variety of common Javascript tasks
+ Consistent across all browsers
+ Does not do anything native / vanilla Javascript cannot do, just does it with a more intuitive syntax
+  It&amp;rsquo;s important to note that jQuery is NOT another programming language it is a library or tool built on top of Javascript</description>
+    </item>
+    
+    <item>
+      <title>Benefits of jQuery</title>
+      <link>/10-intro-to-jquery/jquery-overview/benefits-of-jquery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/10-intro-to-jquery/jquery-overview/benefits-of-jquery/</guid>
+      <description>Benefits of jQuery?  Uses CSS selectors to help us grab or select elements programmatically (i.e. in our code)
+ Accomplishes more with less code vs using native Javascript
+  CSS selectors means less code Here&amp;rsquo;s how we would programmatically select an element with an id of &amp;ldquo;flavors&amp;rdquo; using native Javascript
+// selecting an element using native Javascript document.getElementById(&#39;flavors&#39;).onClick = doSomething();  Here&amp;rsquo;s how we would programmatically select an element with an id of &amp;ldquo;flavors&amp;rdquo; using jQuery</description>
+    </item>
+    
+    <item>
+      <title>Adding jQuery to your projects</title>
+      <link>/10-intro-to-jquery/jquery-overview/adding-jquery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/10-intro-to-jquery/jquery-overview/adding-jquery/</guid>
+      <description>There are two ways to add jQuery to your projects  Download the jQuery library file and store it within your project
+ Use a CDN (content delivery network) and reference the jQuery library file remotely
+  Option #1 - Download jQuery file(s) This approach assumes you downloaded the jQuery file and stored it on your js folder
+&amp;lt;html&amp;gt; &amp;lt;head&amp;gt; &amp;lt;title&amp;gt;Add jQuery by downloading jQuery file(s)&amp;lt;/title&amp;gt; &amp;lt;/head&amp;gt; &amp;lt;body&amp;gt; &amp;lt;script src=&amp;quot;js/jquery-3.</description>
+    </item>
+    
+    <item>
+      <title>jQuery syntax using $() function</title>
+      <link>/10-intro-to-jquery/jquery-overview/jquery-syntax/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/10-intro-to-jquery/jquery-overview/jquery-syntax/</guid>
+      <description>$() function  jQuery uses a built-in function called jQuery() to allow developers to programmatically select elements on a html page
+ $() is shorthand for jQuery()
+ This shorthand syntax is used almost exclusively (because results in less typing) and that is what we will be using throughout the course   // programmatically &amp;quot;select&amp;quot; all p tags on the page using jQuery() syntax jQuery(&#39;p&#39;) // programmatically &amp;quot;select&amp;quot; all p tags on the page using the $() shorthand syntax; most widely used approach $(&#39;p&#39;)  Example</description>
+    </item>
+    
+    <item>
+      <title>Document Ready Function</title>
+      <link>/10-intro-to-jquery/jquery-overview/document-ready/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/10-intro-to-jquery/jquery-overview/document-ready/</guid>
+      <description>Document Ready Function  jQuery (and native Javascript) must wait for a page to be loaded before it can try to dynamically update a page (i.e. Manipulate the page&amp;rsquo;s DOM)  We can also avoid this issue by adding the &amp;lt;script&amp;gt; tag (the tag we used to link our .js files to our .html files) at the bottom of your html pages right before the closing &amp;lt;\body&amp;gt; tag
+  jQuery provides a &amp;ldquo;document ready&amp;rdquo; function that will run once the DOM is fully loaded</description>
+    </item>
+    
+  </channel>
+</rss>

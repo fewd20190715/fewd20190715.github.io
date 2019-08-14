@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Functions on FEWD</title>
+    <link>http://example.org/10-functions/</link>
+    <description>Recent content in Functions on FEWD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 22 Jan 2017 18:04:24 -0500</lastBuildDate>
+    
+	<atom:link href="http://example.org/10-functions/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Objectives</title>
+      <link>http://example.org/10-functions/objectives/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>http://example.org/10-functions/objectives/</guid>
+      <description> Understand functions and why they are used
+ Understand how functions can be used to promote code reuse within your application
+ Introduce Anonymous functions and understand how they are different than named functions
+  </description>
+    </item>
+    
+    <item>
+      <title>Agenda</title>
+      <link>http://example.org/10-functions/agenda/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>http://example.org/10-functions/agenda/</guid>
+      <description> Last Class Review
+ Discuss Functions
+ Code Along: Geometry Formulas using Functions
+ Code Along: HiLo
+ Lab: Complete HiLo
+  </description>
+    </item>
+    
+    <item>
+      <title>Last Class Review</title>
+      <link>http://example.org/10-functions/last-class-review/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>http://example.org/10-functions/last-class-review/</guid>
+      <description>Variables  declaring variables using var keyword
+ assigning / reassigning variables
+  // declaring a variable var firstName; // assigning a value to the variable firstName = &amp;quot;Cletus&amp;quot;;  // declare and assign an intial value to a variable var score = 0;  // declare and assign a value of 0 to the score variable var score = 0; // changing the value of the score variable from 0 to 3 score = 3;  Data types  Strings</description>
+    </item>
+    
+    <item>
+      <title>Function Overview</title>
+      <link>http://example.org/10-functions/function-overview/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>http://example.org/10-functions/function-overview/</guid>
+      <description> What are Functions?  Allows you to group a series of statements together to perform a specific task
+ Functions are used to promote “code reuse”
+ You can control when functions are executed, for example - you can write functions that only get executed (or called) when a user clicks a specific button
+  // a simple function that greets you with a &#39;Good Morning&#39; alert // 1) Declare a function named greeting function greeting(){ alert(&#39;Good Morning&#39;); }; // 2) Call (or run) the function greeting();  </description>
+    </item>
+    
+    <item>
+      <title>Declaring Functions</title>
+      <link>http://example.org/10-functions/declaring-functions/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>http://example.org/10-functions/declaring-functions/</guid>
+      <description>Declaring a Function  Use the function keyword to declare a function
+ Functions can be given a name
+ The name must be followed by parentheses
+ The opening and closing curly braces indicate a “code block”
+ The statements for your function goes within the code block
+ Simply declaring the function will not run this code, this function must be “called” in order for the code inside the function to be run</description>
+    </item>
+    
+    <item>
+      <title>Calling Functions</title>
+      <link>http://example.org/10-functions/calling-functions/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>http://example.org/10-functions/calling-functions/</guid>
+      <description> Calling a Function  To run the code inside of a function you use the function name followed by parentheses (don’t forget the parentheses!)
+ Now you can call this function as many times as you want
+  </description>
+    </item>
+    
+    <item>
+      <title>Returning Values from Functions</title>
+      <link>http://example.org/10-functions/returning-values-from-functions/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>http://example.org/10-functions/returning-values-from-functions/</guid>
+      <description>Many times you will write a function and expect a value to be returned - this is called a return value
+ to have your function return a value you must use the return keyword in the last line of the body of your function
+ You can store the returned value in a variable and use it for later
+  // declare a function called bark // that *returns* a string respreseting &#39;woof woof&#39; function bark() { return &#39;woof woof!</description>
+    </item>
+    
+    <item>
+      <title>Working with Parameters</title>
+      <link>http://example.org/10-functions/working-with-parameters/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>http://example.org/10-functions/working-with-parameters/</guid>
+      <description>Declaring Functions that need information  Some functions need additional information in order to perform a specific task
+ This additional information is referred to as “parameters”
+ To provide parameters to a function, you specify them inside the parentheses after the parameter name
+ The parameters are used like variables within the function body
+ We use the “return” keyword when we want to retrieve a value from our function, in the case of the example we want to retrieve the result of the multiplying the width times the height</description>
+    </item>
+    
+    <item>
+      <title>Functions Calling Other Functions</title>
+      <link>http://example.org/10-functions/functions-calling-other-functions/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>http://example.org/10-functions/functions-calling-other-functions/</guid>
+      <description>Functions can call other functions  Function reusability is key results in cleaner code
+ Reusing functions leverages key programming principle - Don&amp;rsquo;t Repeat Yourself
+ In the example of below, the surfaceAreaOfCube function calls another function (areaOfSquare) instead of duplicating work that was already done
+  // Function that calculates area of a square function areaOfSquare(side){ return side * side; }; areaOfSquare(3); // returns 9 // This is a function that calculates the // surface area of a cube that *reuses* the areaOfSquare function function surfaceAreaOfCube(side){ return 6 * areaOfSquare(side); }; surfaceAreaOfCube(7); // returns 42  JS Bin on jsbin.</description>
+    </item>
+    
+    <item>
+      <title>Code Along #1</title>
+      <link>http://example.org/10-functions/code-along-1/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>http://example.org/10-functions/code-along-1/</guid>
+      <description> Code Along #1: Geometry Calculator  Using Sublime, open the folder called geometry_formulas_with_functions (found within the starter_code) folder
+ During this exercise, we&amp;rsquo;ll be doing the following:
+ We&amp;rsquo;ll use javascript to implement an app that calculates geometry functions   </description>
+    </item>
+    
+    <item>
+      <title>Single Responsibility Principle</title>
+      <link>http://example.org/10-functions/single-responsibility-principle/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>http://example.org/10-functions/single-responsibility-principle/</guid>
+      <description>Single Responsibility Principle (SRP)  SRP is a programming best practice that advocates modular code
+ Put another way, your programs should be broken up in such a way where each part is responsible for only one &amp;ldquo;thing&amp;rdquo; or domain
+ SRP is often applied to functions
+  Applying SRP to Functions  This concepts calls for your functions to only be &amp;ldquo;responsible&amp;rdquo; for one thing
+ Often you&amp;rsquo;ll find that the logic in your functions are doing too much (for example: making calculations AND displaying the result to the screen)</description>
+    </item>
+    
+    <item>
+      <title>Code Along #2</title>
+      <link>http://example.org/10-functions/code-along-2/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>http://example.org/10-functions/code-along-2/</guid>
+      <description> Code Along #2: HiLo  Using Sublime, open the folder called hilo (found within the starter_code) folder
+ During this exercise, we&amp;rsquo;ll be doing the following:
+ We&amp;rsquo;ll use javascript to implement a guessing game   </description>
+    </item>
+    
+    <item>
+      <title>Lab</title>
+      <link>http://example.org/10-functions/lab/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>http://example.org/10-functions/lab/</guid>
+      <description>Lab: Complete HiLo  Form groups and work together to complete the HiLo application
+ Instructions: Add the following functionality
+ The secret number should be randomly generated
+ Players should be limited to only 5 guesses
+ If the player reaches 5 guesses without guessing the correct number then an error message with appear
+ The game should reset after 5 guesses has been reached or after the secret number has been correctly guessed</description>
+    </item>
+    
+  </channel>
+</rss>
