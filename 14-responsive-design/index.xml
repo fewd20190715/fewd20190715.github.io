@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Responsive Design on FEWD</title>
+    <link>http://example.org/14-responsive-design/</link>
+    <description>Recent content in Responsive Design on FEWD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 22 Jan 2017 18:04:24 -0500</lastBuildDate>
+    
+	<atom:link href="http://example.org/14-responsive-design/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Objectives</title>
+      <link>http://example.org/14-responsive-design/objectives/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>http://example.org/14-responsive-design/objectives/</guid>
+      <description> Understand difference between fixed-width design and responsive design
+ Learn about to Media Queries &amp;amp; Breakpoints and why they are important
+ Learn about relative units of measure such as %s, EMs &amp;amp; REMs
+ Discuss the concept of progressive enhancement
+  </description>
+    </item>
+    
+    <item>
+      <title>Agenda</title>
+      <link>http://example.org/14-responsive-design/agenda/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>http://example.org/14-responsive-design/agenda/</guid>
+      <description> Fixed Width and Mobile Layouts
+ Responsive Design Overview
+ Viewport Meta Tag
+ Media Queries and Breakpoints
+ Grids
+ Code Along
+ Ems / Rems
+ Lab
+  </description>
+    </item>
+    
+    <item>
+      <title>Fixed Width Layout</title>
+      <link>http://example.org/14-responsive-design/fixed-width-layouts/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>http://example.org/14-responsive-design/fixed-width-layouts/</guid>
+      <description>Fixed Width Layouts  Method of designing websites so they look the same on any sized monitor
+ Pre-dates advent of smartphones and mobile web-browsing
+ Not optimized for smaller screens
+ Uses pixels to set width of the layout
+ Still fairly common
+  Examples of Fixed Width Design  www.ikea.com
+ www.ups.com
+  Disadvantages of Fixed Width Design  Displayed the same way regardless of screen size</description>
+    </item>
+    
+    <item>
+      <title>Mobile Websites</title>
+      <link>http://example.org/14-responsive-design/mobile-websites/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>http://example.org/14-responsive-design/mobile-websites/</guid>
+      <description>What are Mobile Websites?  Initial response to the new screen sizes
+ Involves creating a &amp;ldquo;mobile&amp;rdquo; version of your site for a specific device (i.e. iphone, iPad, etc)
+ Used a different url such as http://m.sprint.com (m-dot websites)
+  In 2007 iPhone, which came out in 2007, was a game changer. The iPhone’s screen, on the other hand, was only 320 pixels wide. Apple’s solution was to automatically shrink web pages to fit inside the viewing area of the screen (the viewport)</description>
+    </item>
+    
+    <item>
+      <title>Responsive Design Overview</title>
+      <link>http://example.org/14-responsive-design/responsive-design-overview/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>http://example.org/14-responsive-design/responsive-design-overview/</guid>
+      <description>What is Responsive Design?  A way of making websites that can be easily viewed and used on any type of device and size of screen  Advantages of Responsive Design  Developers only have to create one website, one design, one set of code, and one set of content
+ Better optimized for search (SEO), no longer need to use m-dot websites
+  Examples of Responsive Design  www.</description>
+    </item>
+    
+    <item>
+      <title>Viewport Meta Tag</title>
+      <link>http://example.org/14-responsive-design/viewport-meta-tag/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>http://example.org/14-responsive-design/viewport-meta-tag/</guid>
+      <description>What is the viewport?  Area on the computer or device screen where you are viewing a web page
+ Viewport width is not always the same thing as screen width
+ For example: A person&amp;rsquo;s labtop may have a maximum screen width of 1280px, but likes to resize their web browser to 800px (viewport width)  On mobile devices viewport width is the same as screen width because mobile devices don&amp;rsquo;t allow you to change the size of your browser</description>
+    </item>
+    
+    <item>
+      <title>Media Query Overview</title>
+      <link>http://example.org/14-responsive-design/media-query-overview/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>http://example.org/14-responsive-design/media-query-overview/</guid>
+      <description>What are the Media Queries?  Key element in responsive design
+ Allow you to apply different styles based on the screen size of the user&amp;rsquo;s device (viewport)
+ Media Queries ask questions - Is the width of the viewport greater than 240px?
+ Media queries don’t affect the HTML (the actual content and structure of the underlying page) — they only affect the styles that are applied to the page using CSS</description>
+    </item>
+    
+    <item>
+      <title>Media Query Parts</title>
+      <link>http://example.org/14-responsive-design/media-query-parts/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>http://example.org/14-responsive-design/media-query-parts/</guid>
+      <description>@media only screen and (min-width: 480px) { /** add styles here **/ }  @media  All media queries must start with @media  Media Type  Indicates what type of media the query will be using. Screen tells the browser the query will be used by a computer or mobile device
+ The only keyword indicates that this query will be only be for the screen media type and no other</description>
+    </item>
+    
+    <item>
+      <title>Breakpoints</title>
+      <link>http://example.org/14-responsive-design/breakpoints/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>http://example.org/14-responsive-design/breakpoints/</guid>
+      <description>What are Breakpoints?  The points where your css style will change as a result of your media queries   @media only screen and (min-width: 320px) { /* Styles */ } @media only screen and (min-width: 320px) and (orientation: landscape) { /* Styles */ } @media only screen and (min-width: 321px) and (max-width : 700px) { /* Styles */ } @media only screen and (min-width: 701px) { /* Styles */ }  Recommended &amp;ldquo;Starting&amp;rdquo; Breakpoints  320px 480px 600px 768px 900px 1200px  Breakpoints should be selected based on your specific design</description>
+    </item>
+    
+    <item>
+      <title>Progressive Enhancement</title>
+      <link>http://example.org/14-responsive-design/progressive-enhancement/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>http://example.org/14-responsive-design/progressive-enhancement/</guid>
+      <description> What is progressive enhancement?  Design for the most narrow screens first then work your way up to larger screens
+ Mobile-first approach to constructing web layouts
+ See this article for information on progressive enhancement
+  </description>
+    </item>
+    
+    <item>
+      <title>Grids</title>
+      <link>http://example.org/14-responsive-design/grid-overview/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>http://example.org/14-responsive-design/grid-overview/</guid>
+      <description>What are grids?  layout technique that allows for content to be stacked both vertically and horizontally in a consistent and easily manageable fashion
+ grid systems code is project-agnostic giving it a high degree of portability so that it may be adopted on new projects
+  The above example is a grid system called Grid 960
+Benefits of grids?  Increases productivity by providing simple and predictable layout scaffolding to HTML design</description>
+    </item>
+    
+    <item>
+      <title>Responsive Grid Example</title>
+      <link>http://example.org/14-responsive-design/responsive-grid-example/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>http://example.org/14-responsive-design/responsive-grid-example/</guid>
+      <description> Responsive Grid Example  Using Sublime, open the folder called responsive_grid_example (found within the starter_code) folder
+ We&amp;rsquo;ll review an example of a responsive grid
+  </description>
+    </item>
+    
+    <item>
+      <title>Code Along</title>
+      <link>http://example.org/14-responsive-design/code-along/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>http://example.org/14-responsive-design/code-along/</guid>
+      <description> Code Along: Responsive Three Column Layout  Using Sublime, open the folder called three_column_layout (found within the starter_code) folder
+ As a class, we&amp;rsquo;ll convert this layout to a responsive layout
+  </description>
+    </item>
+    
+    <item>
+      <title>EMS / REMS</title>
+      <link>http://example.org/14-responsive-design/ems-rems/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>http://example.org/14-responsive-design/ems-rems/</guid>
+      <description>What are EMs?  Scalable unit that is used in web document media
+ Font-size is computed relative to font-size of parent element
+ Does not lock users into an absolute font-size (older browsers do not re-size text set in pixels when users zoom)
+ Provides users with highlest level of control over the content they are viewing
+  History: Old-fashioned metal typesetting, the em referred to the size of the metal plates that contained a raised letter, which had to be wide enough to fit the widest letter, the capital M.</description>
+    </item>
+    
+    <item>
+      <title>Responsive Images</title>
+      <link>http://example.org/14-responsive-design/responsive-images/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>http://example.org/14-responsive-design/responsive-images/</guid>
+      <description> Tips for working with Images  Start with largest version of your image and use css styling to resize to desired size (more on this next class)
+ Use max-width: 100% to prevent images from extending wider than its container
+   // Apply to all images img { max-width: 100%; }  </description>
+    </item>
+    
+    <item>
+      <title>Rules of Thumb</title>
+      <link>http://example.org/14-responsive-design/rules-of-thumb/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>http://example.org/14-responsive-design/rules-of-thumb/</guid>
+      <description>All text should be expressed in EMs / REMs
+ Use percentages for Horizontal measurements
+ Consider using ems/rems for margins &amp;amp; padding if you want them to increase and decrease in proportion to the font-size
+ Consider using percentages for left and right margins and padding so they change in proportion to the width of the containing element
+ Use pixels (absolute measurement) for height/margins/paddings if you do not want those measurements to change relative to screen size</description>
+    </item>
+    
+    <item>
+      <title>Lab</title>
+      <link>http://example.org/14-responsive-design/lab/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>http://example.org/14-responsive-design/lab/</guid>
+      <description> Lab: Responsive Simple Marketing Layout  Using Sublime, open the folder called simple_marketing_layout (found within the starter_code) folder
+ As a class, we&amp;rsquo;ll convert this layout to a responsive layout
+  </description>
+    </item>
+    
+  </channel>
+</rss>

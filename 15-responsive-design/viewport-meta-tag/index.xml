@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Viewport Meta Tag on FEWD</title>
+    <link>/15-responsive-design/viewport-meta-tag/</link>
+    <description>Recent content in Viewport Meta Tag on FEWD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/15-responsive-design/viewport-meta-tag/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>What is the Viewport?</title>
+      <link>/15-responsive-design/viewport-meta-tag/what-is-viewport/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/15-responsive-design/viewport-meta-tag/what-is-viewport/</guid>
+      <description>What is the viewport?  Area on the computer or device screen where you are viewing a web page
+ Viewport width is not always the same thing as screen width
+ For example: Drogo has a laptop that has a maximum screen width of 1280px, but likes to resize his web browser to 800px (viewport width)  On mobile devices viewport width is the same as screen width because mobile devices don&amp;rsquo;t allow you to change the size of your browser</description>
+    </item>
+    
+    <item>
+      <title>Viewport Meta Tag</title>
+      <link>/15-responsive-design/viewport-meta-tag/viewport-meta-tag/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/15-responsive-design/viewport-meta-tag/viewport-meta-tag/</guid>
+      <description>Viewport Meta Tag Add the following to your  element
+ This enables use of media queries for cross-device layouts.  &amp;lt;meta name=&amp;quot;viewport&amp;quot; content=&amp;quot;width=device-width, initial-scale=1&amp;quot;&amp;gt;  More info on the viewport meta tag
+What happens if you don&amp;rsquo;t set the viewport?  The example above depicts a website being viewed on a legacy iPhone (320 pixels wide)
+ Because the viewport meta tag was not set the mobile browser will automatically assume you want to see the &amp;ldquo;entire&amp;rdquo; page on your smaller screen.</description>
+    </item>
+    
+  </channel>
+</rss>

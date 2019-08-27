@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Media Query Parts on FEWD</title>
+    <link>/15-responsive-design/media-queries/media-query-parts/</link>
+    <description>Recent content in Media Query Parts on FEWD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/15-responsive-design/media-queries/media-query-parts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>@media</title>
+      <link>/15-responsive-design/media-queries/media-query-parts/media/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/15-responsive-design/media-queries/media-query-parts/media/</guid>
+      <description>  @media only screen and (min-width: 576px) { /** add styles here **/ }  @media  All media queries must start with @media  </description>
+    </item>
+    
+    <item>
+      <title>Media Features</title>
+      <link>/15-responsive-design/media-queries/media-query-parts/media-features/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/15-responsive-design/media-queries/media-query-parts/media-features/</guid>
+      <description>@media only screen and (min-width: 576px) { /** add styles here **/ }  Media Feature/Attribute  Media features allows you to specify different viewport attributes and are always expressed in parentheses  @media only screen and (min-width: 768px) { body { /* styles go here */ } p { /* styles go here */ } .some-style { /* styles go here */ } }   The styles in the media query above will only be applied when the viewport width is greater than or equal to 768px  Available Media Query Attributes (Features) The following is a list of Media Features available</description>
+    </item>
+    
+    <item>
+      <title>Media Types</title>
+      <link>/15-responsive-design/media-queries/media-query-parts/media-types/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/15-responsive-design/media-queries/media-query-parts/media-types/</guid>
+      <description>@media only screen and (min-width: 576px) { /** add styles here **/ }  Media Types  Indicates what type of media the query will be using. Screen tells the browser the query will be used by a computer or mobile device
+ The only keyword indicates that this query will be only be for the screen media type and no other
+  While we will just be using the screen media type, you can see a list of all available media types here</description>
+    </item>
+    
+  </channel>
+</rss>

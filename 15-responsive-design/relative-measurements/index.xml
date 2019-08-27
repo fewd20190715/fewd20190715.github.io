@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Relative Measurements on FEWD</title>
+    <link>/15-responsive-design/relative-measurements/</link>
+    <description>Recent content in Relative Measurements on FEWD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/15-responsive-design/relative-measurements/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>EMS</title>
+      <link>/15-responsive-design/relative-measurements/ems/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/15-responsive-design/relative-measurements/ems/</guid>
+      <description>What are EMs?  Scalable unit that is used in web document media
+ Font-size is computed relative to font-size of parent element
+ Does not lock users into an absolute font-size (older browsers do not re-size text set in pixels when users zoom)
+ Provides users with highest level of control over the content they are viewing
+  History: Old-fashioned metal typesetting, the em referred to the size of the metal plates that contained a raised letter, which had to be wide enough to fit the widest letter, the capital M.</description>
+    </item>
+    
+    <item>
+      <title>REMs</title>
+      <link>/15-responsive-design/relative-measurements/rems/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/15-responsive-design/relative-measurements/rems/</guid>
+      <description>What are REMs?  Similar to EMs, key difference is how the relative measurement is calculated
+ Instead of sizing fonts relative to their parent containers, REM sizes fonts relative to the root view (i.e. )
+ This means a lot less math when attempting to calculate the real pixel value
+  Example: REMs in Action
+JS Bin on jsbin.com
+In the example above, the .green-box element has it&amp;rsquo;s font size set using REM (font-size: 1.</description>
+    </item>
+    
+    <item>
+      <title>Percentages</title>
+      <link>/15-responsive-design/relative-measurements/percentages/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/15-responsive-design/relative-measurements/percentages/</guid>
+      <description>Percentages  Percentages are a relative unit of measurement similar to EMs
+ When you size elements based on percentages the resulting size will be relative to that element&amp;rsquo;s parent
+ The default font-size in percentages is 100%
+ Can also be used instead of EMs
+  Example: Percentage in action
+JS Bin on jsbin.com
+In the example above you will see that the % measurements for the .</description>
+    </item>
+    
+    <item>
+      <title>Setting Up Font Size for Responsive Projects</title>
+      <link>/15-responsive-design/relative-measurements/setting-up-font-size/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/15-responsive-design/relative-measurements/setting-up-font-size/</guid>
+      <description>How should we set up font size for a responsively designed project? Current best practice (subject to change) is to use the following approach in your CSS file for your responsively designed projects:
+// main.css body { // default font-size for most browsers is 16px // setting it to 100% ensures that the base size // will conform to the browser defaults font-size: 100%; } .content { // use ems or rems for all other font-sizes font-size: 1.</description>
+    </item>
+    
+  </channel>
+</rss>

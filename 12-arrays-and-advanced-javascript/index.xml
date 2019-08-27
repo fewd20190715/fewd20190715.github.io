@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arrays &amp; Advanced Javascript on FEWD</title>
+    <link>http://example.org/12-arrays-and-advanced-javascript/</link>
+    <description>Recent content in Arrays &amp; Advanced Javascript on FEWD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 22 Jan 2017 18:04:24 -0500</lastBuildDate>
+    
+	<atom:link href="http://example.org/12-arrays-and-advanced-javascript/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Objectives</title>
+      <link>http://example.org/12-arrays-and-advanced-javascript/objectives/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>http://example.org/12-arrays-and-advanced-javascript/objectives/</guid>
+      <description> Review Arrays and introduce a couple of different ways to iterate (loop) through an array
+ Introduce the concept of $(this) and why it is useful
+ Leverage javascript knowledge to complete Rock, Paper, Scissors game
+  </description>
+    </item>
+    
+    <item>
+      <title>Agenda</title>
+      <link>http://example.org/12-arrays-and-advanced-javascript/agenda/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>http://example.org/12-arrays-and-advanced-javascript/agenda/</guid>
+      <description> Discuss arrays and collections
+ Code Along: Array Exercise
+ $(this)
+ Lab: Rock Paper Scissors
+ Discuss Final Projects with each student (5 minutes)
+  </description>
+    </item>
+    
+    <item>
+      <title>Array Overview</title>
+      <link>http://example.org/12-arrays-and-advanced-javascript/array-overview/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>http://example.org/12-arrays-and-advanced-javascript/array-overview/</guid>
+      <description>What are arrays?  A collection of objects or items &amp;ldquo;Zero-based&amp;rdquo; - positions (called indexes) start at zero Very easy way to store multiple items Arrays can hold items of different datatypes (i.e. all items in an arry don&amp;rsquo;t have to be the same datatype) Used extensively in programming  Declaring an array Two ways to declare an array
+// Declaring an empty array using the Array constructor syntax var names = new Array(); // Declaring an empty array using literal notation (preferred) var names = []; // Declaring an array using literal notation with data var names = [&#39;larry&#39;, &#39;curly&#39;, &#39;moe&#39;];  The best practice is to use the literal notation whenever possible</description>
+    </item>
+    
+    <item>
+      <title>Anonymous Functions</title>
+      <link>http://example.org/12-arrays-and-advanced-javascript/anonymous-functions/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>http://example.org/12-arrays-and-advanced-javascript/anonymous-functions/</guid>
+      <description>What are Anonymous Functions? // An anonymous function is a function without a name function(width, height){ return width * height; }; // this function can later be stored as a variable and used later in your code var area = function(width, height){ return width * height; }; // Call anonymous function stored as a variable area(4, 5); // returns 20  When should you use Anonymous Functions?  Use for code that only needs to run once within a task</description>
+    </item>
+    
+    <item>
+      <title>Looping through Arrays</title>
+      <link>http://example.org/12-arrays-and-advanced-javascript/looping-through-arrays/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>http://example.org/12-arrays-and-advanced-javascript/looping-through-arrays/</guid>
+      <description>Loops and Interation  Loops offer a quick and easy way to do something repeatedly
+   Javascript offers many different ways to loop, click here for more information
+ Using .forEach() (native javascript)  Native javascript offers a .forEach() method loops through (iterates) an array  var fruits=[“Banana”,”Apple”,”Pear”]; fruits.forEach(function(element,index){ console.log(element,index); });  JS Bin on jsbin.com
+click here for more information about the forEach() loop
+ Using $.</description>
+    </item>
+    
+    <item>
+      <title>Code Along</title>
+      <link>http://example.org/12-arrays-and-advanced-javascript/code-along/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>http://example.org/12-arrays-and-advanced-javascript/code-along/</guid>
+      <description> Code Along: Arrays Exercise  Using Sublime, open the folder called arrays_exercise (found within the starter_code) folder
+ Instructions
+ We&amp;rsquo;ll practice working with arrays by following the instructions specified in the exercise.js file   </description>
+    </item>
+    
+    <item>
+      <title>$(this)</title>
+      <link>http://example.org/12-arrays-and-advanced-javascript/this/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>http://example.org/12-arrays-and-advanced-javascript/this/</guid>
+      <description>$(this)  this one of the most misunderstood concepts in javascript this (pure javascript) refers to the owner of a function $(this) (jquery) gives you reference to uses jQuery to select the current element  Example of $(this) in use // Event that makes the &amp;lt;p&amp;gt; element disappear when it is clicked $(&#39;p&#39;).click(function(){ // $(this) refers to the jQuery element, $(p), that // the click event was called on // Tell the &amp;lt;p&amp;gt; element to hide itself $(this).</description>
+    </item>
+    
+    <item>
+      <title>Lab</title>
+      <link>http://example.org/12-arrays-and-advanced-javascript/lab/</link>
+      <pubDate>Sun, 22 Jan 2017 18:04:24 -0500</pubDate>
+      
+      <guid>http://example.org/12-arrays-and-advanced-javascript/lab/</guid>
+      <description>Lab: Rock, Paper Scissors  Using Sublime, open the folder called rock_paper_scissors (found within the starter_code) folder
+ Instructions
+ Work in pairs/groups (each student should have their own copy of the app on your computers)
+ Review the completed version of the app (found in folder called rock_paper_scissors_obfuscated) to understand how the app is expected to work
+ Plan out your approach before coding (using pseudocode, whiteboarding, etc.)</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Responsive Design on FEWD</title>
+    <link>/15-responsive-design/</link>
+    <description>Recent content in Responsive Design on FEWD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/15-responsive-design/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Agenda</title>
+      <link>/15-responsive-design/agenda/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/15-responsive-design/agenda/</guid>
+      <description> Fixed Width and Mobile Layouts
+ Responsive Design Overview
+ Viewport Meta Tag
+ Media Queries and Breakpoints
+ Grids
+ Code Along
+ Ems / Rems
+ Lab
+  </description>
+    </item>
+    
+    <item>
+      <title>Fixed Width Layouts</title>
+      <link>/15-responsive-design/fixed-width-layouts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/15-responsive-design/fixed-width-layouts/</guid>
+      <description>Fixed Width Layouts  Method of designing websites so they look the same on any sized monitor
+ Pre-dates advent of smartphones and mobile web-browsing
+ Not optimized for smaller screens
+ Uses pixels to set width of the layout
+ Still fairly common
+  Examples of Fixed Width Design  ikea.com
+ amazon.com
+  Disadvantages of Fixed Width Design  Displayed the same way regardless of screen size</description>
+    </item>
+    
+    <item>
+      <title>Progressive Enhancement</title>
+      <link>/15-responsive-design/progressive-enhancement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/15-responsive-design/progressive-enhancement/</guid>
+      <description> What is progressive enhancement?  Design for the most narrow screens first then work your way up to larger screens
+ Also referred to as Mobile-first design
+ See this article for information on progressive enhancement
+  </description>
+    </item>
+    
+    <item>
+      <title>Responsive Images</title>
+      <link>/15-responsive-design/responsive-images/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/15-responsive-design/responsive-images/</guid>
+      <description>Tips for working with Images  Start with largest version of your image and use css styling to resize to desired size (more on this next class)
+ Use max-width: 100% to prevent images from extending wider than its container
+  /* Apply to all images */ img { max-width: 100%; }  Example: Fixing the image container issue
+JS Bin on jsbin.com
+In the example above, the default size of the image extends beyond the image container.</description>
+    </item>
+    
+    <item>
+      <title>Rules of Thumb</title>
+      <link>/15-responsive-design/rules-of-thumb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/15-responsive-design/rules-of-thumb/</guid>
+      <description>Rules of Thumb for Responsive Design The following is a list of sensible guidelines to following when incorporating responsive design into your projects
+ When determining which breakpoints to use, always start with the recommended breakpoints and then add others on an as needed basis
+ Use EMs (or REMs) to make you text size scalable
+ Use Percentages or EMs/REMs for Horizontal measurements
+ Consider using EMs/REMs to dynamically adjust padding if to optimize readability of your content at different widths</description>
+    </item>
+    
+    <item>
+      <title>Code Along - Responsive Marketing Layout</title>
+      <link>/15-responsive-design/code-along-responsive-marketing-layout/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/15-responsive-design/code-along-responsive-marketing-layout/</guid>
+      <description> Code Along: Responsive Simple Marketing Layout  Using Atom, open the folder called responsive_marketing_layout_updated in your lesson_15_files folder. You will be using these files as starting off point.
+ As a class, we&amp;rsquo;ll convert this layout to a responsive layout
+  </description>
+    </item>
+    
+  </channel>
+</rss>
